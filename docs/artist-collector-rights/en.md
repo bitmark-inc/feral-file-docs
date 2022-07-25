@@ -1,0 +1,2 @@
+Artist + Collector Rights
+TBD
