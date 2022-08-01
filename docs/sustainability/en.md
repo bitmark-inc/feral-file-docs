@@ -1,4 +1,4 @@
-### FERAL FILE ON SUSTAINABILITY
+### FERAL FILE ON SUSTAINABILITY {#feral-file-on-sustainability}
 
 The mission of Feral File is to build a sustainable curated ecosystem for digital art, driven by the long-term interests of our artists, curators, and collectors. We focus on sustainability in the following areas:
 
@@ -10,7 +10,7 @@ The mission of Feral File is to build a sustainable curated ecosystem for digita
 
 Read more below to understand how we approach these issues and our commitment to sustainability. We welcome feedback from our community and will continually reassess how to improve in each area.
 
-### Economic Sustainability
+### Economic Sustainability {#economic-sustainability}
 
 The fundamental purpose of Feral File is to reclaim digital rights for artists, who have traditionally been excluded from the financial upside when their work was resold on the secondary market; and to recognize rights for digital-art collectors, who have traditionally been given very limited (or ambiguous) authority over their purchases. This creates economic sustainability through mutually beneficial partnerships between artists and collectors.
 
@@ -20,7 +20,7 @@ For collectors, Feral File has established clearly defined rights for investment
 
 The great promise of Feral File’s NFTs is something more than just letting people buy and sell digital art. This new technology holds the potential to give artists new kinds of equity in their artwork and collectors better ways to experience, share, and resell their collections. That’s our goal. You can learn more in [this Close-Ups article](https://feralfile.com/close-ups/digital-property-rights-with-bitmark-nfts-evolving-the-artist-reserved-rights-transfer-and-sale-agreement) on Feral File.
 
-### Environmental Sustainability
+### Environmental Sustainability {#environmental-sustainability}
 
 There are valid concerns over the energy costs of blockchains, which are secured by computational power. Though we believe the economic goals of Feral File are very important, we’re also aware of and working to neutralize any environmental issues.
 
@@ -30,7 +30,7 @@ However, we also want to ensure that our effect on the planet’s environment is
 
 Some of our NFTs do migrate to Ethereum, which can increase their energy cost in the long-term. We give our collectors and artists this choice, but look forward to future energy improvements on the Ethereum blockchain to further advance environmental sustainability.
 
-### Technological Sustainability
+### Technological Sustainability {#technological-sustainability}
 
 We’re also ensuring that our work improves technological sustainability. The entire Internet is built upon open infrastructure: a shared, open “commons” that benefits everyone. We have many pioneers to thank for this inheritance, from the creators of the ARPANET and the designers of TCP/IP to the originator of the Web itself.
 
@@ -40,6 +40,6 @@ We are also working closely with [Blockchain Commons](https://www.blockchaincomm
 
 You can learn more about our commitment to a better commons on [the Bitmark website](https://www.bitmark.com/about/secure-open-infrastructure/).
 
-### Conclusion
+### Conclusion {#conclusion}
 
 Fundamentally, we’re trying to build a better future at Bitmark. Feral File is doing so by empowering both artists and digital-art collectors, and in the process we’re creating technology that’s usable by anyone, so that they too can pursue some of these goals that we feel are vital to the future of the internet. Some of these technologies have environmental challenges, but with our support for environmental sustainability we intend to more than offset any costs, as we build toward even better solutions.
