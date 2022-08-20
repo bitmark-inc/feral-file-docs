@@ -76,7 +76,7 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 5.4. **Transfer.** Upon receiving payment from Collector for a Work and Artist’s instruction to do so, Bitmark will effect a transfer of the relevant Digital Property to the Collector’s Gallery Account. If the associated Artist’s Work is made available to Bitmark by the Artist for transfer to a Collector, Bitmark will use reasonable efforts to transfer a copy of the Artist’s Work to the Collector. If Collector does not receive a copy of the relevant Artist’s Work from Bitmark, Collector must look solely to Artist to acquire a copy of the relevant Artist’s Work. Users agree that (i) each transfer of Digital Property made using the Gallery Service is a transaction between the Artist and the Collector, and not a transaction with Bitmark; and (ii) Bitmark is not a party to such transaction. In order to facilitate the transfer of Artist’s Works, Bitmark may share Artist and Collector contact information, including the emails of each party. Bitmark is not responsible for what either party does with this information once transmitted by Bitmark.
 
 
-#### **6. TERM AND TERMINATION **
+#### **6. TERM AND TERMINATION**
 
 6.1. **Duration.** This Agreement will come into force as of your creation of a Gallery Account, and will continue to apply until terminated by either you or Bitmark as set out below. If you want to terminate your legal agreement with Bitmark, you may do so by emailing your request to support@feralfile.com, or through any Gallery Account termination functionality we may provide within the Gallery Service. Bitmark may at any time terminate this Agreement for any reason or no reason. Upon termination, the User’s Gallery Account will be closed and ability to log in deactivated, and all Artist’s Works transferred to the Gallery shall be returned to the Artist’s Gallery Account.
 
@@ -85,11 +85,11 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 6.3. **Public Blockhains.** Customer expressly agrees that a Public Blockchain is a distributed, publicly viewable, register of the creation and transfer of Digital Property, and any data recorded in a Public Blockchain is available to the public. 
 
 
-**7. DISCLAIMER**
+#### **7. DISCLAIMER**
 THE GALLERY SERVICES, WORK NFTS AND PUBLIC BLOCKCHAIN ARE PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE. BITMARK DISCLAIMS, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
 
-**8. LIMITATION OF LIABILITY**
+#### **8. LIMITATION OF LIABILITY**
 
 8.1. **Indemnification.** Users will indemnify, defend and hold harmless Bitmark against any claims, demands, suits or proceedings made or brought by a third party arising from or related to: (a) any Artist’s Works; (b) the use of the Gallery Service by User in violation of the Agreement, applicable laws, rules or regulations, or any applicable Bitmark documentation or posted policies; and/or (c) any disputes among or between Users and/or with any third party. 
 
@@ -98,7 +98,7 @@ THE GALLERY SERVICES, WORK NFTS AND PUBLIC BLOCKCHAIN ARE PROVIDED “AS IS” A
 8.3. **Liability Cap.** THE TOTAL LIABILITY OF BITMARK FOR DAMAGES ARISING FROM OR RELATED TO THE AGREEMENT SHALL NOT EXCEED GREATER OF THE AMOUNT PAID BY USER TO BITMARK UNDER THE AGREEMENT DURING THE THREE (3) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY, OR ONE THOUSAND DOLLARS (US$1,000). 
 
 
-**9. MISCELLANEOUS**
+#### **9. MISCELLANEOUS**
 
 9.1. **Assignment.** Users may not assign the Agreement without the other party’s prior written consent, which will not be unreasonably withheld, except to their heirs or (as to companies) their successors-in-interest by merger, acquisition, or sale of all or substantially of the User’s assets. Bitmark may assign or delegate any of its rights or obligations under this Agreement as it sees fit. Any attempt to assign the Agreement except as permitted under this Section, will be null and of no effect. Subject to the foregoing, these Gallery Terms will bind and inure to the benefit of each party’s successors and permitted assigns.
 
@@ -108,7 +108,7 @@ THE GALLERY SERVICES, WORK NFTS AND PUBLIC BLOCKCHAIN ARE PROVIDED “AS IS” A
 
 9.4. **Waiver.** The waiver of a breach of any provision of this Agreement will not operate or be interpreted as a waiver of any other or subsequent breach of that or any other provision. 
 
-9.5. **Notices. **All notices permitted or required under the Agreement shall be in writing, will reference the Agreement, and shall be delivered in person, by overnight courier or express delivery service, or by first class, registered or certified mail, postage prepaid, or by confirmed email delivery, to the address of the party specified on the Order Form or such other address as either party may specify in writing. Such notice shall be deemed to have been given upon receipt. 
+9.5. **Notices.** All notices permitted or required under the Agreement shall be in writing, will reference the Agreement, and shall be delivered in person, by overnight courier or express delivery service, or by first class, registered or certified mail, postage prepaid, or by confirmed email delivery, to the address of the party specified on the Order Form or such other address as either party may specify in writing. Such notice shall be deemed to have been given upon receipt. 
 
 9.6. **Governing Law.** Any dispute in the meaning, effect or validity of this Agreement shall be resolved in accordance with the laws of California, USA without regard to the conflict of laws provisions thereof. Any judicial proceeding to resolve claims relating to this Agreement or the Gallery Service will be brought in the federal or state courts of Los Angeles County, California. Both Bitmark and Users consent to venue and personal jurisdiction in such courts.
 
