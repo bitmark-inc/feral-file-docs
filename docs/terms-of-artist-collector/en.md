@@ -33,6 +33,7 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 #### **2.GALLERY SERVICE**
 
 2.1. **Use of the Gallery Service.**
+
 (a)	Subject to Users’ compliance with the Agreement, Bitmark will provide Users with access to and use of the Gallery Services, including the creation of Gallery Accounts for Users. Bitmark may monitor the use of the Gallery Service to ensure quality, improve Bitmark products and services, and verify compliance with the Agreement. Creating a Gallery Account requires a correct email address. Please note that any information (which does not include the User’s email address) recorded in a Public Blockchain under the Gallery Account is made permanently public.
 
 (b)	Artists must establish a Gallery Account and use the Gallery Service to record Artist’s Works in the Artist’s Gallery account as Digital Property and transfer the Digital Property to Bitmark. Bitmark will transfer the Digital Property to Collectors upon Artist’s instruction to do so. At any time prior to such transfer, an Artist may request the return to their Gallery Account of any Digital Property, and Bitmark will promptly comply. The Gallery Service provides a facility for the delivery of a copy of the Artist’s Works to the relevant Collector upon completion of a sales transaction between the Artist and Collector for such Artist’s Works, but Artists are ultimately responsible for ensuring such delivery. Artist will also provide a copy of Artist’s Works to Bitmark in a form and format suitable for display in the Gallery website, together with any information to be displayed with the Artist’s Work.
@@ -63,6 +64,7 @@ Artists expressly agree that Bitmark may identify Artists on the Gallery Service
 4.1. **User Information License.** Artist hereby grants Bitmark a royalty-free, nonexclusive, worldwide license under all of Artist’s intellectual property rights in and to (a) the Artist’s Works publicly perform, display, and distribute on and through the Gallery website the Artist’s Work in the format provided by the Artist to Bitmark for such purpose. Users hereby grant Bitmark a royalty-free, nonexclusive, worldwide license under all of the User’s intellectual property rights in and to the User’s Digital Property and Gallery Account as necessary to operate the Gallery Services as contemplated herein, and to improve and enhance the Gallery Service and Bitmark’s other offerings. To the extent that Bitmark irreversibly de-identified information so that it is not attributable to a User or any other individual, such license shall be perpetual and irrevocable as to such de-identified information for the improvement and enhancement of the Gallery Service and Bitmark’s other offerings. All rights not expressly granted herein are reserved.
 
 4.2. **Ownership; FeedbacK.** The Artist’s Works, and all intellectual property rights in or relating to any of the foregoing, is owned by Artist until transferred to a Collector; the rights in the Artist's Works after transfer to a Collector are governed by the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement). The Gallery Service and all software, data and technologies embodied in or used to provide the Gallery Service, and all intellectual property rights in or relating to any of the foregoing, is owned by Bitmark. Users may choose to submit comments, suggestions, enhancement requests, or recommendations (collectively, “**Feedback**”) about the Gallery Service. Bitmark shall have a royalty-free, worldwide, transferable, sub-licensable, irrevocable, perpetual license to use or incorporate any Feedback into the Gallery Service or other Bitmark offerings.
+
 
 #### **5. TRANSFER AND PAYMENT**
 
@@ -103,14 +105,11 @@ THE GALLERY SERVICES, WORK NFTS AND PUBLIC BLOCKCHAIN ARE PROVIDED “AS IS” A
 
 9.2. **Force Majeure.** Neither party shall be liable for any delay or failure in performance (other than non-payment of amounts owing) due to causes beyond its reasonable control. 
 
-
 9.3. **Severability.** If any part of the Agreement is held to be unenforceable or invalid, in whole or in part, by a court of competent jurisdiction, the remaining provisions of the Agreement will remain in full force and effect, and the provision affected will be construed so as to be enforceable to the maximum extent permissible by law. 
 
 9.4. **Waiver.** The waiver of a breach of any provision of this Agreement will not operate or be interpreted as a waiver of any other or subsequent breach of that or any other provision. 
 
-
 9.5. **Notices. **All notices permitted or required under the Agreement shall be in writing, will reference the Agreement, and shall be delivered in person, by overnight courier or express delivery service, or by first class, registered or certified mail, postage prepaid, or by confirmed email delivery, to the address of the party specified on the Order Form or such other address as either party may specify in writing. Such notice shall be deemed to have been given upon receipt. 
-
 
 9.6. **Governing Law.** Any dispute in the meaning, effect or validity of this Agreement shall be resolved in accordance with the laws of California, USA without regard to the conflict of laws provisions thereof. Any judicial proceeding to resolve claims relating to this Agreement or the Gallery Service will be brought in the federal or state courts of Los Angeles County, California. Both Bitmark and Users consent to venue and personal jurisdiction in such courts.
 
