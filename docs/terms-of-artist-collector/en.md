@@ -11,7 +11,9 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 
 
 1.1. “**Artist**” means a digital artist or the company to which such digital artist has assigned the Work who submits copies of their art to the Gallery Service for display to the public and sale to Collectors. Artists must establish a Gallery Account as set forth herein.
+
 1.2. “**Artist’s Work(s)**” means any digital files containing data, text, graphics, articles, photographs, images, illustrations, software, video or other and other items of content or technology placed within Artist’s Gallery Account and recorded in a Public Blockchain.
+
 1.3. “**Associated Information**” means information, other than an Artist's Work, placed in a Public Blockchain, such as descriptions of and other information about Artist’s Works.
 1.4. “**Gallery Account**” means an account in a Public Blockchain consisting of a public and private key pair, established through the Gallery Service. The public key is the “**Gallery Account Number**”.
 1.5. “**Collector**” means a purchaser of a copy of an Artist’s Work under the terms set forth herein. A Collector must establish a Gallery Account as set forth herein. 
