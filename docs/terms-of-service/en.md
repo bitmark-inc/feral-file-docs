@@ -10,7 +10,7 @@ By using the Website, you agree to be bound by this Agreement.  The term “you�
 
 You may not use the Website and you may not accept this Agreement if you are not of a legal age to form a binding contract with Bitmark.  If you are under 18, you must obtain permission from a parent or legal guardian before using the Website. Children under the age of 13 are strictly prohibited from using the Website. By using the Website, you represent and warrant to Bitmark that you have all requisite power and authority to enter into and comply with this Agreement.
 
-2. Privacy and your Personal Information
+#### 2. Privacy and your Personal Information
 
 For information about Bitmark’s data protection practices with respect to the Website, please read the Privacy Policy located at [https://feralfile.com/docs/privacy-policy](https://feralfile.com/docs/privacy-policy) which is hereby incorporated into this Agreement. This policy explains how Bitmark treats your personal information when you access Bitmark and use the Website. 
 
