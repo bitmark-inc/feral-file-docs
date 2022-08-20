@@ -1,3 +1,4 @@
+
 ### ARTIST RIGHTS
 
 When you sell your artwork as a digital edition on Feral File, the following rights are guaranteed to you by contract, and by the Feral File code:
