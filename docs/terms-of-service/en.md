@@ -102,8 +102,13 @@ Once proper bona fide infringement notification is received by the designated ag
 4. Content provider's or user's name, address, telephone number, and, if available, email address, and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the content provider's, member's or user's address is located, or, if the content provider's, member's or user's address is located outside the United States, for any judicial district in which Bitmark is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement. If a counter-notice is received by the Designated Agent, Bitmark may send a copy of the counter-notice to the original complaining party informing that person that Bitmark may replace the removed material or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider, member or user, the removed material may be replaced or access to it restored in 10 to 14 business days or more after receipt of the counter-notice, at Bitmark's discretion.
 
 Please contact Bitmark's Designated Agent to Receive Notification of Claimed Infringement at the following address:
+
 Copyright Agent
+
 Bitmark Inc.
+
 1F No.489-1, Chongyang Rd.
+
 Nangang Dist., Taipei City 115, Taiwan
+
 Email: [copyright@bitmark.com](mailto:copyright@bitmark.com)
