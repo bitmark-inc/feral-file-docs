@@ -104,10 +104,7 @@ Once proper bona fide infringement notification is received by the designated ag
 Please contact Bitmark's Designated Agent to Receive Notification of Claimed Infringement at the following address:
 
 Copyright Agent\
-Bitmark Inc.
-
-1F No.489-1, Chongyang Rd.
-
-Nangang Dist., Taipei City 115, Taiwan
-
+Bitmark Inc.\
+1F No.489-1, Chongyang Rd.\
+Nangang Dist., Taipei City 115, Taiwan\
 Email: [copyright@bitmark.com](mailto:copyright@bitmark.com)
