@@ -22,7 +22,7 @@ Like many websites, Bitmark also uses "cookie" technology to collect additional 
 
 We or our email service provider may also use “web beacons” or “tracking pixels”. Web beacons or tracking pixels are small graphic images in email messages to determine whether the messages were opened and the links were clicked. If you choose not to receive web beacons / tracking pixels in your emails, you will need to disable HTML images in your email program, but that may affect images in other emails you receive. 
 
-**Specific Service Providers **
+**Specific Service Providers**
 
 Presently, the only third-party analytics service provider we use is PostHog and Google Analytics. For their privacy practices see [https://posthog.com/privacy](https://posthog.com/privacy) and [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
