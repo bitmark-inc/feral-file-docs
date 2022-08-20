@@ -180,12 +180,12 @@ In a group auction, an artist simultaneously auctions several editions of the sa
 
 The winners are the group of highest bidders at the end of the auction. Since each bidder can only win one edition, the number of winners equals the number of editions in the auction. For example, if there are five editions in the auction, the five highest bidders will each win an edition.
 
-In the case of a tie in which more than one bidder places the same bid, earlier bids beat later bids. For example, if the five highest bids for a group auction of five editions are one $10 bid, one $9 bid, one $8 bid, and three $5 bids , the $10, $9, $8, and earliest two $5 bidders would  each win an edition, but the last $5 bidder would not.
+In the case of a tie in which more than one bidder places the same bid, earlier bids beat later bids. For example, if the five highest bids for a group auction of five editions are one $10 bid, one $9 bid, one $8 bid, and three $5 bids , the $10, $9, $8, and earliest two $5 bidders would each win an edition, but the last $5 bidder would not.
 
 
 #### What determines the price winners pay for an edition in a group auction?
 
-Winners do not necessarily end up paying their bid amounts for their editions. Instead, everyone in the winning group pays the amount of the lowest winning bid, or the “floor bid.”  Thus, for most winners, the amount they actually pay is less than what they actually bid.
+Winners do not necessarily end up paying their bid amounts for their editions. Instead, everyone in the winning group pays the amount of the lowest winning bid, or the “floor bid.” Thus, for most winners, the amount they actually pay is less than what they actually bid.
 
 For example, an artist might offer three editions of an artwork in a group auction and receive bids of $1, $2, $3, $4, and $5. The $5, $4, and $3 bids are the winners, and all three winners each pay $3 for their editions.
 
@@ -272,7 +272,7 @@ All of the artworks on Feral File can be viewed by anyone through the Feral File
 
 VIEW YOUR DIGITAL ARTWORK COLLECTION ANYTIME, ANYWHERE
 
-At home, on vacation, on the train  — never be without your digital art collection.
+At home, on vacation, on the train — never be without your digital art collection.
 
 Digital artworks you have purchased as NFTs on Ethereum, Feral File, or Tezos will automatically appear in your Autonomy.
 
