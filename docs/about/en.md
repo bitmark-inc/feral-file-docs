@@ -13,7 +13,7 @@ Feral File commissions curated exhibitions of digital artwork and we partner wit
 #### For Collectors
 
 1. Feral File makes collecting art more accessible. It embraces the edition model to offer works across a wide range of prices.
-2. We accept credit cards and cryptocurrencies. Our native cryptocurrency is USDC—you can also use Wyre to transfer ETH, XTZ,  and BTC into your Feral File wallet by visiting your Account page.
+2. We accept credit cards and cryptocurrencies. Our native cryptocurrency is USDC—you can also use Wyre to transfer ETH, XTZ, and BTC into your Feral File wallet by visiting your Account page.
 3. Take your collection with you. You can enjoy your Feral File editions with our Autonomy digital art wallet on [iOS](https://apps.apple.com/us/app/autonomy-app/id1544022728) and [Android](https://play.google.com/store/apps/details?id=com.bitmark.autonomy_client&hl=en_US&gl=US). Autonomy supports Ethereum, Bitmark, and Tezos art NFTs. View your collection on your mobile device, and display it on physical screens like projectors and tvs.
 4. Feral File editions are minted as NFTs on either the Bitmark or Tezos blockchains. You can use our Ethereum bridge to migrate your editions to an ETH wallet or sell them on other Ethereum-based marketplaces. We add migration support for each new show within one week after opening. You'll see the migration option when viewing an edition in [your collection](https://feralfile.com/collection). 
 
