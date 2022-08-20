@@ -1,11 +1,12 @@
+
 ### FERAL FILE ON SUSTAINABILITY
 The mission of Feral File is to build a sustainable curated ecosystem for digital art, driven by the long-term interests of our artists, curators, and collectors. We focus on sustainability in the following areas:
 
-  1. **Economic** — by creating sustainable relationships between artists and collectors, through evolution of the classic 1971 legal agreement “[The Artist’s Reserved Rights Transfer and Sale Agreement](https://en.wikipedia.org/wiki/The_Artist%27s_Reserved_Rights_Transfer_and_Sale_Agreement).”
+1. **Economic** — by creating sustainable relationships between artists and collectors, through evolution of the classic 1971 legal agreement “[The Artist’s Reserved Rights Transfer and Sale Agreement](https://en.wikipedia.org/wiki/The_Artist%27s_Reserved_Rights_Transfer_and_Sale_Agreement).”
 
-  2. **Environmental** — by offsetting 125% of our estimated carbon impact and supporting additional measures, with the goal of being a net-positive contributor to the planet’s environment.
+2. **Environmental** — by offsetting 125% of our estimated carbon impact and supporting additional measures, with the goal of being a net-positive contributor to the planet’s environment.
 
-  3. **Technological** — by supporting open infrastructure in the same ways that facilitated the creation of TCP/IP and the Web.
+3. **Technological** — by supporting open infrastructure in the same ways that facilitated the creation of TCP/IP and the Web.
 
 Read more below to understand how we approach these issues and our commitment to sustainability. We welcome feedback from our community and will continually reassess how to improve in each area.
 
