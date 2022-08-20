@@ -94,7 +94,7 @@ Once proper bona fide infringement notification is received by the designated ag
 2. to notify the content provider, or user that it has removed or disabled access to the material; and
 3. that repeat offenders will have the infringing material removed from the system and that Bitmark will terminate such content provider's or user's access to the Website.
 
-_Procedure to Supply a Counter-Notice._ If the content provider or user believes that the material that was removed (or to which access was disabled) is not infringing, or the content provider or user believes that it has the right to post and use such material from the copyright owner, the copyright owner's agent, or, pursuant to the law, the content provider or user, must send a counter-notice containing the following information to the Designated Agent listed below:
+__Procedure to Supply a Counter-Notice.__ If the content provider or user believes that the material that was removed (or to which access was disabled) is not infringing, or the content provider or user believes that it has the right to post and use such material from the copyright owner, the copyright owner's agent, or, pursuant to the law, the content provider or user, must send a counter-notice containing the following information to the Designated Agent listed below:
 
 1. A physical or electronic signature of the content provider or user;
 2. Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or disabled;
