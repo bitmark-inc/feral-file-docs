@@ -1,4 +1,4 @@
-### Artist Rights
+### ARTIST RIGHTS
 
 When you sell your artwork as a digital edition on Feral File, the following rights are guaranteed to you by contract, and by the Feral File code:
 
@@ -19,7 +19,7 @@ When you sell your artwork as a digital edition on Feral File, the following rig
 You can review the full terms and conditions of your rights in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) and [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector).
 
 
-### Collector Rights
+### COLLECTOR RIGHTS
 
 When you collect an artist’s digital edition on Feral File, you have the right to do the following:
 
