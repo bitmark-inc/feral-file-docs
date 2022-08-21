@@ -1,6 +1,5 @@
 
-**Feral File Privacy Policy**
-
+**Feral File Privacy Policy**\
 Last Updated: November 08, 2021
 
 Bitmark Inc. (“Bitmark”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of the Feral File website located at the https://feralfile.com/ domain and subdomains (the "Website"). Any terms not defined in this Privacy Policy are defined in the Bitmark Feral File Terms of Service, located here: https://feralfile.com/docs/terms-of-service. Please note that this Privacy Policy only applies to this Website, and does not apply to the use of Bitmark’s blockchain digital property registry and lever system for the offer of artwork for sale or the purchase of artwork. Information regarding the use and handling of personal information in connection with those activities is contained in the agreements specific to those activities, listed here: https://feralfile.com/docs/terms-of-artist-collector.
