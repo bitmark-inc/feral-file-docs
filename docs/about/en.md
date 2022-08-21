@@ -1,7 +1,7 @@
 
 Feral File commissions curated exhibitions of digital artwork and we partner with artists and institutions to explore new ways of exhibiting and collecting. Evolving from the art gallery and digital publishing models, we are borrowing the best traits of each to inform a new kind of art space. Feral File works in tandem with a community of technologists, new media artists, collectors, and curators to redefine and frame a sustainable model for the future of digital experimentation.
 
-#### For Artists
+### For Artists
 
 1. Exhibiting with Feral File enables artists to connect with a community of peers, and engage with their work. Each artist shown in a group exhibition also receives an edition from the other artists in their exhibition.
 2. We work closely with curators to produce a distinct program that is both unique to Feral File and fluid enough to contain diverse expressions and modalities.
@@ -10,7 +10,7 @@ Feral File commissions curated exhibitions of digital artwork and we partner wit
 5. Artists have access to detailed provenance, as well as automated royalties—even for cross-blockchain transactions.
 
 
-#### For Collectors
+### For Collectors
 
 1. Feral File makes collecting art more accessible. It embraces the edition model to offer works across a wide range of prices.
 2. We accept credit cards and cryptocurrencies. Our native cryptocurrency is USDC—you can also use Wyre to transfer ETH, XTZ, and BTC into your Feral File wallet by visiting your Account page.
@@ -18,7 +18,7 @@ Feral File commissions curated exhibitions of digital artwork and we partner wit
 4. Feral File editions are minted as NFTs on either the Bitmark or Tezos blockchains. You can use our Ethereum bridge to migrate your editions to an ETH wallet or sell them on other Ethereum-based marketplaces. We add migration support for each new show within one week after opening. You'll see the migration option when viewing an edition in [your collection](https://feralfile.com/collection). 
 
 
-#### For Art Enthusiasts and Researchers
+### For Art Enthusiasts and Researchers
 
 1. Feral File also acts as an archive of digital exhibitions, expressions, and ideas. Curatorial statements and press releases are valuable reference materials for the purpose of educational research. 
 2. Our publication, [Close-Ups](https://feralfile.com/close-ups), highlights conversations between curators and artists that detail processes, studio practices, and the extended possibilities of exhibiting art online. 
