@@ -1,5 +1,5 @@
 
-### FERAL FILE GALLERY TERMS FOR ARTISTS AND COLLECTORS
+FERAL FILE GALLERY TERMS FOR ARTISTS AND COLLECTORS
 
 Feral File is an online gallery for digital art made available by Bitmark Inc. (“**Bitmark**”) to enable artists to display their art, and provides a mechanism for artists to sell copies of their art to collectors on standardized terms.
 
