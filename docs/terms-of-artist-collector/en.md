@@ -6,7 +6,7 @@ Feral File is an online gallery for digital art made available by Bitmark Inc. (
 The following terms and conditions (the “**Gallery Terms**”) are a legal contract between you (“**User**” as further defined below) and Bitmark. By selecting the “agree” or “accept” option or by using the Gallery Services that are offered subject to these Service Terms, you are agreeing to be bound by these Service Terms. Please read them carefully before proceeding. Any individual subscribing to or using the Gallery Services in the name of or as part of his or her responsibilities within a company or other organization represents and warrants that he or she is authorized to and intends by those actions to bind the company or other organization to these Gallery Terms. If you have any questions please contact us at support@feralfile.com.
 
 
-#### **1. DEFINITIONS**
+### **1. DEFINITIONS**
 
 1.1. “**Artist**” means a digital artist or the company to which such digital artist has assigned the Work who submits copies of their art to the Gallery Service for display to the public and sale to Collectors. Artists must establish a Gallery Account as set forth herein.
 
@@ -30,7 +30,7 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 1.11. “**Work NFT**” means a unique record created by a Public Blockchain and containing a unique identifier associated with an Artist’s Work in a Public Blockchain (including, without limitation, as it may be subsequently migrated to another blockchain) that evidences its owner’s right to access, download and display a copy of the associated Artist’s Work.
 
 
-#### **2.GALLERY SERVICE**
+### **2.GALLERY SERVICE**
 
 2.1. **Use of the Gallery Service.**
 
@@ -49,7 +49,7 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 2.3. **Publicity.** Artists expressly agree that Bitmark may identify Artists on the Gallery Service , and in marketing materials for the Gallery Service, by name and (if applicable) by logo, as an artist displaying and offering works for sale within the Gallery Service. 
 
 
-#### **3. CUSTOMER OBLIGATIONS**
+### **3. CUSTOMER OBLIGATIONS**
 
 3.1. **Responsibilities in Using Gallery Services.** Users are responsible for: (a) maintaining the confidentiality of Gallery Account information, and any user IDs, passwords and other credentials associated with the Gallery Account, (b) use of the Gallery Service and compliance with the Agreement, (d) Digital Property, and (e) any other data Users provide to Bitmark through any mechanism. 
 
@@ -58,14 +58,14 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 3.3. **Compliance; Selection.** Users shall use the Gallery Service exclusively for proper and legal purposes, in compliance with all applicable laws and regulations, and any agreements Users may enter into with each other or third parties. Bitmark may select Artist’s Works for inclusion in the Gallery Service and remove Artist’s Works from the Gallery Service, in Bitmark’s sole discretion.
 
 
-#### **4. LICENSES AND OWNERSHIP**
+### **4. LICENSES AND OWNERSHIP**
 
 4.1. **User Information License.** Artist hereby grants Bitmark a royalty-free, nonexclusive, worldwide license under all of Artist’s intellectual property rights in and to (a) the Artist’s Works publicly perform, display, and distribute on and through the Gallery website the Artist’s Work in the format provided by the Artist to Bitmark for such purpose. Users hereby grant Bitmark a royalty-free, nonexclusive, worldwide license under all of the User’s intellectual property rights in and to the User’s Digital Property and Gallery Account as necessary to operate the Gallery Services as contemplated herein, and to improve and enhance the Gallery Service and Bitmark’s other offerings. To the extent that Bitmark irreversibly de-identified information so that it is not attributable to a User or any other individual, such license shall be perpetual and irrevocable as to such de-identified information for the improvement and enhancement of the Gallery Service and Bitmark’s other offerings. All rights not expressly granted herein are reserved.
 
 4.2. **Ownership; FeedbacK.** The Artist’s Works, and all intellectual property rights in or relating to any of the foregoing, is owned by Artist until transferred to a Collector; the rights in the Artist's Works after transfer to a Collector are governed by the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement). The Gallery Service and all software, data and technologies embodied in or used to provide the Gallery Service, and all intellectual property rights in or relating to any of the foregoing, is owned by Bitmark. Users may choose to submit comments, suggestions, enhancement requests, or recommendations (collectively, “**Feedback**”) about the Gallery Service. Bitmark shall have a royalty-free, worldwide, transferable, sub-licensable, irrevocable, perpetual license to use or incorporate any Feedback into the Gallery Service or other Bitmark offerings.
 
 
-#### **5. TRANSFER AND PAYMENT**
+### **5. TRANSFER AND PAYMENT**
 
 5.1. **Payment Processing.** Bitmark uses one or more third-party payment processors (the “Payment Processors”) to enable Collectors to use credit cards and other conventional payment mechanisms to pay for transfers of Digital Property. Bitmark’s current Payment Processors are Stripe and Wyre. The processing of payments will be subject to the terms, conditions and privacy policies of the appropriate Payment Processor, in addition to this Agreement. The terms and conditions of the Payment Processors may be found at https://stripe.com/legal and [https://www.sendwyre.com/user-agreement](https://www.sendwyre.com/user-agreement), respectively; the Payment Processors' privacy policies may be found at https://stripe.com/privacy and [https://www.sendwyre.com/privacy-policy](https://www.sendwyre.com/privacy-policy), respectively. Bitmark is not responsible for errors made by the Payment Processors, or otherwise in connection with the processing of transactions. By electing to use a Payment Processor to pay for transfers of Digital Properties, Collectors agree to make payment through that Payment Processor. Please be aware that Users are responsible for the payment of any tax(es) that may apply to such transactions. For each purchase, the Users grant Bitmark the right to correct any errors or mistakes that are made regarding the purchase price of a Work, even where Bitmark has already received payment. Any amounts paid hereunder are non-refundable.
 
@@ -76,7 +76,7 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 5.4. **Transfer.** Upon receiving payment from Collector for a Work and Artist’s instruction to do so, Bitmark will effect a transfer of the relevant Digital Property to the Collector’s Gallery Account. If the associated Artist’s Work is made available to Bitmark by the Artist for transfer to a Collector, Bitmark will use reasonable efforts to transfer a copy of the Artist’s Work to the Collector. If Collector does not receive a copy of the relevant Artist’s Work from Bitmark, Collector must look solely to Artist to acquire a copy of the relevant Artist’s Work. Users agree that (i) each transfer of Digital Property made using the Gallery Service is a transaction between the Artist and the Collector, and not a transaction with Bitmark; and (ii) Bitmark is not a party to such transaction. In order to facilitate the transfer of Artist’s Works, Bitmark may share Artist and Collector contact information, including the emails of each party. Bitmark is not responsible for what either party does with this information once transmitted by Bitmark.
 
 
-#### **6. TERM AND TERMINATION**
+### **6. TERM AND TERMINATION**
 
 6.1. **Duration.** This Agreement will come into force as of your creation of a Gallery Account, and will continue to apply until terminated by either you or Bitmark as set out below. If you want to terminate your legal agreement with Bitmark, you may do so by emailing your request to support@feralfile.com, or through any Gallery Account termination functionality we may provide within the Gallery Service. Bitmark may at any time terminate this Agreement for any reason or no reason. Upon termination, the User’s Gallery Account will be closed and ability to log in deactivated, and all Artist’s Works transferred to the Gallery shall be returned to the Artist’s Gallery Account.
 
@@ -85,11 +85,11 @@ The following terms and conditions (the “**Gallery Terms**”) are a legal con
 6.3. **Public Blockhains.** Customer expressly agrees that a Public Blockchain is a distributed, publicly viewable, register of the creation and transfer of Digital Property, and any data recorded in a Public Blockchain is available to the public. 
 
 
-#### **7. DISCLAIMER**
+### **7. DISCLAIMER**
 THE GALLERY SERVICES, WORK NFTS AND PUBLIC BLOCKCHAIN ARE PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE. BITMARK DISCLAIMS, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
 
-#### **8. LIMITATION OF LIABILITY**
+### **8. LIMITATION OF LIABILITY**
 
 8.1. **Indemnification.** Users will indemnify, defend and hold harmless Bitmark against any claims, demands, suits or proceedings made or brought by a third party arising from or related to: (a) any Artist’s Works; (b) the use of the Gallery Service by User in violation of the Agreement, applicable laws, rules or regulations, or any applicable Bitmark documentation or posted policies; and/or (c) any disputes among or between Users and/or with any third party. 
 
@@ -98,7 +98,7 @@ THE GALLERY SERVICES, WORK NFTS AND PUBLIC BLOCKCHAIN ARE PROVIDED “AS IS” A
 8.3. **Liability Cap.** THE TOTAL LIABILITY OF BITMARK FOR DAMAGES ARISING FROM OR RELATED TO THE AGREEMENT SHALL NOT EXCEED GREATER OF THE AMOUNT PAID BY USER TO BITMARK UNDER THE AGREEMENT DURING THE THREE (3) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY, OR ONE THOUSAND DOLLARS (US$1,000). 
 
 
-#### **9. MISCELLANEOUS**
+### **9. MISCELLANEOUS**
 
 9.1. **Assignment.** Users may not assign the Agreement without the other party’s prior written consent, which will not be unreasonably withheld, except to their heirs or (as to companies) their successors-in-interest by merger, acquisition, or sale of all or substantially of the User’s assets. Bitmark may assign or delegate any of its rights or obligations under this Agreement as it sees fit. Any attempt to assign the Agreement except as permitted under this Section, will be null and of no effect. Subject to the foregoing, these Gallery Terms will bind and inure to the benefit of each party’s successors and permitted assigns.
 
