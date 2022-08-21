@@ -1,5 +1,5 @@
 
-### EMPLOYEE PARTICIPATION IN FERAL FILE SALES
+#### EMPLOYEE PARTICIPATION IN FERAL FILE SALES
 
 No set of guidelines can account for every scenario. From principles, Bitmark employees may not use their knowledge or private access to guide their or others’ purchasing decisions on Feral File.
 
