@@ -1,6 +1,6 @@
 
 **Feral File Terms of Service**\
-Last Updated: November 08, 2021
+Last Updated: September 24, 2022
 
 This Agreement is between you and Bitmark Inc. (“Bitmark”) and sets forth the terms and conditions that apply to your access and use of the Feral File  website and service located at the https://feralfile.com domain and subdomains (the "Website"). Please note that this Agreement only applies to this Website, and does not apply to the use of Bitmark’s blockchain digital property registry and lever system for the offer of artwork for sale or the purchase of artwork. Agreements specific to those activities are listed here: https://feralfile.com/docs/terms-of-artist-collector.
 
@@ -56,7 +56,7 @@ Bitmark may modify this Agreement from time to time. Any and all changes to this
 
 ### 11. Governing Law and Forum for Dispute
 
-Any dispute in the meaning, effect or validity of this Agreement shall be resolved in accordance with the laws of California, USA without regard to the conflict of laws provisions thereof.  Any judicial proceeding to resolve claims relating to this Agreement or the Gallery Service will be brought in the federal or state courts of Los Angeles County, California. Both Bitmark and Users consent to venue and personal jurisdiction in such courts. 
+Any dispute in the meaning, effect or validity of this Agreement shall be resolved in accordance with the laws of Wyoming, USA without regard to the conflict of laws provisions thereof.  Any judicial proceeding to resolve claims relating to this Agreement will be brought in the federal or state courts of Cheyenne, Wyoming. Both Bitmark and Users consent to venue and personal jurisdiction in such courts. 
 
 ### 12. Contact
 
