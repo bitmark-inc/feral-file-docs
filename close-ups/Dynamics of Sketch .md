@@ -1,4 +1,4 @@
-# Dynamics of the Sketch 
+# Dynamics of Sketch
 
 On the occasion of [Simulation Sketchbook: Works in Process](https://feralfile.com/exhibitions/simulation-sketchbook-works-in-process-ayk), curator Jesse Damiani speaks to 21c Museum Director and Chief Curator Alice Gray Stites and LACMA Art + Technology Lab Program Director Joel Ferree about the dynamics of sketch and process for artists working in new media and experimental modes.
 
