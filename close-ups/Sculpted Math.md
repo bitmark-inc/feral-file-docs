@@ -8,6 +8,10 @@ On the occasion of the solo exhibition [Gray Matter](https://feralfile.com/exhib
 
 **Gaia Bobò:** I would say that I see your works as purely metalinguistics, in the sense that they always refer to sculpture itself, its mechanisms, techniques, history. They are of course within the digital discourse, but I really see how they come from traditional sculpture, and how they reflect on what sculpture is today. In a way, I think they’re challenges to explore the expansion of the notion of sculpture. 
 
+![CastRooms](https://user-images.githubusercontent.com/47554564/197995994-5741f38c-78a3-4147-96d1-691209707795.png)
+Left: View of Trajan's Column, Cast Courts, Room 46a, The West Court. Courtesy: Victoria and Albert Museum, London
+Right: Giovanni Paolo Pannini, Ancient Rome, 1857. Courtesy: Metropolitan Museum of Art, New York
+
 **Auriea:** Very much so. I’m trying to point out that fabrication is something that is incredibly prevalent in what sculpture is today. I’m just taking it and reversing it and putting it on loop. Usually the fabrication elements of 3D scanning and digital sculpting are taken as a step along the way towards a grand thing that is a physical sculpture. Whereas for me, as someone who comes from the digital, that’s absurd. So I play with that absurdity, with the absurdity in the act of taking a physical work, which is where I started all of these pieces (the components of these objects also began digital), and scanned them in, turning them into something digital, and then re-materializing that object. This circularity of materiality that happens is something that is very interesting for me conceptually. Also technically what I am doing is absurd in some ways, presenting the heavy, gray hipoly model in the browser is inefficient yet I am doing this for aesthetic reasons, for the love of 3D polygon. I am not interested in efficiency, I want the polygons enjoyed as I enjoy them, they are like frosting on a cake, they are like the facets of a complicated jewel. And you don’t have to fabricate it to truly see it. 
 
 I feel that does point to something interesting about what sculpture is today, but also to what it always has been. Sculpture has always been this transmutation of matter from clay, to a plaster, to a marble or a bronze. But now we happen to be at a time where the digital plays an enormous part in this. It also plays a role in how we encounter sculpture. Of course, there is the usual way of encountering it in a gallery space or museum. And you can look at an image of a sculpture online. But to look at a 3D object online — how is that browsable? How is that viewable? In what ways do you walk around this object? 
@@ -30,6 +34,9 @@ You have a physical object that you're scanning in, and you have the digital fil
 
 **Gaia:** I really liked that wording because it got at that sense of manipulation. This is one possibility of digital sculpture and digital interaction.
 
+![faunette](https://user-images.githubusercontent.com/47554564/197996460-89884ccb-b0d5-4e4e-8b7b-a461ccd2f479.png)
+Auriea Harvey, Faunette, 2022. From the Gray Matter series.
+
 **Auriea:** Polygons are a new material, and it’s one that I take seriously; I guess every 3D artist takes it seriously. It feels very real when you’re making it. It feels just as real as the clay that I use when I make something physical. And that’s why I say it’s magical — it’s basically sculpted math. You can view all of the vertex positions — their X, Y, and Z positions — in a text file. So it feels very much like something that’s at once there and not there, like all things digital, I guess.
 
 **Gaia:** In a way, the online is always connected with something physical, with something tangible. We see it as immaterial, but at the same time there are physical servers that are allowing us to have this Zoom conversation today. And there’s always the device…
@@ -47,6 +54,11 @@ Once they're in the computer, I could do all kinds of things to my sculptures. I
 To me, it was more important that they were physical and that when I scanned them, I picked up all of the textures from what they were made of. If it’s made of stone, if it’s made of plastic, if it’s made of clay. And I hope that in the end that gives the digital object a level of tactility that makes you want to hold it in the physical somehow.
 
 Every one of these sculptures contains a riddle that I hope that the viewer, the collector, has fun unraveling. Because to me, that’s what sculpture is for. When I see sculpture in a real space or online, I just want to sit back and look at it and understand it. 
+
+![Rodin and Twombly](https://user-images.githubusercontent.com/47554564/197996612-b1c9cc87-d435-4d68-837e-10fda0bbbf19.png)
+Left: Cy Twombly, Untitled (Funerary Box for a Lime Green Python), 1954. Courtesy: MoMA, Museum of Modern Art, New York
+Right: Auguste Rodin, The Hand of Rodin, 1917. Courtesy: Metropolitan Museum of Art, New York
+
 
 **Gaia**: This gets back to the absurdity you were talking about earlier. The sculpture gets more and more complex as you look at it, of course, But on another level, your process also highlights how in order to express meaning, sometimes we are forced to do things that are apparently useless. Like, why are you scanning this thing, if it already exists? 
 
