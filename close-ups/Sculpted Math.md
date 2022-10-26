@@ -32,10 +32,10 @@ You have a physical object that you're scanning in, and you have the digital fil
 
 **Auriea**: Yes.
 
-**Gaia:** I really liked that wording because it got at that sense of manipulation. This is one possibility of digital sculpture and digital interaction.
-
 ![faunette](https://user-images.githubusercontent.com/47554564/197996460-89884ccb-b0d5-4e4e-8b7b-a461ccd2f479.png)
 Auriea Harvey, Faunette, 2022. From the Gray Matter series.
+
+**Gaia:** I really liked that wording because it got at that sense of manipulation. This is one possibility of digital sculpture and digital interaction.
 
 **Auriea:** Polygons are a new material, and it’s one that I take seriously; I guess every 3D artist takes it seriously. It feels very real when you’re making it. It feels just as real as the clay that I use when I make something physical. And that’s why I say it’s magical — it’s basically sculpted math. You can view all of the vertex positions — their X, Y, and Z positions — in a text file. So it feels very much like something that’s at once there and not there, like all things digital, I guess.
 
