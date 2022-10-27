@@ -38,7 +38,7 @@ You have a physical object that you're scanning in, and you have the digital fil
 
 ![faunette](https://user-images.githubusercontent.com/47554564/197996460-89884ccb-b0d5-4e4e-8b7b-a461ccd2f479.png)
 “Cluster: #069” by Botto. Image courtesy of the artist and Feral File.
-Auriea Harvey, Faunette, 2022. From the Gray Matter series.
+
 
 **Gaia:** In a way, the online is always connected with something physical, with something tangible. We see it as immaterial, but at the same time there are physical servers that are allowing us to have this Zoom conversation today. And there’s always the device…
 
