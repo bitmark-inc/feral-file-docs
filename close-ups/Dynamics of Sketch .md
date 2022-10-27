@@ -6,7 +6,7 @@ On the occasion of [Simulation Sketchbook: Works in Process](https://feralfile.c
 
 [![b-0](https://user-images.githubusercontent.com/47554564/198207245-279817e3-698f-468c-8143-0fe65ae38c25.jpg)]([https://feralfile.com/artworks/david-oreilly-x66?fromExhibition=simulation-sketchbook-works-in-process-ayk](https://feralfile.com/artworks/qianqian-ye-eh3?fromExhibition=simulation-sketchbook-works-in-process-ayk))
 
-“Braiding Rage 怒辫” by Qianqian Ye. Image courtesy of the artist and Feral File.
+*“Braiding Rage 怒辫” by Qianqian Ye. Image courtesy of the artist and Feral File.*
 
 **Jesse Damiani:** Alice, you work closely with artists whose materials run the gamut of analog to digital. Can you share a bit about what you’ve observed being specific about new media artists’ relationship with their materials?
 
