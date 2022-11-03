@@ -37,15 +37,15 @@
 | 13 | 强迫性 | 随兴    |
 | 14 | 反复无常 | 高瞻远瞩   |
 | 15 | 喝茫了或嗑嗨了 <br />（追寻崇高）<br />（崇高性的监护人） | 头脑清晰（对崇高无感，像飞机驾驶员）    |
-| 16 | 包容度低 | 包容度高    |
-| 17 | 包容度低 | 包容度高    |
-| 18 | 包容度低 | 包容度高    |
-| 19 | 包容度低 | 包容度高    |
-| 20 | 包容度低 | 包容度高    |
-| 21 | 包容度低 | 包容度高    |
-| 22 | 包容度低 | 包容度高    |
-| 23 | 包容度低 | 包容度高    |
-| 24 | 包容度低 | 包容度高    |
+| 16 | 神来一笔 | 始终如一    |
+| 17 | 发狂 | 冷静    |
+| 18 | 毫无保留施展魔法 | 谨慎小心施展魔法    |
+| 19 | 搞自闭 | 好相处    |
+| 20 | 眼中只有自己 | 眼中不只有自己   |
+| 21 | 自在 | 困难    |
+| 22 | 神（与大自然为伍） | 比较难成为神（与大自然疏离）    |
+| 23 | 控制 | 放生（勿扰）    |
+| 24 | 执着（原始思维） | 有科学精神    |
 
 **JD:** I hope this exhibition gives glimpses into the practices of new media artists in part to counter the misperception that their work is automated, mostly authored by machines. Can you speak to the degree of craft and human labor involved in creating this kind of work? Or maybe to the types of engagement that these artists have with their digital/technological materials?
 
