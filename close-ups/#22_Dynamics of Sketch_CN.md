@@ -22,7 +22,33 @@
 
 |  | 艺术家在工作室时的状态  | 艺术家和他者合作时的状态  | 
 | ---------- | ------ | --------| 
-| 1 | 包容度低 | 包容度高    | 
+| 1 | 包容度低 | 包容度高 |
+| 2 | 没耐心 | 有耐心 |
+| 3 | 不爱动 | 有行动力 |
+| 4 | 死板固执 | 能屈能伸    |
+| 5 | 人人为我 | 我为人人    |
+| 6 | 配合度低 | 配合度高   |
+| 7 | 吝啬小气 | 慷慨大方    |
+| 8 | 拳脚相向 | 平心静气 |
+| 9 | 直觉为上 | 深思熟虑    |
+| 10 | 报复性偏执狂 | 宽容大爱    |
+| 11 | 傲气凌人 | 不露锋芒    |
+| 12 | 破坏性高（特别是自我破坏） | 建设性高    |
+| 13 | 强迫性 | 随兴    |
+| 14 | 反复无常 | 高瞻远瞩   |
+| 15 | 喝茫了或嗑嗨了
+（追寻崇高）
+（崇高性的监护人）
+ | 头脑清晰（对崇高无感，像飞机驾驶员）    |
+| 16 | 包容度低 | 包容度高    |
+| 17 | 包容度低 | 包容度高    |
+| 18 | 包容度低 | 包容度高    |
+| 19 | 包容度低 | 包容度高    |
+| 20 | 包容度低 | 包容度高    |
+| 21 | 包容度低 | 包容度高    |
+| 22 | 包容度低 | 包容度高    |
+| 23 | 包容度低 | 包容度高    |
+| 24 | 包容度低 | 包容度高    |
 
 **JD:** I hope this exhibition gives glimpses into the practices of new media artists in part to counter the misperception that their work is automated, mostly authored by machines. Can you speak to the degree of craft and human labor involved in creating this kind of work? Or maybe to the types of engagement that these artists have with their digital/technological materials?
 
