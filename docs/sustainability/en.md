@@ -23,11 +23,11 @@ The great promise of Feral File’s NFTs is something more than just letting peo
 
 ### Technological Sustainability
 
-We’re also ensuring that our work improves accessibility to WEB3. 
+We’re also ensuring that our work improves accessibility to web3. 
 
 Our [Autonomy](https://autonomy.io/) digital art wallet is an easy-to-use app to securely collect, view and discover digital art you love. It provides a friendly, consumer-grade experience that provides the benefits of both web 2 (UI) and web3 (decentralization, ownership) without their weaknesses.
 
-We release much of our software as open source and invite anyone to [contribute](https://docs.bitmark.com/meta/contribute-to-the-protocol). Our Web3 Go library for [Ethereum Smart Contracts](https://github.com/bitmark-inc/account-vault-ethereum), and our Feral File exhibition contracts are just a few of the projects that we’ve already made available for usage.
+We release much of our software as open source and invite anyone to [contribute](https://docs.bitmark.com/meta/contribute-to-the-protocol). Our web3 Go library for [Ethereum Smart Contracts](https://github.com/bitmark-inc/account-vault-ethereum), and our Feral File exhibition contracts are just a few of the projects that we’ve already made available for usage.
 
 We work closely with[ Blockchain Commons](https://www.blockchaincommons.com/) to create additional infrastructure, including specifications for digital-asset wallets that you control yourself. This work can be found in Autonomy, which itself is [open source](https://github.com/bitmark-inc/autonomy-client).
 
