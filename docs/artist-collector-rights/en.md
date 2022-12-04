@@ -13,11 +13,9 @@ When you sell your artwork as a digital edition on Feral File, the following rig
 
 **You’ll know when your work changes hands.** Information about your work’s provenance and subsequent sales will be recorded on a public blockchain.
 
-**You grant collectors certain rights to use, display, and resell your work.** Learn what collectors can do with your work on the Artist + Collector Rights page.
+**You grant collectors certain rights to use, display, and resell your work.** Learn what collectors can do with your work in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement).
 
 **You’ll retain these rights forever.** No matter where the future takes us, your rights as the artist are protected in perpetuity.
-
-You can review the full terms and conditions of your rights in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) and [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector).
 
 
 ### COLLECTOR RIGHTS
@@ -36,9 +34,10 @@ When you collect an artist’s digital edition on Feral File, you have the right
 
 **Remain anonymous.** While all sales are recorded publicly, you can use an alias to keep your collection private.
 
-**Respect the artist’s rights.** Feral File protects artists by forefronting their rights, just like we forefront your rights as a collector. Learn more on the Artist + Collector Rights page.
+**Respect the artist’s rights.** Feral File protects artists by forefronting their rights, just like we forefront your rights as a collector. Learn more in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement).
 
 **You’ll retain these rights forever.** Your rights are guaranteed in perpetuity until you resell or transfer ownership of the work.
 
 
-You can review the full terms and conditions of your rights in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) and [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector).
+
+*You can review the full terms and conditions of your rights in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) and [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector).*
