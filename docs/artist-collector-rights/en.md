@@ -1,7 +1,7 @@
 
 ### ARTIST RIGHTS
 
-When you sell your artwork as a digital edition on Feral File, the following rights are guaranteed to you by contract, and by the Feral File code:
+When you sell your artwork as a digital edition on Feral File, the following rights are guaranteed to you by legal contract and by the Feral File smart contract:
 
 **You own the copyright and image rights.** This means collectors can’t copy, reproduce, or make derivatives of your work—but you still can.
 
