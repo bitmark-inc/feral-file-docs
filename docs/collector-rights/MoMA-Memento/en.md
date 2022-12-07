@@ -30,7 +30,7 @@ While all sales are recorded publicly, you can use an alias to keep your collect
 ---
 **Respect the artist’s rights.**
 
-Feral File protects artists by forefronting their rights, just like we forefront your rights as a collector. Learn more in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement).
+Feral File protects artists by forefronting their rights, just like we forefront your rights as a collector. Learn more in the [Art Sale Agreement](https://feralfile.com/docs/MoMA-Memento-transfer-agreement).
 
 ---
 **You’ll retain these rights forever.**
@@ -40,4 +40,4 @@ Your rights are guaranteed in perpetuity until you resell or transfer ownership 
 ---
 
 
-*You can review the full terms and conditions of your rights in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement).*
+*You can review the full terms and conditions of your rights in the [Art Sale Agreement](https://feralfile.com/docs/MoMA-Memento-transfer-agreement).*
