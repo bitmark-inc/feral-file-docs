@@ -1,4 +1,4 @@
-## Artist + Collector Rights {{art_title}}
+## Artist + Collector Rights
 
 ### 1. Artist Rights
 
