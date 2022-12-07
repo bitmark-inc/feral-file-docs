@@ -19,7 +19,7 @@
 ### 2. TRANSFER OR PURCHASE AND SALE.
 Collector hereby receives the transfer of the Memento NFT from Bitmark, or from another Collector, subject to all the covenants herein set forth. By accepting such transfer Collector agrees to all terms and conditions set forth in this Memento Transfer Agreement.
 
-### 3. FUTURE TRANSFERS:
+### 3. FUTURE TRANSFERS.
 Collector covenants that in the event Collector shall hereafter sell, give, grant, barter, exchange, assign, transfer, convey or alienate the Memento NFT in any manner whatsoever or if the Memento NFT shall pass by inheritance or bequest or by operation of law, or if the Memento NFT shall be destroyed and insurance proceeds paid therefor, Collector or Collector's personal representative shall:
 
 (a) Record such event in a Public Blockchain and, through the Public Blockchain and any other contact method provided by Bitmark, and notify Bitmark within thirty days of such transfer, distribution, or payment of insurance proceeds, and shall
@@ -41,7 +41,7 @@ The parties intend that each and every transfer of the Memento be recorded in a 
 ### 8. LICENSE.
 Subject to Collector’s compliance with this Agreement, The Museum of Modern Art (“**MoMA**”) and Artist grant to Collector, solely for so long as Collector owns a Memento NFT, the worldwide, non-exclusive, non-transferable and non-assignable (except to the transferee of Collector’s Memento NFT), non-sublicensable right to (i) access, view, and display the Memento associated with such Memento NFT, solely for Collector’s own personal, non-commercial use, (ii) list such Memento NFT for sale or transfer on an online NFT platform that cryptographically verifies that Collector are the actual owner of the Memento NFT being listed, and (iii) list such Memento NFT for auction or sale through an auction house and include the associated Memento in the auction listings or catalogues for such purpose. 
 
-### 9. NON-DESTRUCTION:
+### 9. NON-DESTRUCTION.
 Collector covenants that Collector will not intentionally destroy, damage, alter, modify or change the Memento in any way whatsoever.
 
 ### 10. NOTICE.
