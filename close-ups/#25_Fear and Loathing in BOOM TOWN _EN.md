@@ -4,7 +4,7 @@ On the occasion of the solo exhibition [BOOM TOWN](https://feralfile.com/exhibit
 
 ---
 
-**You talk about BOOM TOWN as a kind of virtual town in the metaverse that is vacant at the start of the exhibition, but populated over time by those who collect the works. What does it mean to be a citizen of BOOM TOWN? **
+**You talk about BOOM TOWN as a kind of virtual town in the metaverse that is vacant at the start of the exhibition, but populated over time by those who collect the works. What does it mean to be a citizen of BOOM TOWN?**
 
 Haha, I love this question… I like thinking about the first time I went to silicon valley — it was a few years ago visiting a friend who was hired to work on some VR projects at Facebook, who had invited me down to eat a free lunch with him. Facebook’s campus was kind of incredible in the way it actually felt like a super tidy town square with a giant LED billboard in the center where it was rumored to be the nexus for occasional company-wide inspirational lectures by the chief. I don’t know why it took me so long to understand this, but it was there that I realized Silicon Valley was a purely notional place. Does it even exist on a map? It certainly exists in spirit. The idea of Silicon Valley previously conjured in me a dry desert expanse with a glassy set of cities sprawled along its valley floor with a not so distant mineral extraction operation providing the silicon for our technologies. It was there at Facebook headquarters, eating some decent curry and drinking a complimentary kale smoothie, that I realized how wrong I was with that geological daydream.
 
@@ -26,7 +26,7 @@ About technical limitations — I find it interesting how the limited palette of
 
 About a decade ago, I found an emulator to revisit these old games and I was struck by how different they felt on modern technology… how the glow of phosphor in our old cathode ray tubes was replaced with the crispy precision of liquid crystal… how the pixels looked so crunchy and the blacks and whites felt so cold. BOOM TOWN’s aesthetic was born out of my interest in pushing these translations further. In designing an artwork that’s meant to continuously evolve over a decade, I think a lot about how unstable the material of digital media is. I’m curious how these pieces will look when we finally get those holographic displays Gene Youngblood promised us 50 years ago.
 
-**Video games are an enduring reference point and influence on your work, and I know you’re also currently in a PhD program in Critical Game Design. Do you think of BOOM TOWN as a kind of game? If so, what kind of game is it? And how do we play? **
+**Video games are an enduring reference point and influence on your work, and I know you’re also currently in a PhD program in Critical Game Design. Do you think of BOOM TOWN as a kind of game? If so, what kind of game is it? And how do we play?**
 
 In the academic discipline of game studies, there’s this idea of “the magic circle” that people like to talk about. The basic idea is that games exist both inside and outside of reality — in a liminal space where the messy logic of life is temporarily simplified for the goal of playing at it. People who cheat at a game are still operating inside this magic circle, but a full-on spoilsport breaks this circle and forces a leakage that I find really interesting.
 
