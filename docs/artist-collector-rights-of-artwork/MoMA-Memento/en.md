@@ -31,7 +31,7 @@ When you collect an artist’s digital edition on Feral File, you have the right
 
 **Loan or lease the work.** You may grant others the temporary right to display the work.
 
-**Resell or transfer the work.** You are entitled to transfer your rights to the work to another collector or entity. Keep in mind that if you resell or otherwise receive compensation for the transfer (or loss) of the work, the artist, Feral File, and in certain cases other involved parties must be paid a percentage of the amount you receive, as stated in the collector rights disclosure presented to you before purchase of the work.
+**Resell or transfer the work.** You are entitled to transfer your rights to the work to another collector or entity. Keep in mind that if you resell or otherwise receive compensation for the transfer (or loss) of the work, the artist must be paid 10%, Feral File 5%, and MoMA 5% of the amount you receive.
 
 **Remain anonymous.** While all sales are recorded publicly, you can use an alias to keep your collection private.
 
