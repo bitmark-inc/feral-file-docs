@@ -1,5 +1,3 @@
-## Memento Transfer Agreement
-
 ### 1. DEFINITIONS.
 
 **“Artist”** means Refik Anadol and MoMA, the digital artist who created the Memento and/or the company to which such digital artist has assigned the Memento (or after the initial sale or transfer of the Memento, the right to receive payments associated with the Memento).
