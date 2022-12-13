@@ -56,7 +56,7 @@ The time of the bid determines which edition number the bidder wins. Earlier win
 
 #### I’m an artist. Can I sell my work on Feral File?
 
-Feral File artists are selected for each exhibition by that show’s curator. We don’t currently have a way for artists to upload work directly to Feral File or to be considered for selection by curators. However, if you’re an artist interested in joining our community, we welcome you to join the [Feral File Discord](https://discord.gg/Wm2ZvGSxqg).
+Feral File artists are selected for each exhibition by that show’s curator. We don’t currently have a way for artists to upload work directly to Feral File or to be considered for selection by curators. However, if you’re an artist interested in joining our community, we welcome you to join the [Feral File Discord](https://discord.gg/QVjjMzqzPJ).
 
 #### I’m a curator. How can I curate a future exhibition?
 
