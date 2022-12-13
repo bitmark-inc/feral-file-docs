@@ -60,4 +60,4 @@ Feral File artists are selected for each exhibition by that show’s curator. We
 
 #### I’m a curator. How can I curate a future exhibition?
 
-Become part of our next wave of curators through our open call for proposals.[ Learn more about our submissions process here](https://docs.google.com/document/d/1jHSk_CmNhFTA2JeE8WUTrOiiaUruhFvUk1URS7SpyOU/edit) and the next open call in our dedicated [Discord channel](https://discord.gg/m4ub7f3czz).
+Become part of our next wave of curators through our open call for proposals.[ Learn more about our submissions process here](https://docs.google.com/document/d/1jHSk_CmNhFTA2JeE8WUTrOiiaUruhFvUk1URS7SpyOU/edit) and the next open call in our dedicated [Discord channel](https://discord.com/channels/768706944097058828/1050156754857635881).
