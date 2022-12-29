@@ -1,4 +1,4 @@
-# 惧恨「旺来镇」
+# 惧恨「旺来镇」（译注1）
 
 艺术家彼得．伯尔（Peter Burr）藉个展「「旺来镇」」（BOOM TOWN）推出之际，与策展人茱莉亚．卡根斯基（Julia Kaganskiy）浅谈虚拟城镇的规划、MacPaint与SimCity的影响，以及区块链上的时间。
 
