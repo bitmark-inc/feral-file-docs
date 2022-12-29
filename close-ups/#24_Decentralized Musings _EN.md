@@ -3,7 +3,7 @@
 
 Organized in partnership with the Buffalo AKG Art Museum, the exhibition [Peer to Peer](https://feralfile.com/exhibitions/peer-to-peer-pjb) staged an exchange between the artists in the show and their historical “peers” in the AKG’s renowned collection of modern and contemporary art. The show’s concept played, of course, on the idea of “peer to peer” (p2p) networks, a decentralized method of file-sharing wherein users can send and receive files directly between computers. Especially with the rise of blockchains and web3, p2p has become a metaphor for a range of technologies, ideologies, and visions of the future. Curator Tina Rivers Ryan asked the artists in the show a simple question: **_What does p2p mean to you? _**We’ve gathered their responses below.
 
-[Image]
+![Sarah-Friend](https://user-images.githubusercontent.com/47554564/209980292-0812266e-7ac9-45be-b123-59e79fd015cc.png)
 “Evolutionary Games and Spatial Chaos, Letters to Nature, 1992” by Sarah Friend. Image courtesy of the artist and Feral File.
 
 “When I hear ‘p2p,’ the first thing I think of is software architecture. Typically, applications on the internet have a client/server model — the client (think: your web browser) requests data and the server (think: some company with a website) provides it. Peer to peer is different. In peer to peer software, each client in turn requests and provides data to other clients. The network topology is flat. This is related to what people mean these days when they talk about ‘decentralization’ — though there are a lot of nuances to that conversation that are important to hang onto. For example, fighting the tendency to conflate technical decentralization with decentralization of power.
@@ -15,7 +15,7 @@ The peer to peer software most people are most familiar with is BitTorrent. I ca
 
 In this way we are forever in dialogue with our peers across time and space. Information flows like electrical current, there is no longer separation between then and now. We are the torchbearers, lighting the walls of the cave with pregnant circuits. Hearts ablaze and data ignited, we begin to see our next steps.” — [Sarah Zucker](https://feralfile.com/artworks/sarah-zucker-tf6?fromExhibition=peer-to-peer-pjb)
 
-[Image]
+![Rhea-Myers](https://user-images.githubusercontent.com/47554564/209980321-238cc2e4-a317-4420-8e5e-a867c2d90bd7.png)
 “Titled (Information as Property as Art) [Ethereum Null Address]” by Rhea Myers. Image courtesy of the artist and Feral File.
 
 “Marcel Duchamp said that ‘art is a game between all people of all periods.’ That's a good description of peer-to-peer relationships. They are a form of anarchy in which, whatever the social and economic reality of artmaking, we can all play the game of art with whoever we choose. And we can do so without being thwarted by the untrustworthy intermediaries of ‘trusted third parties,’ described in Satoshi Nakamoto’s whitepaper. Art (or artists) therefore provides a social model for p2p, and p2p provides a technological and economic instantiation of that model for artists to build on.” — [Rhea Myers](https://feralfile.com/artworks/rhea-myers-nbn?fromExhibition=peer-to-peer-pjb)
