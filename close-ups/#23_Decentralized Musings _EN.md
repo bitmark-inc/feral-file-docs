@@ -1,0 +1,58 @@
+# Decentralized Musings
+## A collective interview with the artists of Peer to Peer 
+
+Organized in partnership with the Buffalo AKG Art Museum, the exhibition [Peer to Peer](https://feralfile.com/exhibitions/peer-to-peer-pjb) staged an exchange between the artists in the show and their historical “peers” in the AKG’s renowned collection of modern and contemporary art. The show’s concept played, of course, on the idea of “peer to peer” (p2p) networks, a decentralized method of file-sharing wherein users can send and receive files directly between computers. Especially with the rise of blockchains and web3, p2p has become a metaphor for a range of technologies, ideologies, and visions of the future. Curator Tina Rivers Ryan asked the artists in the show a simple question: **_What does p2p mean to you? _**We’ve gathered their responses below.
+
+
+### 
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+“Evolutionary Games and Spatial Chaos, Letters to Nature, 1992” by Sarah Friend. Image courtesy of the artist and Feral File.
+
+“When I hear ‘p2p,’ the first thing I think of is software architecture. Typically, applications on the internet have a client/server model — the client (think: your web browser) requests data and the server (think: some company with a website) provides it. Peer to peer is different. In peer to peer software, each client in turn requests and provides data to other clients. The network topology is flat. This is related to what people mean these days when they talk about ‘decentralization’ — though there are a lot of nuances to that conversation that are important to hang onto. For example, fighting the tendency to conflate technical decentralization with decentralization of power.
+
+
+### The peer to peer software most people are most familiar with is BitTorrent. I came of age in the early 2000s and BitTorrent (and the music industry wars it prompted) was a really formative time. I'll admit I was a torrent queen. Ironically, ideas about how content should move online (information wants to be free), strong anti-DRM stances, and the resulting artist loss of income caused by torrenting are all still visible culturally in the NFT wars of 2021. Indeed, many web3 norms — including NFTs — can be seen as reactions to this historical era. Which of course prompts the question: which unintended future consequences of what we're building now will the next generation of ‘the web’ position itself to correct?” — [Sarah Friend ](https://feralfile.com/artworks/s-friend-rpw?fromExhibition=peer-to-peer-pjb)
+
+“P2P is a vision of cultural egalitarianism — though each of us contributes a unique flavor, we hold equal standing within our network. This is the moment we find ourselves in: our nervous systems reach out to one another, attempting to weave a web to ensure our mutual survival in the face of an increasingly precarious future.
+
+In this way we are forever in dialogue with our peers across time and space. Information flows like electrical current, there is no longer separation between then and now. We are the torchbearers, lighting the walls of the cave with pregnant circuits. Hearts ablaze and data ignited, we begin to see our next steps.” — [Sarah Zucker](https://feralfile.com/artworks/sarah-zucker-tf6?fromExhibition=peer-to-peer-pjb)
+
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.png "image_tooltip")
+
+
+“Titled (Information as Property as Art) [Ethereum Null Address]” by Rhea Myers. Image courtesy of the artist and Feral File.
+
+“Marcel Duchamp said that ‘art is a game between all people of all periods.’ That's a good description of peer-to-peer relationships. They are a form of anarchy in which, whatever the social and economic reality of artmaking, we can all play the game of art with whoever we choose. And we can do so without being thwarted by the untrustworthy intermediaries of ‘trusted third parties,’ described in Satoshi Nakamoto’s whitepaper. Art (or artists) therefore provides a social model for p2p, and p2p provides a technological and economic instantiation of that model for artists to build on.” — [Rhea Myers](https://feralfile.com/artworks/rhea-myers-nbn?fromExhibition=peer-to-peer-pjb)
+
+“I’ve been collaborating with Pindar Van Arman and Justin Highland on a contract for artists to enable sovereign drops of large serial 1/1s. The idea is something between artists’ fine art editions and PFPs where families of pieces are released together. The peer to peer aspect is in sovereignty — although facilitated by a group or platform, the artist controls the contract and flow of funds. In addition, the contract will enable its holder to block platforms that do not support artists’ royalties. The need for this was inspired by Opensea’s new approach to royalty enforcement, which requires artists to dip into coding to change their existing contract and list prohibited exchanges. Their new approach is not sovereign — Opensea controls the marketplaces on which the work can be traded. If Opensea went out of business, it is not clear what would happen to the NFTs and who or what entity would control where they could be sold. Our approach also includes a “dead man’s switch” so that if the list is not updated after a certain period of time, the contract opens to all marketplaces.”  — [Anne Spalter](https://feralfile.com/artworks/anne-spalter-nvy?fromExhibition=peer-to-peer-pjb)
+
+
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.png "image_tooltip")
+
+
+“Swim” by Entangled Others. Image courtesy of the artist and Feral File.
+
+“There is a useful question to be found in the idea of a peer to peer network, namely, who can the Other be? We might assume that these peers are similar, that the daemons that represent and facilitate the interconnected us are but proxies for kin. The technological context of many of our networks strengthens this intuition, but cannot fully assuage that the Other might not be as familiar, that there is space for something alien we might see ourselves connected to.
+
+To become part of a network is to increase our contact surface, experiencing our interconnectedness with the world that surrounds us, that each network we create or join can be a stepping stone to existing as part of something more-than-human.” — [Entangled Others](https://feralfile.com/artworks/sofia-crespo-u3w?fromExhibition=peer-to-peer-pjb)
+
+“Peer to peer networks have a point of failure, they require popularity, more than just a few seeders, or they cannot successfully download. Let us hope it is never so with art. The best artworks often are the pieces which are misunderstood at first, take the familiarity which comes with time, or the maturity, to understand. Quite often, great art disappears from public view and resurfaces when its time has come. 
+
+I think all the artists in this show have been part of a significant cultural moment in art history, and now at the launch things are shifting. Perhaps p2p is a statement that, no matter what happens next, we are all linked, and stronger together: with our ancestors in art and our peers today in the digital. My hope is that the signal we transmit is strong enough that it will be there for later artists to pick up.” — [Auriea Harvey](https://feralfile.com/artworks/auriea-harvey-9kg?fromExhibition=peer-to-peer-pjb) 
+
+“I like it when artists can make artworks using different infrastructure to reflect what’s possible in different environments. In my own practice, I’ve worked with an expanded notion of what p2p can mean – communally reimagining the history of the internet, as in “Dotcom Seance,” my collaboration with Guile Twardowski (for example), or using protocols inspired by distributed decision-making for curating. Even when I’m not engaging directly with a p2p-informed technical layer, I have worked in ways that rhyme with some aspects of it. My project for Feral File/AKG’s Peer to Peer takes up these questions through different forms of peer ownership and adjacency, in a dynamic NFT that reflects a Title Deed of a landscape painting. I’m excited by the way that other artists in this context and others are working along these lines, too — taking a wider view on what p2p can mean and making forms of art that, without p2p technology, otherwise couldn’t exist.”— [Simon Denny](https://feralfile.com/artworks/simon-denny-ihd?fromExhibition=peer-to-peer-pjb)
