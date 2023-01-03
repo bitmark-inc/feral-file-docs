@@ -5,7 +5,7 @@ On the occasion of the solo exhibition [BOOM TOWN](https://feralfile.com/exhibit
 ---
 
 ![FF-025-APARTMENT BLOCK](https://user-images.githubusercontent.com/47554564/206232095-8776147e-4e13-4d87-b87a-fdc9370a27f1.png)
-“APARTMENT BLOCK” by Peter Burr. Image courtesy of the artist and Feral File.
+*“APARTMENT BLOCK” by Peter Burr. Image courtesy of the artist and Feral File.*
 
 **You talk about BOOM TOWN as a kind of virtual town in the metaverse that is vacant at the start of the exhibition, but populated over time by those who collect the works. What does it mean to be a citizen of BOOM TOWN?**
 
@@ -22,7 +22,7 @@ Currently I feel like a lonely god who hit the pause button on their pocket univ
 On the outskirts are two large structures — on one end of town sits a power plant sustaining the pulse of the place. On the other end is a luxury home with a sweet infinity pool built into its low western balcony. Between these large bookending structures spans a multitude of middle class living, including office space, shopping zones, and just enough apartment blocks for people to sustain our small town. BOOM TOWN isn’t meant for everybody, and I wonder if its scarce chance of expansion will cause the real estate values to skyrocket and early landlords reap great benefits. That was the mood when this town went under construction six months ago, anyway.
 
 ![FF-025-FACTORY](https://user-images.githubusercontent.com/47554564/206232218-5fdd0c03-4add-4ddd-bb4c-a1ea20182c8a.png)
-“FACTORY” by Peter Burr. Image courtesy of the artist and Feral File.
+*“FACTORY” by Peter Burr. Image courtesy of the artist and Feral File.*
 
 **You’ve developed a really distinct, signature visual style that is obviously in dialogue with the early 8-bit video games you grew up playing, but it also seems to be intimately concerned with the materiality of digital media — its technical limitations, its artifacts. How did you start to develop your aesthetic and the intricate process you now use to create works like BOOM TOWN?**
 
@@ -33,7 +33,7 @@ About technical limitations — I find it interesting how the limited palette of
 About a decade ago, I found an emulator to revisit these old games and I was struck by how different they felt on modern technology… how the glow of phosphor in our old cathode ray tubes was replaced with the crispy precision of liquid crystal… how the pixels looked so crunchy and the blacks and whites felt so cold. BOOM TOWN’s aesthetic was born out of my interest in pushing these translations further. In designing an artwork that’s meant to continuously evolve over a decade, I think a lot about how unstable the material of digital media is. I’m curious how these pieces will look when we finally get those holographic displays Gene Youngblood promised us 50 years ago.
 
 ![FF-025-SHOPPING PLAZA](https://user-images.githubusercontent.com/47554564/206232572-f54e43af-da0e-4ba7-a735-9b9e2fe61d21.png)
-“SHOPPING PLAZA” by Peter Burr. Image courtesy of the artist and Feral File. 
+*“SHOPPING PLAZA” by Peter Burr. Image courtesy of the artist and Feral File.* 
 
 **Video games are an enduring reference point and influence on your work, and I know you’re also currently in a PhD program in Critical Game Design. Do you think of BOOM TOWN as a kind of game? If so, what kind of game is it? And how do we play?**
 
