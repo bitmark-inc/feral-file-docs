@@ -1,6 +1,6 @@
 **Download the work.**
 
-As a collector, you’ll have access to a permanent link where you can download the work’s original, full-resolution files and technical details.
+As a collector, you'll have access to a permanent link where you can download the work’s original, full-resolution files and technical details on [feralfile.com](https://feralfile.com).
 
 ---
 **Display the work.**
