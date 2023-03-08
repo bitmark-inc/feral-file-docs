@@ -5,7 +5,7 @@ Feral File commissions curated exhibitions of digital artwork and we partner wit
 
 1. Exhibiting with Feral File enables artists to connect with a community of peers, and engage with their work. Group exhibitions frequently feature trades in which each artist receives an artist edition (AE) from the other artists in their exhibition.
 2. We support a wide array of media formats, so that artists can create in the medium and fidelity they choose. Feral File supports minting on Ethereum or Tezos.
-3. Feral File makes it easy for both artists and collectors to understand their rights. We have evolved the pioneering 1971 [“Artist's Reserved Rights Transfer and Sale Agreement”](https://feralfile.com/close-ups/digital-property-rights-with-bitmark-nfts-evolving-the-artist-reserved-rights-transfer-and-sale-agreement) for the digital age, using smart contacts to record each edition, provenance and collect royalties – even for cross-blockchain transactions.
+3. Feral File makes it easy for both artists and collectors to understand their rights. We have evolved the pioneering 1971 [“Artist's Reserved Rights Transfer and Sale Agreement”](https://feralfile.com/close-ups/digital-property-rights-with-bitmark-nfts-evolving-the-artist-reserved-rights-transfer-and-sale-agreement) for the digital age, using smart contracts to record each edition, provenance and collect royalties – even for cross-blockchain transactions.
 
 ### For Collectors
 
