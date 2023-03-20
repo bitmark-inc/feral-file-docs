@@ -72,7 +72,7 @@ I think a lot of people thought Lee was wasting his time. Luchita mentioned she 
 
 This pull between abstraction and figuration is consistent throughout Lee’s career. Lee considered it a battle between a sense of pure abstraction and a need for some kind of image. Lee found inspiration in patterns found in nature which are representational yet appear abstract. It’s like a need for an element of familiarity that grounds the abstraction. 
 
-<img width="1296" alt="LMSP7" src="[https://user-images.githubusercontent.com/47554564/225853909-4f6ab455-1b87-46e4-a522-75718b801a93.png](https://user-images.githubusercontent.com/47554564/226231735-8550829b-9643-4b91-86f4-a791a23a6abe.jpg)">“LMSP7.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
+<img width="1296" alt="LMSP7" src="https://user-images.githubusercontent.com/47554564/226231735-8550829b-9643-4b91-86f4-a791a23a6abe.jpg">“LMSP7.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
 
 **The color palette of his physical works is very different from the color palette of his digital works. If you didn’t know better, you could easily locate his digital work in our time. How did Mullican deal with color? Did he follow a color theory that he stayed true to?**
 
