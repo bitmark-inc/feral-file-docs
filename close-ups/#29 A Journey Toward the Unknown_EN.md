@@ -1,6 +1,6 @@
 # A Journey Toward the Unknown
 
-On the occasion of [LeeMullican.PCX](https://feralfile.com/exhibitions/leemullican-pcx-ff8), curator Anika Meier discusses early computer art and the journey and legacy of the pioneer Lee Mullian with Cole Root, the director of the Estate of Lee Mullican. 
+On the occasion of [LeeMullican.PCX](https://feralfile.com/exhibitions/leemullican-pcx-ff8), curator Anika Meier discusses early computer art and the journey and legacy of the pioneer Lee Mullican with Cole Root, the director of the Estate of Lee Mullican. 
 
 ---
 
