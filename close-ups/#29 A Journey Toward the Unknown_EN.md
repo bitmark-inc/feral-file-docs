@@ -44,7 +44,8 @@ So, I do a lot of different things. Our team is small and we go from working wit
 
 We just moved the estate to a new facility we call HQ or Hurtado-Mullican Head Quarters so a lot of my work lately has been overseeing a physical move and remodel of the space. It’s the first time all of the family’s artwork, library, and collection have been in one place. We’re excited to open the space to researchers and fans. We have our own “gallery” walls to have viewings. I hope we can also activate the space in other ways as it develops. 
 
-<img width="1296" alt="LM4-9" src="https://user-images.githubusercontent.com/47554564/225853212-878b5cc6-df60-4ff9-9f71-aaf310d13cf3.jpg">“LM4-9.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
+<img width="1296" alt="LM4-9" src="https://user-images.githubusercontent.com/47554564/225853212-878b5cc6-df60-4ff9-9f71-aaf310d13cf3.jpg">
+“LM4-9.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
 
 **How extensive is Lee Mullican’s work? Do physical or digital works predominate?**
 
@@ -62,7 +63,8 @@ Two decades later I was suddenly aware there then was a new technology but I was
 
 These physical components offered programs that allowed an artist to draw with line, pattern, geometric shapes, as circle, oval, rectangles, or immediately change color for freed shape, line. What was there could be replaced in an instant. I found that beyond what one thought, the computer as being hard-lined, analytical, and predictable, it was indeed a medium fueled with the automatic, enabled by chance, and accident, discovery of new ways of making imagery. Imagine being able to paint in sweeping gestures with a pattern, throwing out thousands of dots and blots of color that could be cured or erased or changed or kept on a disk to be brought back for further change in the instant or in a matter of weeks or years. I discovered all of this once I was laced into the UCLA Design Research Project and given a computer that would perform for me. This was the fall of 1986.”
 
-<img width="1296" alt="LM10-8" src="https://user-images.githubusercontent.com/47554564/225853542-eb7b6f88-2794-4e99-890f-a10c3789ccda.jpg">“LM10-8.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
+<img width="1296" alt="LM10-8" src="https://user-images.githubusercontent.com/47554564/225853542-eb7b6f88-2794-4e99-890f-a10c3789ccda.jpg">
+“LM10-8.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
 
 **What were the reactions to his digital work back then?**
 
@@ -72,7 +74,8 @@ I think a lot of people thought Lee was wasting his time. Luchita mentioned she 
 
 This pull between abstraction and figuration is consistent throughout Lee’s career. Lee considered it a battle between a sense of pure abstraction and a need for some kind of image. Lee found inspiration in patterns found in nature which are representational yet appear abstract. It’s like a need for an element of familiarity that grounds the abstraction. 
 
-<img width="1296" alt="LMSP7" src="https://user-images.githubusercontent.com/47554564/226231735-8550829b-9643-4b91-86f4-a791a23a6abe.jpg">“LMSP7.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
+<img width="1296" alt="LMSP7" src="https://user-images.githubusercontent.com/47554564/226231735-8550829b-9643-4b91-86f4-a791a23a6abe.jpg">
+“LMSP7.PCX” by Lee Mullican. Courtesy of Feral File and the Estate of Lee Mullican. 
 
 **The color palette of his physical works is very different from the color palette of his digital works. If you didn’t know better, you could easily locate his digital work in our time. How did Mullican deal with color? Did he follow a color theory that he stayed true to?**
 
