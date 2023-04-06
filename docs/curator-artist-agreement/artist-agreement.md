@@ -8,8 +8,6 @@ Each Feral File exhibition starts with a curator, but the exhibitions are about 
 
 **Below is a summary of your responsibilities. Due dates for all tasks will be shared at least two months in advance. Failure to complete tasks on time may delay the exhibition or force the exhibition to continue without your participation.**
 
-
-
 1. Work with the curator to define one or more artworks to edition for Feral File. There may be an online studio visit to meet and discuss the exhibition and your practice. 
 2. Provide the curator with a short biography for them to edit.
 3. Work collectively with the curator and other artists (if applicable) to determine the quantity (1 of N) and price for the editions for the exhibition. Each edition in the exhibition will have the same price and edition number.
@@ -28,35 +26,25 @@ Each Feral File exhibition starts with a curator, but the exhibitions are about 
 
 For these responsibilities, we agree to the following compensation:
 
-
-
-* Primary Sale
-    * Artist in Group Exhibition: You receive 66.67% (⅔) of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
-    * Artist in Solo Exhibition:  You receive 83.33% (5⁄6) of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
-    * Note: transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
-* Secondary Sale: You receive 10% of the purchase price, minus transaction fees.
-* Artist Swap in Group Exhibitions:
-    * In group exhibitions, each artist will produce an artwork that is part of the “artist swap” for that exhibition. Each artwork in the swap has the same edition number and price and is sold the same way; artist editions (AE) of each artwork are  produced and swapped with every other artist. This does not preclude artists from selling other works in the exhibition outside the artist swap.
-    * Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement), under which you will pay the artist 10% of the selling price, pay Feral File 5% of the selling price, and will retain 85% of the selling price, minus transaction fees. Payments from secondary markets are received by Feral File and then distributed to the artist.
+- Primary Sale
+    - Artist in Group Exhibition: You receive {66.67%} (⅔) of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
+    - Artist in Solo Exhibition:  You receive {83.33%} (5⁄6) of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
+    - Note: transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
+- Secondary Sale: You receive {10%} of the purchase price, minus transaction fees.
+- Artist Swap in Group Exhibitions:
+    - In group exhibitions, each artist will produce an artwork that is part of the “artist swap” for that exhibition. Each artwork in the swap has the same edition number and price and is sold the same way; artist editions (AE) of each artwork are  produced and swapped with every other artist. This does not preclude artists from selling other works in the exhibition outside the artist swap.
+    - Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement), under which you will pay the artist {10%} of the selling price, pay Feral File {5%} of the selling price, and will retain 85% of the selling price, minus transaction fees. Payments from secondary markets are received by Feral File and then distributed to the artist.
 
 Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card). You can use our worksheets to understand how this breaks down (please make a copy to edit the figures):
 
-
-
-* Group Exhibition: [Artist Compensation Model - Feral File Group Exhibition](https://docs.google.com/spreadsheets/d/1Q7NpFkZb1te2I-TeN-eTamVo-vYLGELYmMK3XzkFCec/edit?usp=sharing) 
-* Solo Exhibition: [Artist Compensation Model - Feral File Solo Exhibition](https://docs.google.com/spreadsheets/d/1cAfes-TPWD3bs9sLeiDkCez4gXwsI1-BEiruiE9EZmQ/edit#gid=445419253)
+- Group Exhibition: [Artist Compensation Model - Feral File Group Exhibition](https://docs.google.com/spreadsheets/d/1Q7NpFkZb1te2I-TeN-eTamVo-vYLGELYmMK3XzkFCec/edit?usp=sharing) 
+= Solo Exhibition: [Artist Compensation Model - Feral File Solo Exhibition](https://docs.google.com/spreadsheets/d/1cAfes-TPWD3bs9sLeiDkCez4gXwsI1-BEiruiE9EZmQ/edit?usp=sharing)
 
 You will be able to transfer sale proceeds through a supported cryptocurrency method of your choosing within your account on the [Feral File website](https://feralfile.com).
 
 If the exhibition does not proceed due to events beyond the reasonable control of Bitmark/Feral File, this Agreement will be deemed canceled, without liability or obligation for you or Bitmark/Feral File.
 
 You can review the full terms and conditions of your rights in the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) and [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector). You understand and agree that this agreement, together with the documents referenced in this agreement, supersedes all prior understandings regarding its subject matter.
-
-Understood and Agreed:
-
-**(You may also sign by replying to this email with “I AGREE”**
-
-**If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by sending “I AGREE ON BEHALF OF [COMPANY NAME]”)**
 
 Sincerely,
 <br>Michael Nguyễn
