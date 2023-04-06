@@ -24,9 +24,9 @@ You understand and agree that this agreement contains all of Feral File’s obli
 **If you understand and accept the responsibilities explained above and in The Curator’s Guide, please confirm acceptance of this project and the terms of this agreement by signing below.**
 
 Sincerely,
-Michael Nguyễn
-Head of Operations
-Bitmark
+<br>Michael Nguyễn
+<br>Head of Operations
+<br>Bitmark
 
 [michael@bitmark.com](mailto:michael@bitmark.com)
 408-239-6006
