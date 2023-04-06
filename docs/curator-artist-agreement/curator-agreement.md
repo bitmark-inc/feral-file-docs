@@ -1,6 +1,6 @@
 # Curator Agreement
 
-**{Name}:**
+**{Curator Name}:**
 
 I am providing you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on **{DATE}** with the responsibilities detailed in [The Curator’s Guide](https://docs.google.com/document/d/1g6F7IiDB5D3jWExJ8-HHfJdtZB5TlB-s-Zkuz5bztTI/edit?usp=sharing). There may be other tasks discussed and agreed upon by both parties (Bitmark/Feral File, yourself) over email. Those tasks, once agreed, will be part of this agreement.
 
