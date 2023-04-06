@@ -6,14 +6,12 @@ FeralVerse is an anthology of multidimensional poems that embody theVERSEverse�
 
 Curators Ana María Caballero, Kalen Iwamoto, and Sasha Stiles asked the poets in the exhibition to answer the question: **What does it mean to you to publish your poem as an NFT — and how did the experience of collaborating with a crypto artist make you think about the possibilities for literature?**
 
-<img width="914" alt="GRAY_Thumb" src="https://user-images.githubusercontent.com/47554564/230260880-5fa5fef7-4814-42ea-841b-faac44f3e0aa.png">
-“Gray” by P. Scott Cunningham x Connie Bakshi. Image courtesy of Feral File and the artists. 
+<img width="1296" alt="GRAY_Thumb" src="https://user-images.githubusercontent.com/47554564/230260880-5fa5fef7-4814-42ea-841b-faac44f3e0aa.png">“Gray” by P. Scott Cunningham x Connie Bakshi. Image courtesy of Feral File and the artists. 
 
 “I think writing poetry is much more collaborative than people generally perceive it to be — you’re always in conversation with other poems, poets, and readers. But still, there’s nothing like collaborating on a specific piece with another person, especially across genres. Historically, there’s a great tradition of it (poems turned into librettos, painters collaborating with poets, etc.), so I think it's important that, as new technological possibilities emerge, artists and poets continue to be inspired by one another and to take risks with one another. Personally, I enjoyed the process immensely, and I hope Connie Bakshi's interpretation of my poem connects with audiences who might not otherwise encounter it.” 
 — P. Scott Cunningham, whose poem [“Gray”](https://feralfile.com/artworks/connie-bakshi-dkq?fromExhibition=feralverse-1qa) was used as the basis for the piece with Connie Bakshi of the same name
 
-<img width="1439" alt="DianeDrubay_DeniseDuhamel_FuturumFebris_thumbnail3" src="https://user-images.githubusercontent.com/47554564/230261042-d8284eaf-b6e6-472e-9eb2-4c4962e831b2.png">
-“Futurum Febris” by Denise Duhamel x Diane Drubay. Image courtesy of Feral File and the artists. 
+<img width="1439" alt="DianeDrubay_DeniseDuhamel_FuturumFebris_thumbnail3" src="https://user-images.githubusercontent.com/47554564/230261042-d8284eaf-b6e6-472e-9eb2-4c4962e831b2.png"> “Futurum Febris” by Denise Duhamel x Diane Drubay. Image courtesy of Feral File and the artists. 
 
 “As someone extremely unsavvy when it comes to technology and social media, collaborating on NFTs has been a gift.  In the more old-fashioned sense, poetry and film are both “dream factories,” places of intense magic that focus on the image. New technologies make possible moving poems (i.e. emotionally charged, but also changing positions through time and space)...so seeing my poem re-imagined as a visual image makes it come alive in a way that I alone, of course, cannot create. Collaborating in this way has been highly rewarding.” — Denise Duhamel, whose poem “Pilgrims” is the seed for the artwork [“Futurum Febris”](https://feralfile.com/artworks/diane-drubay-fm5?fromExhibition=feralverse-1qa) with Diane Drubay 
 
