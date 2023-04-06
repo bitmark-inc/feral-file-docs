@@ -1,0 +1,30 @@
+# The Poetry Journal of the Future
+
+FeralVerse is an anthology of multidimensional poems that embody theVERSEverse’s mission to explore the myriad ways in which words and images intertwine, growing together. Since 2021, theVERSEverse has explored the creative potential for composition and publication via blockchain, a realm where writers are empowered to transact their work, transcend the printed page, and collaborate with each other. This Feral File offering — the first exhibition of verse on the platform — is planted as a seed for the poetry journal of the future, in which authorial imagination is unbounded, language and art exist in symbiosis, and every contributor is a vital force in a literary ecosystem in which connection to verse can lead to collection.
+
+[FeralVerse](https://feralfile.com/exhibitions/feralverse-1qa) consists of ten collaborative performances between writers and artists at the avant-garde of web3 poetry and digital art, reflecting diverse perspectives, aesthetics, and approaches to the worlds around and inside us, always in flux.
+
+Curators Ana María Caballero, Kalen Iwamoto, and Sasha Stiles asked the poets in the exhibition to answer the question: **What does it mean to you to publish your poem as an NFT — and how did the experience of collaborating with a crypto artist make you think about the possibilities for literature?**
+
+<img width="914" alt="GRAY_Thumb" src="https://user-images.githubusercontent.com/47554564/230260880-5fa5fef7-4814-42ea-841b-faac44f3e0aa.png">
+“Gray” by P. Scott Cunningham x Connie Bakshi. Image courtesy of Feral File and the artists. 
+
+“I think writing poetry is much more collaborative than people generally perceive it to be — you’re always in conversation with other poems, poets, and readers. But still, there’s nothing like collaborating on a specific piece with another person, especially across genres. Historically, there’s a great tradition of it (poems turned into librettos, painters collaborating with poets, etc.), so I think it's important that, as new technological possibilities emerge, artists and poets continue to be inspired by one another and to take risks with one another. Personally, I enjoyed the process immensely, and I hope Connie Bakshi's interpretation of my poem connects with audiences who might not otherwise encounter it.” 
+— P. Scott Cunningham, whose poem [“Gray”](https://feralfile.com/artworks/connie-bakshi-dkq?fromExhibition=feralverse-1qa) was used as the basis for the piece with Connie Bakshi of the same name
+
+<img width="1439" alt="DianeDrubay_DeniseDuhamel_FuturumFebris_thumbnail3" src="https://user-images.githubusercontent.com/47554564/230261042-d8284eaf-b6e6-472e-9eb2-4c4962e831b2.png">
+“Futurum Febris” by Denise Duhamel x Diane Drubay. Image courtesy of Feral File and the artists. 
+
+“As someone extremely unsavvy when it comes to technology and social media, collaborating on NFTs has been a gift.  In the more old-fashioned sense, poetry and film are both “dream factories,” places of intense magic that focus on the image. New technologies make possible moving poems (i.e. emotionally charged, but also changing positions through time and space)...so seeing my poem re-imagined as a visual image makes it come alive in a way that I alone, of course, cannot create. Collaborating in this way has been highly rewarding.” — Denise Duhamel, whose poem “Pilgrims” is the seed for the artwork [“Futurum Febris”](https://feralfile.com/artworks/diane-drubay-fm5?fromExhibition=feralverse-1qa) with Diane Drubay 
+
+![SpringSoUneasy_5MB](https://user-images.githubusercontent.com/47554564/230261178-41fe722c-ed93-4258-a590-8ee316990154.png)
+“Spring So Uneasy” by Lillian-Yvonne Bertram x Dina Chang. Image courtesy of Feral File and the artists. 
+
+“I love collaborating with artists, first and foremost, because they interpret and see in my work possibilities that were beyond and out of the scope of my own imagination. It’s equally fascinating to see the ways they meaningfully interpret parts of a poem that I also hold in high esteem and reverence, and how that can be represented visually. Their interpretation brings it to life in a new way by giving it a second life beyond ‘just’ the page. I had previously thought of this piece as I poem I had written, many many years ago, and assumed it would remain ‘locked’ inside a book. That it can now move more freely and circulate inside the NFT ecosystem gives it, and literature, so many more possibilities for its future beyond the page, beyond the book.”
+— Lillian-Yvonne Bertram, whose poem “The Body Deformed by Tidal Forces” became the basis for the artwork [“Spring So Uneasy,”](https://feralfile.com/artworks/dina-chang-jsh?fromExhibition=feralverse-1qa) a collaboration with artist Dina Chang
+
+![dna_tree (0-00-32-20)](https://user-images.githubusercontent.com/47554564/230261310-86a2ffc7-2732-466a-8826-2ee314c6da40.png)
+“The Hybrid Brand” by John James x Solimán López. Image courtesy of Feral File and the artists. 
+
+“This is my first time publishing a poem as an NFT, so the experience is all new to me. That said, I am interested in questions of environment and ecology, and specifically, of how our present culture — including art-making — might persist in the midst of our already unfolding climate disaster. NFTs have the potential to outlast us all, in a very real, material sense. I will be interested to see how these text-objects hold up across the abyss of deep time, which I won’t be around to witness — unless, of course, they figure out how to upload our brains to the cloud, which is probably just around the corner.” — John James, who worked with Solimán López to turn James’ poem “Pastoral” into the artwork [“The Hybrid Branch”](https://feralfile.com/artworks/soliman-lopez-hvb?fromExhibition=feralverse-1qa) 
+
