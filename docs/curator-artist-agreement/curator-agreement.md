@@ -29,4 +29,4 @@ Sincerely,
 <br>Bitmark
 
 [michael@bitmark.com](mailto:michael@bitmark.com)
-408-239-6006
+<br>408-239-6006
