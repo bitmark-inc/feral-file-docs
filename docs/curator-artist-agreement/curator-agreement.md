@@ -9,7 +9,7 @@ For these responsibilities, we agree to the following financial compensation:
 - **Fixed fee of $2,000, paid in USDC or ETH.**
 - **5% share of Bitmark’s portion of Net Sales from the exhibition, paid in USDC or ETH.**
 
-**You will also receive an edition of each editioned (non-1:1) artwork in your exhibition.** Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement). You will pay the artist {10%} of the selling price, pay Feral File {5%} of the selling price, and retain {85%} of the selling price, minus transaction fees. Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
+**You will also receive an edition of each editioned (non-1:1) artwork in your exhibition.** Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement). You will pay the artist {resale_artist_revenue} of the selling price, pay Feral File {resale_feralfile_revenue} of the selling price, and retain {resale_collector_revenue} of the selling price, minus transaction fees. Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
 
 You can use [this worksheet](https://docs.google.com/spreadsheets/d/1BDCeAIfsxmPHcalPhoXHGnnNEOFHJUtT6tN3qyfrlc8/edit#gid=57783252) to understand how this breaks down (please make a copy to edit the figures).
 
