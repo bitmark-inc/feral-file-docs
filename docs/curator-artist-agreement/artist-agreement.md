@@ -27,7 +27,7 @@ Each Feral File exhibition starts with a curator, but the exhibitions are about 
 For these responsibilities, we agree to the following compensation:
 
 - Primary Sale
-    - Artist in {Group/Solo} Exhibition: You receive {first_sale_artist_revenue} (⅔) of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
+    - Artist in {SOLO/GROUP} Exhibition: You receive {first_sale_artist_revenue} (⅔) of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
     - Note: transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
 - Secondary Sale: You receive {resale_artist_revenue} of the purchase price, minus transaction fees.
 - Artist Swap in Group Exhibitions:
