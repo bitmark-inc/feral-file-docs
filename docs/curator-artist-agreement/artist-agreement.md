@@ -2,7 +2,7 @@
 
 **{Artist Name}:**
 
-I am providing you with the terms of our agreement for your work to be exhibited and sold on [Feral File](https://feralfile.com) with **{Curator Name}** in **{DD-MM-YYYY} **through a {SOLO/GROUP} exhibition. Please let me know if you have any questions.
+I am providing you with the terms of our agreement for your work to be exhibited and sold on [Feral File](https://feralfile.com) with **{Curator Name}** in **{DD-MM-YYYY}** through a **{SOLO/GROUP}** exhibition. Please let me know if you have any questions.
 
 Each Feral File exhibition starts with a curator, but the exhibitions are about the artists and their editions. Expanded information to get your artwork ready and how editions are structured can be found through the [Artist Guide](https://docs.google.com/document/d/1isKNtgd3lXWatxXBkrR9VV6synPUs0PQruL2ACsTPqw/edit?usp=sharing).
 
