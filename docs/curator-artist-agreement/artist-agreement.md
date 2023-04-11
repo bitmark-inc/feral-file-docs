@@ -2,7 +2,7 @@
 
 **{Artist Name}:**
 
-I am providing you with the terms of our agreement for your work to be exhibited and sold on [Feral File](https://feralfile.com) with {Curator Name} in {MONTH/YEAR} through a {SOLO/GROUP} exhibition. Please let me know if you have any questions.
+I am providing you with the terms of our agreement for your work to be exhibited and sold on [Feral File](https://feralfile.com) with **{Curator Name}** in **{DD-MM-YYYY} **through a {SOLO/GROUP} exhibition. Please let me know if you have any questions.
 
 Each Feral File exhibition starts with a curator, but the exhibitions are about the artists and their editions. Expanded information to get your artwork ready and how editions are structured can be found through the [Artist Guide](https://docs.google.com/document/d/1isKNtgd3lXWatxXBkrR9VV6synPUs0PQruL2ACsTPqw/edit?usp=sharing).
 
@@ -27,9 +27,9 @@ Each Feral File exhibition starts with a curator, but the exhibitions are about 
 For these responsibilities, we agree to the following compensation:
 
 - Primary Sale
-    - Artist in {SOLO/GROUP} Exhibition: You receive {first_sale_artist_revenue} of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
+    - Artist in **{SOLO/GROUP}** Exhibition: You receive **{first_sale_artist_revenue}** of the purchase price, minus transaction fees paid to the payment processor (not Bitmark/Feral File). Unsold editions from auctions will be offered for sale at the reserve price.
     - Note: transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
-- Secondary Sale: You receive {resale_artist_revenue} of the purchase price, minus transaction fees.
+- Secondary Sale: You receive **{resale_artist_revenue}** of the purchase price, minus transaction fees.
 - Artist Swap in Group Exhibitions:
     - In group exhibitions, each artist will produce an artwork that is part of the “artist swap” for that exhibition. Each artwork in the swap has the same edition number and price and is sold the same way; artist editions (AE) of each artwork are produced and swapped with every other artist. This does not preclude artists from selling other works in the exhibition outside the artist swap.
     - Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement), under which you will pay the artist {resale_artist_revenue} of the selling price, pay Feral File {resale_feralfile_revenue} of the selling price, and will retain {resale_collector_revenue} of the selling price, minus transaction fees. Payments from secondary markets are received by Feral File and then distributed to the artist.
