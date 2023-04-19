@@ -2,7 +2,7 @@
 
 Artist Rick Silva speaks with writer and musician Claire L. Evans on plant desires, garden scanning, and the “weirding and warping” of nature.!
 
-[Uploading BLOOMCORE_main_promo_image.png…]()
+![BLOOMCORE_main_promo_image](https://user-images.githubusercontent.com/47554564/232984060-3da42544-fd78-40d5-87cf-a550a1055115.jpg)
 “BLOOMCORE” by Rick Silva. Image courtesy of Feral File and the artist. 
 
 **Your work [BLOOMCORE](https://feralfile.com/artworks/bloomcore-cyq?fromExhibition=bloomcore-wqy) got me thinking about plant intelligence and the way plant intelligence has been portrayed in horror fiction as this kind of unknowable vegetable mind.**
@@ -33,10 +33,11 @@ It was a bit like a bee gathering pollen and bringing it back to the hive, the s
 
 Oregon is the biggest influence for BLOOMCORE. I started making plant-based art soon after moving here in 2012. My projects like _Random Seed_ (2012), _Self Portrait with Plants_ (2013), _Render Garden_ (2015), _Accelerationist Ikebana_ (2017), and now this exhibition_ _are all heavily influenced by the lush flora of the Pacific Northwest.
 
+Jennifer Steinkamp is the OG (.obj gardener :)) of spinning and floating 3D plants.
+
 I was also thinking a lot about Mary Menken’s 1957 experimental film _[Glimpse of the Garden](https://lightcone.org/en/film-1035-glimpse-of-the-garden)_, do you know that one? The 16 mm print projection is so good, but you get an idea with [the YouTube version](https://www.youtube.com/watch?v=7yvvZ7-tlDU). I was channeling that sort of observation and gathering.
 
-![alt_text](images/image1.jpg "image_tooltip")
-Still from “Glimpse of the Garden” by Mary Menken
+<img width="1296" alt="Glimpse of the Garden" src="https://user-images.githubusercontent.com/47554564/232984121-10329816-3414-45b6-b072-3114bd014042.jpg">Still from “Glimpse of the Garden” by Mary Menken
 
 **Love this film — I’d never seen it. Reminds me of [Germaine Dulac’s arabesques](https://youtu.be/0akbnudzLp0), which of course look terrible on YouTube too.**
 
