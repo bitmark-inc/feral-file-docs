@@ -19,7 +19,7 @@ It was spring 2022, and everything in Oregon was starting to bloom. I started in
 
 They both exist in nature and are composites. While the polygons and textures are sourced from actual physical plants, in the digital version they are positioned in this way that only virtual space can intersect objects.
 
-https://user-images.githubusercontent.com/47554564/232982540-c98d622d-51e3-4eb1-80c9-aa4c335443ad.mp4
+[![BLOOMCORE](https://user-images.githubusercontent.com/47554564/232982540-c98d622d-51e3-4eb1-80c9-aa4c335443ad.mp4)](https://user-images.githubusercontent.com/47554564/232982540-c98d622d-51e3-4eb1-80c9-aa4c335443ad.mp4)
 
 **Of course, things get lost in the journey from a rose garden into digital space.**
 
