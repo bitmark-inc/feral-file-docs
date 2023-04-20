@@ -1,6 +1,6 @@
 # Ikebana Meets Gene Splicing 
 
-Artist Rick Silva speaks with writer and musician Claire L. Evans on plant desires, garden scanning, and the “weirding and warping” of nature.!
+Artist Rick Silva speaks with writer and musician Claire L. Evans on plant desires, garden scanning, and the “weirding and warping” of nature.
 
 ![BLOOMCORE_main_promo_image](https://user-images.githubusercontent.com/47554564/232984060-3da42544-fd78-40d5-87cf-a550a1055115.jpg)
 “BLOOMCORE” by Rick Silva. Image courtesy of Feral File and the artist. 
