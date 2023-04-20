@@ -31,7 +31,7 @@ It was a bit like a bee gathering pollen and bringing it back to the hive, the s
 
 **Did you have any influences in mind as you were working?**
 
-Oregon is the biggest influence for BLOOMCORE. I started making plant-based art soon after moving here in 2012. My projects like _Random Seed_ (2012), _Self Portrait with Plants_ (2013), _Render Garden_ (2015), _Accelerationist Ikebana_ (2017),and now this exhibition are all heavily influenced by the lush flora of the Pacific Northwest.
+Oregon is the biggest influence for BLOOMCORE. I started making plant-based art soon after moving here in 2012. My projects like _Random Seed_ (2012), _Self Portrait with Plants_ (2013), _Render Garden_ (2015), _Accelerationist Ikebana_ (2017), and now this exhibition are all heavily influenced by the lush flora of the Pacific Northwest.
 
 Jennifer Steinkamp is the OG (.obj gardener :)) of spinning and floating 3D plants.
 
