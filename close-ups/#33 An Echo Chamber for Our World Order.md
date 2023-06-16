@@ -29,22 +29,22 @@ Curator Linda Dounia Rebeiz asked the artists in this exhibition about what moti
 
 “There have been moments when I’ve been disappointed by some outputs, though. I have also spotted biases within the various platforms I’ve experimented with. Seeing how some of the software I was using only a year ago has evolved within the past few months, I understand the general fears and concerns around the rapid development of AI, and the need to pull in the reins a bit. I want to remain hopeful that we’ll be able to navigate all these emerging issues successfully so that the largely positive experience I’ve had working with all these tools is preserved and extended to folks around the world.” – Afroscope
 
-![](https://hackmd.io/_uploads/Sy2n1Mwvh.jpg)<caption>"[Cities and spaceships](https://feralfile.com/artworks/cities-and-spaceships-knv?fromExhibition=in-visible-419)" by Rayan Elnayal
+![](https://hackmd.io/_uploads/Sy2n1Mwvh.jpg)<caption>“[Cities and spaceships](https://feralfile.com/artworks/cities-and-spaceships-knv?fromExhibition=in-visible-419)” by Rayan Elnayal
 </caption>
 
 “I find that AI struggles to distinguish between different African ethnicities. To be honest, I have still not found AI to be of much use or in alignment with my work. I am strict in how I use it as a result. I am not sure how my relationship with AI will change in the future, but since I use a lot of photographic references in my work, I would love to use AI to help generate 3D models from my photographs. It would allow me more time to work on my compositions.” – Rayan Elnayal 
 
-![](https://hackmd.io/_uploads/HJB5ezDD2.jpg)<caption>"[Summer Edition](https://feralfile.com/artworks/summer-edition-sti?fromExhibition=in-visible-419), #24 by Zoe Osborne"</caption>
+![](https://hackmd.io/_uploads/HJB5ezDD2.jpg)<caption>“[Summer Edition](https://feralfile.com/artworks/summer-edition-sti?fromExhibition=in-visible-419), #24” by Zoe Osborne</caption>
 
 “I have always been curious about AI’s understanding of Caribbean identity and its limitations. I wondered if it could be taught to understand cultural nuance. At first, it felt as though I was fighting with AI. Getting it to portray different ethnicities and unique characteristics of people in the Caribbean was a challenge. The more prompts I created, the more apparent the bias in AI’s database became. At some point, I even got angry and offended. 
 
 “I did, however, eventually find my voice by thinking about what images AI might be pulling from. I used a lot of blending and fine-tuning to get the results and details in the Summer Edition collection. Moving forward, I would like to explore how I can train AI to reduce its limited perception of race and culture, especially as it relates to the Caribbean. I think it would be an interesting tool to explore the idea of Caribbean Futurism.” – Zoe Osborne
 
-![](https://hackmd.io/_uploads/Hk8xWzvD3.jpg)<caption>"[Confetti](https://feralfile.com/artworks/confetti-fo3?fromExhibition=in-visible-419), #47 by Nygilia"</caption>
+![](https://hackmd.io/_uploads/Hk8xWzvD3.jpg)<caption>“[Confetti](https://feralfile.com/artworks/confetti-fo3?fromExhibition=in-visible-419), #47 by Nygilia”</caption>
 
 “When I started incorporating AI into my practice, I wanted to use it as a storytelling tool to share my cultural heritage. When a new tool emerges, I think it’s vital to surface its positive applications. It’s been an enriching and engrossing journey that has allowed me to explore a variety of artistic styles, and I am just getting started.” – Nygilia 
 
-![](https://hackmd.io/_uploads/ByGSGzwP2.jpg)<caption>"[Chez Jo](https://feralfile.com/artworks/chez-jo-ei5?fromExhibition=in-visible-419), #46" by Linda Dounia Rebeiz</caption>
+![](https://hackmd.io/_uploads/ByGSGzwP2.jpg)<caption>“[Chez Jo](https://feralfile.com/artworks/chez-jo-ei5?fromExhibition=in-visible-419), #46” by Linda Dounia Rebeiz</caption>
 
 “My AI journey started with GANs. Because of how GANs work, I have come to see AI as a sort of archival tool that has the ability to expand on itself. I have trained GANs with images of art that I have created myself and with images of artefacts from my environment. The idea that I can use contextual data — which I have assembled to explore problematics and curiosities that are intimately mine at an unprecedented scale — is very attractive to me. It makes me feel like I am etching parts of myself and all that comes with it (my context, the influences that have shaped my work, the memories that keep me whole) into the annals of the internet. I am a Black woman artist used to navigating spaces (the internet, the art world, capitalism) that often exclude me or misrepresent me. So to me, working with AI has become political. 
 
