@@ -51,10 +51,10 @@ If you understand and accept the responsibilities explained above and in The Cur
 
 Understood and Agreed:
 
-<br>Curator Name:
+Curator Name:
 <br>Employer (if any): 
 
-<br>Signature:
+Signature:
 <br>Date:
 
 Sincerely,
