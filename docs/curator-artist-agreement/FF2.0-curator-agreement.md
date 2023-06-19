@@ -60,4 +60,4 @@ Understood and Agreed:
 <br>Sincerely,
 <br>Michael Nguyễn
 <br>Head of Operations
-<br>Bitmarj
+<br>Bitmark
