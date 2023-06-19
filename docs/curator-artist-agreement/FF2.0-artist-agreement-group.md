@@ -1,4 +1,4 @@
-# Artist agreement Group
+# Artist Agreement Group
 
 **{Artist Name}:**
 
