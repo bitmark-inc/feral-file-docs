@@ -1,4 +1,4 @@
-# Artist agreement Group
+# Artist Agreement Solo
 
 **{Artist Name}:**
 
