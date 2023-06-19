@@ -2,7 +2,7 @@
 
 **{Curator Name}:**
 
-I am providing you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on [MM/YYYY] with the responsibilities detailed in [The Curator’s Guide](https://docs.google.com/document/d/1g6F7IiDB5D3jWExJ8-HHfJdtZB5TlB-s-Zkuz5bztTI/edit). There may be other tasks discussed and agreed upon by both parties (Bitmark/Feral File, yourself) over email.  Those tasks, once agreed, will be part of this agreement.
+I am providing you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on [DD-MM-YYYY] with the responsibilities detailed in [The Curator’s Guide](https://docs.google.com/document/d/1g6F7IiDB5D3jWExJ8-HHfJdtZB5TlB-s-Zkuz5bztTI/edit). There may be other tasks discussed and agreed upon by both parties (Bitmark/Feral File, yourself) over email.  Those tasks, once agreed, will be part of this agreement.
 
 **For these responsibilities, we agree to pay you  the following compensation:**
 - **Fixed fee of $2,000, paid in USDC.**
