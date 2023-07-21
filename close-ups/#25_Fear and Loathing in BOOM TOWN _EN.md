@@ -1,6 +1,6 @@
 # Fear and Loathing in BOOM TOWN
 
-On the occasion of the solo exhibition [BOOM TOWN](https://feralfile.com/exhibitions/boom-town-frt), artist Peter Burr and curator Julia Kaganskiy discuss virtual town planning, the influence of MacPaint and SimCity, and time on the blockchain. 
+On the occasion of the solo exhibition [BOOM TOWN](https://feralfile.com/exhibitions/boom-town-frt), artist Peter Burr and curator Julia Kaganskiy discuss virtual town planning, the influence of MacPaint and SimCity, and time on the blockchain.
 
 ---
 
@@ -17,7 +17,7 @@ I think the clock at the center of BOOM TOWN is an interesting place to look at 
 
 **You’re currently spending quite a lot of time in BOOM TOWN as you work on the show. What is it like to be the sole inhabitant? If you were to take us on a walking tour around town, what might you point out about some of the key sites?**
 
-Currently I feel like a lonely god who hit the pause button on their pocket universe and is scurrying around sweeping streets and mounting shutters on the apartment windows while they wait to unpause — for BOOM TOWN to open and its clock to start ticking.  It’s strange here without people. Flat and stark… partially modeled off a town in southwestern Poland where I spent some weeks this year…. a town that was heavily bombed in WWII and rebuilt with a distinct Modernist flair on top of the ruined earth. 
+Currently I feel like a lonely god who hit the pause button on their pocket universe and is scurrying around sweeping streets and mounting shutters on the apartment windows while they wait to unpause — for BOOM TOWN to open and its clock to start ticking.  It’s strange here without people. Flat and stark… partially modeled off a town in southwestern Poland where I spent some weeks this year…. a town that was heavily bombed in WWII and rebuilt with a distinct Modernist flair on top of the ruined earth.
 
 On the outskirts are two large structures — on one end of town sits a power plant sustaining the pulse of the place. On the other end is a luxury home with a sweet infinity pool built into its low western balcony. Between these large bookending structures spans a multitude of middle class living, including office space, shopping zones, and just enough apartment blocks for people to sustain our small town. BOOM TOWN isn’t meant for everybody, and I wonder if its scarce chance of expansion will cause the real estate values to skyrocket and early landlords reap great benefits. That was the mood when this town went under construction six months ago, anyway.
 
@@ -33,7 +33,7 @@ About technical limitations — I find it interesting how the limited palette of
 About a decade ago, I found an emulator to revisit these old games and I was struck by how different they felt on modern technology… how the glow of phosphor in our old cathode ray tubes was replaced with the crispy precision of liquid crystal… how the pixels looked so crunchy and the blacks and whites felt so cold. BOOM TOWN’s aesthetic was born out of my interest in pushing these translations further. In designing an artwork that’s meant to continuously evolve over a decade, I think a lot about how unstable the material of digital media is. I’m curious how these pieces will look when we finally get those holographic displays Gene Youngblood promised us 50 years ago.
 
 ![FF-025-SHOPPING PLAZA](https://user-images.githubusercontent.com/47554564/206232572-f54e43af-da0e-4ba7-a735-9b9e2fe61d21.png)
-*“SHOPPING PLAZA” by Peter Burr. Image courtesy of the artist and Feral File.* 
+*“SHOPPING PLAZA” by Peter Burr. Image courtesy of the artist and Feral File.*
 
 **Video games are an enduring reference point and influence on your work, and I know you’re also currently in a PhD program in Critical Game Design. Do you think of BOOM TOWN as a kind of game? If so, what kind of game is it? And how do we play?**
 
