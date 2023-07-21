@@ -20,7 +20,7 @@ There’s something about whistlegraphs that makes them contagious. The first ti
 
 ***
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/whistlegraph1.jpg)
+![whistlegraph1](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/a83cdd5e-5187-4090-99f7-24e22657f80a)
 <sub>Loner by Whistlegraph. Image courtesy of the artist and Feral File.</sub>
 
 Ashland is a new-age-y hamlet in a rugged part of Oregon, just before the switch-backed Siskiyou Pass leads over state lines into Northern California. It is the place that Whistlegraph currently calls home. Downtown Ashland, just below where Lithia Park is carved onto the hills, is a curious mix of touristy Elizabethan facades, organic foods, and deer running through forested enclaves. Although Whistlegraph — Jeffrey Alan Scudder, Camille Klein, and Alex Freundlich — are not thespians in Ashland’s Shakespearean sense, they are thespians in the sense of being versatile performers with a knack for mise-en-scene, in the expanded stage of the digital realm.
@@ -47,7 +47,7 @@ Interestingly, one aspect heavily discussed in the field of study known as “fo
 
 Recently, I have been thinking about what “chronotopic” similarities whistlegraphs share with the ballad: a form or style of narrative lyric, calling to mind poetic verse, sung song, or the musicality of storytelling in language. Ballads and whistlegraphs share a highly transmissible nature through clear and specific engagement with relatable affective worlds. This has been recognized by participants through the confirmation of its repetition across mediascapes by folks tuning in.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/whistlegraph2.jpg)
+![whistlegraph2](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/3e3f9dac-98b9-4709-a149-2d1e083d8e87)
 <sub>Mommy Wow by Whistlegraph. Image courtesy of the artist and Feral File.</sub>
 
 This perspective into Whistlegraph makes further sense in light of prominent existing discourses on digital art or internet art as *folklore.* For instance, Olia Lialina and Dragon Espenschied, among others, have addressed how artists have developed visual language within digital environments, taking up the framework of the “digital folklore” in “network culture.” The landmark [Digital Folklore Reader](https://digitalfolklore.org/) (2010) explored this very subject. Whistlegraph engages with the propagation of digital, material culture, what we might call its digital folkloristics —  a redux of reflective and highly transmissible stories and open pedagogical methods.
@@ -76,7 +76,7 @@ The inner child’s creative light needn’t be dimmed with age. But unfortunate
 
 For instance, friendship radiates through the trio’s videos and harmonies, as they engage in making playgrounds out of the world through colorful chalk art on a park basketball court, or candid-yet-choreographed performances recorded on their iPhones. As a primary medium of their work, TikTok also contains different associations with age as an aspect of content creation. TikTok has popularized tools for communicating and expressing complex emotions through playful pairings of audio and visual clips, where many TikTok genres bring together intergenerational play, like people of all ages learning dances together.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/whistlegraph3.jpg)
+![whistlegraph3](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/24ec83f2-ca98-447d-bf0e-d2ee04506a3c)
 <sub>People Pleaser by Whistlegraph. Image courtesy of the artist and Feral File.</sub>
 
 The poesis of whistlegraphs is also surfaced through this childlike quality, in tradition with other artists whose work nurtures the inner child, or works with the subject of childhood’s creative associations and child-like knowing. For instance, in Mike Kelley’s hobby of collecting stuffed animals that became sculptural materials. Associations offer windows into a world of emotions, including the psychology of processing childhood experiences. A different example is the musical group [Toychestra](https://ww2.kqed.org/spark/toychestra/)’s compositions with toys, where anything can be an instrument and virtuosity is de-stressed over nurturing emotive expression. Finding a way of bringing childlike imagination into daily reality can somehow, sometimes, get more challenging as we age. Artists like Whistlegraph provide examples of how childhood can remain central to a core of creative action and a window to meaning.
