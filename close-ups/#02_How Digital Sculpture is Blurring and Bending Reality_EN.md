@@ -22,7 +22,7 @@ Artist Auriea Harvey, for example, has a long history of creating physical sculp
 
 With so many of the artists in this exhibit, their digital sculptures are meant to be enjoyed in new ways. Fundamentally, they are something you can engage with—something you can put on your desktop, something you can interact with by turning it upside-down, or even entering it, in the case of Carla Gannis’ “peep-o-rama” piece. And Matthew D. Gantts’ piece is quite interesting, as you’re able to move through a virtual environment while listening to sound sculptures that, while completely ephemeral, are based on distortions of real instruments. I think it’s this sense of limitlessness in terms of how you can interact with these formats that is so fascinating to me.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/the-bardo-harvey.jpg)
+![the-bardo-harvey](https://github.com/bitmark-inc/feral-file-docs/assets/62544879/06f3feb5-3f05-49c5-b492-9d4fcee98d13)
 <sub>Screen capture of “The Mystery [v5-dv1]” by Auriea Harvey.<sub>
 
 **Where do you see digital sculpture heading? Are there certain trends you’re starting to see emerge now that you think will continue to develop?**
@@ -37,7 +37,7 @@ All of the artists in this show were considering, “What does it mean to own a 
 
 On Feral File, works can be purchased in a variety of file formats. As a collector, this gives you huge flexibility in terms of what you do with the pieces you collect. In some cases, for example with Auriea Harvey, she really wants people to use the different file formats that are downloadable with her piece in whatever way is most meaningful to the collector. Her idea is that this gives her files a new life, which I think is an interesting concept too.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/the-bardo-gannis.jpg)
+![the-bardo-gannis](https://github.com/bitmark-inc/feral-file-docs/assets/62544879/5598298f-d2c9-45fa-bc8a-21ab9a5a876a)
 <sub>Screen capture of “peep-o-rama” by Carla Gannis.</sub>
 
 **In your curator’s note, you mentioned that the recent explosion of NFTs has felt “dreamlike and unreal” to you. Can you say more about that?**
@@ -64,7 +64,7 @@ With the Bitmark NFT, the property rights, the collector rights, and artist righ
 
 With digital work, there can also be a variety of ways to enjoy the art without worrying about messing it up. This makes it less sacred and just more approachable. The fact that you can rotate a digital sculpture and turn it around and upside-down, or use an AR app to walk around and see the work in your home or backyard, wherever it is. This is a whole new way of interacting with your art collection.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/the-bardo-gantt.jpg)
+![the-bardo-gantt](https://github.com/bitmark-inc/feral-file-docs/assets/62544879/500c46df-4cb7-4b8d-98f4-98b07d971c43)
 <sub>Screen capture of “Earmarks” by Matthew D. Gantt.</sub>
 
 **As a final question, do you feel like there is a distinction between what’s real and unreal—or is that sort of a fabricated binary?**
