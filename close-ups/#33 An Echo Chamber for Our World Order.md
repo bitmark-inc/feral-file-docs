@@ -1,5 +1,3 @@
-# An Echo Chamber for Our World Order
-
 [In/Visible](https://feralfile.com/exhibitions/in-visible-419) is an exhibition that explores fundamental issues Black artists grapple with while using AI. It is an urgent response to the biases of AI in representing Black people, cultures, and artistic expressions. Ultimately, it raises the question of how a new technology emerges and what it means when not everyone has the same level of access to it.
 
 ![](https://hackmd.io/_uploads/rJyVobDD3.jpg)<caption>“[Planet Hibiscus](https://feralfile.com/series/planet-hibiscus-ysn?fromExhibition=in-visible-419), AE8521” by Adaeze Okaro

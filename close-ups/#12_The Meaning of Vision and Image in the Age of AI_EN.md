@@ -1,5 +1,3 @@
-# The Meaning of “Vision” and “Image” in the Age of AI
-
 On the occasion of [For Your Eyes Only](https://feralfile.com/exhibitions/for-your-eyes-only-qpg), curator Domenico Quaranta discusses machine vision, operational images, and the future of human visual culture with Antonio Somaini, professor in film, media, and visual culture theory at the Université Sorbonne Nouvelle – Paris 3.
 
 <sub>This conversation took place over email in November 2021.</sub>

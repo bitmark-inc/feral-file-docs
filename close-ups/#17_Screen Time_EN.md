@@ -1,5 +1,3 @@
-# Screen Time
-
 On the occasion of [On Screen Presence](https://feralfile.com/exhibitions/on-screen-presence-kpb), curator Regina Harsanyi discusses exhibition design, performance, and computer screen archeology with curator and writer Barbara London, who founded the video-media exhibition and collection programs at The Museum of Modern Art.
 
 ![image1](https://dashboard.feralfile.com/assets/imgs/screenTime1.jpg)

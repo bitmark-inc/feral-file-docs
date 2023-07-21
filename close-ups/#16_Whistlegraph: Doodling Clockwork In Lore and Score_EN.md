@@ -1,5 +1,3 @@
-# Whistlegraph: Doodling Clockwork In Lore and Score
-
 On the occasion of Whistlegraph’s solo show, “[Ten Whistlegraphs](https://feralfile.com/exhibitions/ten-whistlegraphs-thv)”, writer, media maker, and educator Dorothy Rose Howard reflects on the artist groups’ work in relation to temporalities, folkloristics, and the digital.
 
 ASHLAND, Oregon — The smell of distant forest fires lingered in the hot dry air as the sunlight came through branches of cottonwood and alpine trees, scattering on colorfully-filled notepads. A group of people drawing and harmonizing on quilted blankets stretched out on a patch of emerald grass adjacent to a wooded glacial creek in Lithia Park, tucked away in the hills.

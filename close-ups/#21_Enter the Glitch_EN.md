@@ -1,5 +1,3 @@
-# Enter the Glitch
-
 On the occasion of [Ecotone](https://feralfile.com/exhibitions/ecotone-swo), curator Primavera De Filippi speaks to artist Beatriz Ramos and engineer Isaac Patka about what makes the Glitch residency such a fertile space for hybrid creativity.
 
 **Primavera De Filippi:** What happens when artists and engineers collaborate?

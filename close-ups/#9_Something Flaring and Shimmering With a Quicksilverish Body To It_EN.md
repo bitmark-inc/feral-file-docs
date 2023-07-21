@@ -1,5 +1,3 @@
-# “Something Flaring and Shimmering, With a Quicksilver-ish Body To It”
-
 Composer Jan St. Werner on [Polyarrythmia](https://feralfile.com/exhibitions/polyarrythmia-dbb), his solo exhibition of nine audio works released through Feral File.
 
 <sub>This conversation happened on September 16, 2021 between Jan St. Werner and Casey Reas.</sub>

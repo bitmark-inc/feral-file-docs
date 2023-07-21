@@ -1,5 +1,3 @@
-# Movement | Space | Memory
-
 Artist Sage Jenson and curator Symbios.wiki on their show [Primordium](https://feralfile.com/exhibitions/primordium-i8m), a solo exhibition of Jenson’s work.
 
 ![Alt text](https://dashboard.feralfile.com/assets/imgs/primor1.jpg)

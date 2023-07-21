@@ -1,5 +1,3 @@
-# Always in Mutation
-
 A roundtable conversation from the artists of WETWARE
 
 For the opening of [WETWARE: Cyberfeminism Index Benefit Sale](https://feralfile.com/exhibitions/wetware-tkl), Feral File and curator Mindy Seu held a series of conversations that brought together cyberfeminist artists and pioneers of the movement with artists and cultural workers involved in the NFT space. Eight of the artists participating in the show — Prema Murthy, Shu Lea Cheang, Morehshin Allahyari, Mary Maggic, Danielle Brathwaite-Shirley, Skawennati, Cornelia Sollfrank, and Julianne Pierce — shared dialogues with speakers Eileen Skyers, Amy Ireland, Yana Sosnovskaya, Sam Spike, Maria Paula Fernandez, and Kelani Nichole. Held on Twitter Spaces over the course of opening day, the conversations gave further context to the pieces in the exhibition, the artists’ bodies of work, and a history of cyberfeminist art from the ’80s to the present.
