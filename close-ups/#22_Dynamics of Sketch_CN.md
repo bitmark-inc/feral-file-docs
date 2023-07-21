@@ -4,7 +4,7 @@
 
 ---
 
-[![b-0](https://user-images.githubusercontent.com/47554564/198207245-279817e3-698f-468c-8143-0fe65ae38c25.jpg)]([https://feralfile.com/artworks/david-oreilly-x66?fromExhibition=simulation-sketchbook-works-in-process-ayk](https://feralfile.com/artworks/qianqian-ye-eh3?fromExhibition=simulation-sketchbook-works-in-process-ayk))
+[![b-0](https://user-images.githubusercontent.com/47554564/198207245-279817e3-698f-468c-8143-0fe65ae38c25.jpg)]([https://feralfile.com/series/david-oreilly-x66?fromExhibition=simulation-sketchbook-works-in-process-ayk](https://feralfile.com/series/qianqian-ye-eh3?fromExhibition=simulation-sketchbook-works-in-process-ayk))
 
 “Braiding Rage 怒辫” by Qianqian Ye. Image courtesy of the artist and Feral File.
 
@@ -20,8 +20,8 @@
 
 ![Screen Shot 2022-10-18 at 10 10 39 PM](https://user-images.githubusercontent.com/47554564/196607707-2112dc0d-680a-4046-994e-e66dc1c7324f.png)
 
-|   | 艺术家在工作室时的状态  | 艺术家和他者合作时的状态  | 
-| --| ------ | --------| 
+|   | 艺术家在工作室时的状态  | 艺术家和他者合作时的状态  |
+| --| ------ | --------|
 | 1 | 包容度低 | 包容度高 |
 | 2 | 没耐心 | 有耐心 |
 | 3 | 不爱动 | 有行动力 |
@@ -57,7 +57,7 @@
 
 **费里：** 我绝对相信，将艺术家的作法和观点尽其可能地清楚传达，是非常重要的。毕竟技术性的术语会让很多人头大。文化机构对数字素养或数字流畅度的期待值越来越高，但这会是一个曲度很大的学习过程。还有控制的问题，不单是在权力这方面，更是在面对科技飞速翻新之际，如何能掌控并维持这些新媒作品运作程序良好。就像洛杉矶郡立美术馆的雕塑及绘画典藏品，馆方有责任为后世子孙好好维护馆藏的新媒艺术作品。这个领域中，许多最好的作法还处于早期发展阶段。有些甚至还未问世。那么，当艺术家不断追求最新的工具，导致使用对象和对对象关注的传统手法，以及支撑着这些创作的作业流程纷纷瓦解时，你该怎么办？我认为这就是凸显过程的好时机。一边做一边摸索最佳做法，不停地去芜存菁，坦然接受不确定性，都是必须养成的习惯。我们在各个部门有一些悟性很高的人，他们正在面对这个挑战，跳脱原本如孤岛般的工作状态，带着跨领域的精神彼此间激荡、共振。这需要大量的对话，并虚心学习。参与其中的人需要把这种模式想成一种研究生的读书会，而非由专业人士组成的团队。但这只是一个临时性的解套，我们势必要尽早找出让这种持续性的知识分享和共学模式可以长长久久的方式。给你的员工时间和空间去为这个过程投入更多，给他们相应的资源。喷射推进实验室（Jet Propulsion Laboratory，缩写为JPL）（译注：美国国家航空暨太空总署的下属机构）这类机构在这方面做得非常好，他们有能力极好的人负责这方面的推动与协调，尤其着力在各种领域的互相对话，整理出新的做事方法。文化单位是否也会萧规曹随呢？让我们拭目以待。
 
-[![original-artwork 1](https://user-images.githubusercontent.com/47554564/196872597-6ad4a269-853a-42bc-99de-c20d20484894.jpg)](https://feralfile.com/artworks/botto-3fb?fromExhibition=simulation-sketchbook-works-in-process-ayk)
+[![original-artwork 1](https://user-images.githubusercontent.com/47554564/196872597-6ad4a269-853a-42bc-99de-c20d20484894.jpg)](https://feralfile.com/series/botto-3fb?fromExhibition=simulation-sketchbook-works-in-process-ayk)
 
 “Cluster: #069” by Botto. Image courtesy of the artist and Feral File.
 
