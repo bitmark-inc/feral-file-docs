@@ -1,6 +1,6 @@
 On the occasion of [On Screen Presence](https://feralfile.com/exhibitions/on-screen-presence-kpb), curator Regina Harsanyi discusses exhibition design, performance, and computer screen archeology with curator and writer Barbara London, who founded the video-media exhibition and collection programs at The Museum of Modern Art.
 
-![image1](https://dashboard.feralfile.com/assets/imgs/screenTime1.jpg)
+![screenTime1](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/43d18ccb-cba3-49e9-9d81-2eafcda5266f)
 <sub>“Rewilded Topography” by Wiena Lin. Image courtesy of the artist and Feral File. </sub>
 
 Regina Harsanyi: As a pioneer who championed video as an artform in the white cube, not to say that you haven't also organized black box space, what is your preferred way to display moving image? Imagine you have all the resources you’d need.
@@ -19,7 +19,7 @@ Barbara London: Display is determined first by the artist's ideas, and second, b
 
 **BL:** Yes.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime2.jpg)
+![screenTime2](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/607cdc42-581a-4ead-ac88-86db2a2ebce0)
 <sub>“Sketches In Iron” by 0xDEAFBEEF. Image courtesy of the artist and Feral File. </sub>
 
 **RH:** One of my motivations for On Screen Presence was derived from my frustrations with the inability to live among artwork beyond sitting in front of my native computer, the same computer I do work on and experience other forms of entertainment. For me, it’s not necessarily the same as standing in front of a screen in a white cube space or even a garden. There’s something reflexive about that experience, one my living room will always lack. Do you successfully have intimate experiences with novel, digital works experienced from your own living quarters, or do you resonate with the same setbacks that I felt during the height of the pandemic?
@@ -46,7 +46,7 @@ I saw all kinds of works like this. When the artist is indeed present, and you�
 
 I think something about process is arcane or abstruse, like the creation of a software. Some people, all they do is buy their software off the shelf. They’re not engaging with writing code. They’re not Auriea Harvey, who is able to do so much. I knew someone who had a school in New York, where he taught coding to artists to get them out of that fear.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime3.jpg)
+![screenTime3](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/40036935-f260-4d31-bb99-6606e5a2f42d)
 <sub>“Every Icon: BlockPrint” by John F. Simon Jr. Image courtesy of the artist and Feral File. </sub>
 
 **RH:** I’m reminded of something else I was reading a couple of days ago. It was this conversation about how when you stand in front of a painting, whether you have experience working with or understanding pigments chemically, you do get an idea of process, such as seeing the brushstrokes, and being in front of this tangible support as object. But there’s something elusive about the process of software, where the executable does not readily reveal its proverbial strokes.
@@ -71,7 +71,7 @@ I can’t stop thinking about the role of the recording. The post performance, t
 
 In other cases, it’s someone else behind the camera, and maybe they have a politics that is quite different from that of the artist. I don't always trust the document, so that’s one answer. But generally, there’s a lot that you have to process when you’re looking at a document after the fact. You have to ask, who was behind the camera? In the same way, whose words about a work are we reading? Are they Bruce Nauman's words, and did he reinterpret what he was doing when he spoke later? Rosalind Krauss had a very particular agenda. What about Lucy Lippard?
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime4.jpg)
+![screenTime4](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/b02e6a07-5519-4b1e-a7f2-2db04b598851)
 <sub>“The Interfered Microscopy Plot” by Golan Levin. Image courtesy of the artist and Feral File.</sub>
 
 **RH:** The whole impetus for this show is for it to be live, and for people to experience it live. Three of the works are meant to be interacted with in real time, turning viewers into coauthors of the recording. So what does it even mean to engage with the recording later on? What is its relationship to it being “the artwork?” I’m trying to explore this type of intimacy, which naturally must be getting lost if you weren’t there during the actual performance. It ends up being a post-performance commentary as much as it’s about live performance.
@@ -92,7 +92,7 @@ I think some might look at this show and the questions being explored and go, �
 
 **BL:** We at least have the hope that it all gets better and better. I’ve seen a few examples of what to me was interesting VR, such as the work of Jakob Kudsk Steensen.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime5.jpg)
+![screenTime5](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/a3857da8-d18b-476d-a434-b66093749b96)
 <sub>“Movie on 06-03-22 at 1.00 PM” by Molly Soda. Image courtesy of the artist and Feral File. </sub>
 
 **RH:** But with Jakob Kudsk Steensen or say, Alfredo Salazar-Caro, these works are made specifically for VR. They’re native to those environments, right? That’s a different concept to me. But what my issue tends to be is with creating these skeuomorphic white cube environments importing PNG, MP4, or more complicated file formats. They get particularly compressed, they don’t playback properly. All the issues that arise are not satisfying. And also, I tend to still feel this sense of disembodiment. The concept of importing and then purporting that it’s equal to me going into a gallery environment is false. I have this reflexive relationship with tangible space that just corporally doesn’t exist without what is afforded to some degree with expensive, clumsy haptics. I sometimes worry that virtual reality is still stuck in a similar place, from a technological perspective that it has been in for a couple decades.
