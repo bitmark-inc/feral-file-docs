@@ -1,6 +1,6 @@
 Artist Sage Jenson and curator Symbios.wiki on their show [Primordium](https://feralfile.com/exhibitions/primordium-i8m), a solo exhibition of Jenson’s work.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/primor1.jpg)
+![primor1](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/a4298f06-6407-47b9-b297-4bed51fff00b)
 <sub>Screen capture of the artist’s workflow.</sub>
 
 **Casey Reas:** Hi Symbios. You curated this solo show of Sage’s work, and you are also a generative artist and musician. Is this the first time you two have worked together?
@@ -19,7 +19,7 @@ When you first reached out to me, I was working full time for Neri [Oxman] and d
 
 **SJ:** I think there’s a very specific subset of a system that I’m interested in. I’m not really interested in the full space of possibility. I’m interested in this surface, this n-1 dimension of this system, a traversable fractal topology within the parameter space itself. The systems come to reflect that structure as well. So I sort of cultivate the aspects of the system that lead to this unfolding, and lead to the exciting parts where there’s critical transitions and surprising behavior; the areas where I understand the system on a deeper level than the model itself, where I can connect to it on an emotional level. There’s desire. The structures want certain things. There’s repulsion. There’s life phases. There’s all these things that I can see as reflecting — not imitating but reflecting, rhyming with the processes of nature. This is partially by design, but also through cultivation of different types of relationships between movement and space and memory.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/primor2.jpg)
+![primor2](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/1394dd08-2e25-4273-ae45-7a2f3a6ffc4d)
 <sub>Top: Graph of Bars 52-57 of Pithoprakta by Iannis Xenakis (from Formalized Music, 1963). Bottom: Excerpt of Tapestry by Sage Jenson.</sub>
 
 **CR:** When you’re working on the code that underlies the system, it’s a very rational, intellectual process. But then when the system is running in real time, it can be very much about the experience; it can be very emotional. Getting to the point where you can react to it with your full sensorium and explore performance, is that the place where you want to be?
@@ -42,7 +42,7 @@ So the 36 points are different slices, some of them from the first day that I us
 
 Each of these transitions tempers the next state such that there are certain phenomena that can only happen when there are certain sequences that are viewed. That’s where the display edition will come in.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/primor3.jpg)
+![primor3](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/f3f37f57-2ee1-464f-9999-4133689735d2)
 <sub>Left: Photo of the artist’s workflow. Right: the artist near Point Arena, California.</sub>
 
 **CR:** What’s the display edition?
