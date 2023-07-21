@@ -1,3 +1,5 @@
+# Sculpted Math
+
 On the occasion of the solo exhibition [Gray Matter](https://feralfile.com/exhibitions/gray-matter-dn1), artist Auriea Harvey and curator Gaia Bobò discuss expanding the notion of sculpture, circularity of materiality, and polygons as a magical material.
 
 ---

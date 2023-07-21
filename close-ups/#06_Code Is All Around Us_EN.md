@@ -1,3 +1,5 @@
+# Code Is All Around Us
+
 Curator Pau Waelder on the never-ending instructions that govern our lives, humans’ innate quest for certainty, and how digital art collectors can best experience their NFTs.
 
 This conversation happened on August 24, 2021 between Pau Waelder—the curator of [Instructions Follow](https://feralfile.com/exhibitions/instructions-follow-f1c)—and editor Willa Köerner.

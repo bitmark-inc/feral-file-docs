@@ -1,3 +1,5 @@
+# Fear and Loathing in BOOM TOWN
+
 On the occasion of the solo exhibition [BOOM TOWN](https://feralfile.com/exhibitions/boom-town-frt), artist Peter Burr and curator Julia Kaganskiy discuss virtual town planning, the influence of MacPaint and SimCity, and time on the blockchain.
 
 ---

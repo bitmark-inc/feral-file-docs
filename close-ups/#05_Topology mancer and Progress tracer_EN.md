@@ -1,3 +1,5 @@
+# Topology-mancer and Progress-tracer
+
 [The Long Cut](https://feralfile.com/exhibitions/the-long-cut-bqv) curator Iris Long discusses the evolution of intelligent systems and the role of artists in questioning our technological reality.
 
 This conversation between curator Iris Long and editor Willa Köerner took place over a shared document in August of 2021.

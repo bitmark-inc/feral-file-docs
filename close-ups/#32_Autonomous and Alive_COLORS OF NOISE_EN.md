@@ -5,6 +5,8 @@ The German visual artist speaks with curator Peggy Schoenegge about shades of no
 ![image2](https://github.com/bitmark-inc/feral-file-docs/assets/62544879/6e23cde5-7f10-431f-9891-d521866521cf)
 <sub>Still from “COLORS OF NOISE” by Kim Asendorf. Image courtesy of Feral File and the artist.</sub>
 
+**To start, can you explain your new work COLORS OF NOISE?**
+
 I’m very much fascinated by the power of noise, something that’s universal and has been studied scientifically in different ways. In audio engineering, you can actually split up the full spectrum of noise — which is called white noise — into various shades, which are named by colors, such as pink noise, brown noise, and white noise. With this work, I use these different shades of acoustic noise to drive a visual animation.
 
 With my work in general, I work a lot with visual feedback to create animations that feel autonomous and alive, and very detailed when it comes to the movement of singular pixels. Usually, with these kinds of animations, I use noise algorithms that are based on [Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise), which is a high performance algorithm, but is in itself quite complex.

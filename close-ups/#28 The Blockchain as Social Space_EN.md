@@ -1,3 +1,5 @@
+# The Blockchain as Social Space
+
 On the occasion of the exhibition [Chain Reaction](https://feralfile.com/exhibitions/chain-reaction-tan), curator Christiane Paul in conversation with artists Stephanie Dinkins, Ira Greenberg and Marina Zurkow, Sara Ludy, Jennifer and Kevin McCoy, Alfredo Salazar-Caro, and Amelia Winger-Bearskin.
 
 ---

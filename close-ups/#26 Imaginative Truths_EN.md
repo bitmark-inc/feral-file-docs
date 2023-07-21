@@ -1,3 +1,5 @@
+# Imaginative Truths
+
 On the occasion of the exhibition [I Know - On the Aesthetic of Truth](https://feralfile.com/exhibitions/i-know-on-the-aesthetic-of-truth-lqe), curator Giorgio Vitale speaks with Lívia Nolasco-Rozsas, scientific associate of Hertz-Lab at [ZKM Karlsruhe](https://zkm.de/en/person/livia-nolasco-rozsas), and Boris Magrini, head of program and curator at HEK (House of Electronic Arts Basel), about the entanglements of politics and aesthetics, the role of new technologies in regards to social issues, and which problems NFTs have the potential to solve.
 
 ---

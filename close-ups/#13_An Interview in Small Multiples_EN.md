@@ -1,3 +1,5 @@
+# An Interview in Small Multiples (Evolution of an Art Opening)
+
 On the occasion of [Field Guide](https://feralfile.com/exhibitions/field-guide-sss) — Evolution in Small Multiples, curator Artnome - Jason Bailey initiates a novel type of short form interview with the exhibition’s artists.
 
 <sub>These exchanges took place over email in January of 2022.</sub>

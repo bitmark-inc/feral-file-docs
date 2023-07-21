@@ -1,3 +1,5 @@
+#  The Poetry Journal of the Future
+
 FeralVerse is an anthology of multidimensional poems that embody theVERSEverse’s mission to explore the myriad ways in which words and images intertwine, growing together. Since 2021, theVERSEverse has explored the creative potential for composition and publication via blockchain, a realm where writers are empowered to transact their work, transcend the printed page, and collaborate with each other. This Feral File offering — the first exhibition of verse on the platform — is planted as a seed for the poetry journal of the future, in which authorial imagination is unbounded, language and art exist in symbiosis, and every contributor is a vital force in a literary ecosystem in which connection to verse can lead to collection.
 
 [FeralVerse](https://feralfile.com/exhibitions/feralverse-1qa) consists of ten collaborative performances between writers and artists at the avant-garde of web3 poetry and digital art, reflecting diverse perspectives, aesthetics, and approaches to the worlds around and inside us, always in flux.
