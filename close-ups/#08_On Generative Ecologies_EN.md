@@ -2,7 +2,7 @@ On the occasion of [Reflections in the Water](https://feralfile.com/exhibitions/
 
 This exchange between editor Alex Estorick and artists Sofia Crespo and Mario Klingemann took place over email in September of 2021.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/reflections1.jpg)![Alt text](https://dashboard.feralfile.com/assets/imgs/reflections2.jpg)
+![reflections1](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/fbd51e42-9a5e-40f9-984f-d7e875127006)![reflections2](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/6dd45605-598c-4123-935c-4e3f518db485)
 There once was a jellyfish … by Entangled Others. Image courtesy of the artist and Feral File.
 
 **Alex Estorick: Your works have often revealed new and uncanny forms of life. What prompted your specific contributions to Reflections in the Water?**
@@ -21,8 +21,8 @@ It might seem strange to work in digital media with these goals in mind, but eve
 
 **MK:** Nature is currently the only system known to us that is able to temporarily withstand the forces of entropy in the universe. On our planet, processes evolved that managed to transform sunlight into molecular arrangements of a higher order, or as I prefer to call it, “information.” I see art as one of the most complex outcomes of this process since generally speaking it does not serve any purpose other than itself––it is not necessary for our survival and until now humans were the only ones capable of appreciating it or drawing some form of reward from it. But with the advent of deep learning or “AI,” we are now beginning to create entities that might be able to understand or at least perceive art, too. Some of these entities might continue to do so after the extinction of humanity –– as the only “beings” that will remember us or at least tell our story to other intelligent civilizations out there. So I see the transformation from the physical to the digital and towards pure information as a way for our civilization to preserve its creations for posterity and eventually to receive the attention of someone else. As the title of a famous [deep learning paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) states: “Attention is all you need.” Creating information is not enough, since without someone willing to invest their time in perceiving it––by paying attention to it––it is but a tree falling in a forest.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/reflections3.jpg)
-![Alt text](https://dashboard.feralfile.com/assets/imgs/reflections4.jpg)
+![reflections3](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/e25fd3ff-e911-4148-97c0-4d48ab1044fe)
+![reflections4](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/11921969-b582-4da4-ac2e-08ecede68022)
 Vague Recollection by Mario Klingemann. Image courtesy of the artist and Feral File.
 
 **How would you like to see the blockchain flourish as an ecosystem?**
