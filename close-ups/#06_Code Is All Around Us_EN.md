@@ -2,7 +2,7 @@ Curator Pau Waelder on the never-ending instructions that govern our lives, huma
 
 This conversation happened on August 24, 2021 between Pau Waelder—the curator of [Instructions Follow](https://feralfile.com/exhibitions/instructions-follow-f1c)—and editor Willa Köerner.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/instructions1.jpg)
+![instructions1](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/915a03df-3c09-40e1-9f4c-8fe6f7d3f679)
 What do you want me to say? by Lauren Lee McCarthy. Image courtesy of the artist and Feral File.
 
 **Can we start with a behind-the-scenes intro to the exhibition you curated for Feral File, Instructions Follow? What’s the concept, and how’d you land on it?**
@@ -21,7 +21,7 @@ One of the things that has happened with the rise of the internet is that our ac
 
 So, within that uncertainty, we are looking for things to grab onto—things that give us a sense of, “I know what I’m doing.” That quest for certainty has led us to rely on technologies that promise to solve our problems by keeping us busy, or by helping us sleep at night, or by helping us get fit, or by doing whatever it is that we think could give us more certainty in our lives. Following instructions makes things simpler, so we’re inclined to follow whatever the app or the software tells us, as a way to keep sane.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/instructions2.jpg)
+![instructions2](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/5aa5f01e-1ce5-4af4-b2ef-6931f4ed6a02)
 Ultimate Solvers by Joana Moll. Image courtesy of the artist and Feral File.
 
 To talk a little bit more about some of the works in the show, are there shared characteristics you see between the artworks? How would you characterize the featured work overall?
@@ -38,7 +38,7 @@ I’ve been following the NFT space since the beginning of the year, and I find 
 
 To me, though, an NFT is just a way to register a digital artwork on the Blockchain—it’s not about the aesthetic at all. So, I just wanted the artists to be able to exhibit a digital artwork that could also be sold as an editioned NFT. Overall, I think that we have to go in that direction: Where a platform like Feral File can organize exhibitions in which artworks are accessible to a wide audience, while also guaranteeing proof of ownership for the people who do want to collect them, even though they are digital files that can be endlessly reproduced.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/instructions3.jpg)
+![instructions3](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/f40fec47-9c7c-4f3e-8280-443ce60894db)
 Are Smart Machines Alive?  by Irma Marco. Image courtesy of the artist and Feral File.
 
 **When people collect the works that are in your show, what do you hope they'll do with them?**
