@@ -6,7 +6,7 @@ When the pandemic hit and all exhibitions moved online for a brief period of tim
 
 The result is a short form interview intended to mirror the visual concept of small multiples in written form. Conceived of by Edward Tufte, small multiples display a set of images in close proximity to each other, in order to facilitate comparisons across the full group of images at a glance — a concept that [features prominently](https://feralfile.com/exhibitions/field-guide-sss) in the exhibition. The idea here is to quickly provide some more background, insight, and color into who the artists participating in the show are as people. It’s meant to be lighthearted and fun and written in a format similar to what one might find in a field guide.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/field-guide.jpg)
+![field-guide](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/207150d5-4554-4995-a6bd-cd2f86e747a7)
 <sub>Hypothetically Micro by Iskra Velitchkova. Image courtesy of the artist and Feral File.</sub>
 
 **Specimens:**
