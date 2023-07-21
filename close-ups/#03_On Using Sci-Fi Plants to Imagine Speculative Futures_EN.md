@@ -14,7 +14,7 @@ I was reading the book “Plants in Science Fiction: Speculative Vegetation,” 
 
 Yes, digital media has this incredible losslessness when multiplied. But also, those digital files end up displayed in such wildly varying formats—the same image can be a background on an Apple Watch or projected on an IMAX screen. Like nature, digital media try and adapt to their environment. But also like nature, it sometimes works and sometimes doesn’t. With this exhibition most of the artists are also including the 3D object files of their pieces in the collectible edition—I see these functioning like cuttings or seeds, which can be dispersed in various new 3D environments.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/hologram-rose-sabrina.jpg)
+![hologram-rose-sabrina](https://github.com/bitmark-inc/feral-file-docs/assets/62544879/0aa17e6f-c1ee-48fd-a805-0676eeba3f3e)
 <sub>Screen capture of “Floralia II” by Sabrina Ratté.</sub>
 
 **Why sci-fi plants? What do you think is exciting (both to you, and to the artists) about dreaming up new possibilities for otherworldly flora?**
@@ -25,7 +25,7 @@ Plants, even on earth, have these alien qualities. No one person has seen all pl
 
 The works range in scale and time, from micro to macro, and from plant organisms that wrap around and react to human forms to meta deconstructions of technical 3D elements and formats. Some artists took a more scientific, field notes-type approach, designing the formal traits, behaviors, and known habitats of their organism, while others embraced the more narrative aspects of the prompt.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/hologram-rose-Lawrence.jpg)
+![hologram-rose-Lawrence](https://github.com/bitmark-inc/feral-file-docs/assets/62544879/b28087fe-5c5e-4cf8-8f25-7ef234b713af)
 <sub>Screen capture of “Temple Lily” by Lawrence Lek.</sub>
 
 **From a technical standpoint, how are digital modes of artmaking important as avenues for thinking through speculative futures?**
@@ -42,7 +42,7 @@ Being the curator of this exhibition was its own creative process, and felt simi
 
 The other day I was thinking about the one-to-one cost of creating digital objects online vs. creating physical objects. For example, I could buy and download a 3D scan of a cannabis bud for $70 on a 3D market like Turbosquid, or with that same amount of money, I could order $70 worth of weed online from the shop down my street and have it delivered to me within minutes. So, maybe these would be the starting points for what I would create for this exhibition, and the results might be a Phillip K. Dick-type strain of downloadable/printable weed called “2-3-74 Kush” that adds any paranoid thoughts you have while stoned to a blockchain.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/hologram-rose-radon.jpg)
+![hologram-rose-radon](https://github.com/bitmark-inc/feral-file-docs/assets/62544879/b166da11-907b-4e3b-bc3a-64d952539884)
 <sub>Screen capture of “D. Flagellum” by Ido Radon.</sub>
 
 **What’s your take on Feral File’s approach to NFTs, where early collectors can purchase editioned artworks at a set price? How do you think this adds to what’s possible in the NFT space?**
