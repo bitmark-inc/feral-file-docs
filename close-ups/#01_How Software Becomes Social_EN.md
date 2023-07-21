@@ -1,6 +1,6 @@
 # How Software Becomes Social
 
-Social Codes curator Casey Reas on code as a creative medium, how artists are using social media as an extended studio, and what’s still possible for exhibiting art online.
+[Social Codes](https://feralfile.com/exhibitions/social-codes-pcl) curator Casey Reas on code as a creative medium, how artists are using social media as an extended studio, and what’s still possible for exhibiting art online.
 
 This conversation happened on February 15, 2021 between Casey Reas—the curator of Social Codes, who is also Feral File’s co-founder—and editor Willa Köerner.
 

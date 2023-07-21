@@ -1,6 +1,6 @@
 # On Using Sci-Fi Plants to Imagine Speculative Futures
 
-Rick Silva, curator of Fragments of a Hologram Rose, discusses the similarities between digital media and seeds, worldbuilding as a creative practice, and how the future can appear both utopian and dystopian at the same time.
+Rick Silva, curator of [Fragments of a Hologram Rose](https://feralfile.com/exhibitions/fragments-of-a-hologram-rose-liz), discusses the similarities between digital media and seeds, worldbuilding as a creative practice, and how the future can appear both utopian and dystopian at the same time.
 
 This conversation between curator Rick Silva and editor Willa Köerner took place over email in June of 2021.
 
