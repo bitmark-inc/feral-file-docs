@@ -1,0 +1,114 @@
+# Screen Time
+
+On the occasion of [On Screen Presence](https://feralfile.com/exhibitions/on-screen-presence-kpb), curator Regina Harsanyi discusses exhibition design, performance, and computer screen archeology with curator and writer Barbara London, who founded the video-media exhibition and collection programs at The Museum of Modern Art.
+
+![image1](https://dashboard.feralfile.com/assets/imgs/screenTime1.jpg)
+<sub>“Rewilded Topography” by Wiena Lin. Image courtesy of the artist and Feral File. </sub>
+
+Regina Harsanyi: As a pioneer who championed video as an artform in the white cube, not to say that you haven't also organized black box space, what is your preferred way to display moving image? Imagine you have all the resources you’d need.
+
+Barbara London: Display is determined first by the artist's ideas, and second, by particular space. Exhibitions take a lot of give and take, and thinking, and getting access to the right equipment, that is, if one can afford it. But I feel that both the white cube and black box are less than ideal. We have to work around limitations of space and be clever.
+
+**RH:** Can you expand on limitations you’ve encountered within the dichotomy of white cube versus black box? If neither is ideal, what happens when we figuratively take away walls? What is satisfied by going beyond these spaces?
+
+**BL:** I worked at a wonderful museum for a very long time. I always tried to find ways around institutional limitations. When I would organize various sound-intensive shows, especially with a limited budget, I would try to rope in other people in the museum. There was a wonderful colleague who ran MoMA’s Summer Garden. When I had an exhibition concept in place, I would go to her and ask, “Don't you want to include Pauline Oliveros in the Summer Garden program?” or, “Don't you want to have the Beastie Boys in the garden?” This way it was her budget, not mine! Or, I would have an exhibition in the gallery set, and then I would go to Raj Roy in the Film Department. I'd say, “Don't you want to have a film program organized in conjunction with my show?” He’d say, “Do you have the budget?” I'd reply, “No, I want to use yours.” That's how I tried to expand.
+
+**RH:** How do you realize these works in lofty formats that also represent artist intent?
+
+**BL:** I always tried to stretch exhibitions on behalf of and in conjunction with the artist. Once, a very long time ago, I sat down and had lunch with Dan Graham. I had just returned from Kassel where I saw his installation in an arcade for Documenta. This was when the Citicorp building on Lexington was brand new, and I knew the person who programmed the atrium. I said to Dan, “Let's try to get them to present your work in their atrium.” We pitched the idea, and of course we were turned down. But I would always try, because the gallery was often not actually the right space for something.
+
+**RH:** Right. It's in the spirit of Malraux’s “museum without walls.”
+
+**BL:** Yes.
+
+![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime2.jpg)
+<sub>“Sketches In Iron” by 0xDEAFBEEF. Image courtesy of the artist and Feral File. </sub>
+
+**RH:** One of my motivations for On Screen Presence was derived from my frustrations with the inability to live among artwork beyond sitting in front of my native computer, the same computer I do work on and experience other forms of entertainment. For me, it’s not necessarily the same as standing in front of a screen in a white cube space or even a garden. There’s something reflexive about that experience, one my living room will always lack. Do you successfully have intimate experiences with novel, digital works experienced from your own living quarters, or do you resonate with the same setbacks that I felt during the height of the pandemic?
+
+**BL:** I definitely had very much the same experience as you during COVID when I was stuck in my home. That was when I decided to raise funds for my own podcast series, “Barbara London Calling,” featuring artists like Anri Sala and many others. I feel strongly that aesthetics of an art experience is very complicated and it’s difficult to pull off, but a lot of us, like you and me, have a fair amount of experience. We've either programmed, curated, written, thought about, or had conversations with these amazing artists, so our mind is at least a repository of all of that experience.
+
+Flat screens are terrible. I can’t stand it. I’m in front of it so many hours a day, and I'm forever sifting through “new information” that comes across through various listservs or whatever, and I always go to the images. I think, “Painting? No, I'm not interested now,” then go on. I try to get into what the artist is doing, what’s going on. And somehow in my head, I try to put it all together and that can still be rewarding.
+
+**RH:** I’m definitely struggling with constant limitations I come up against with exhibition design, specifically within the space a flat screen alone provides. Many websites hosting born-digital art since 2018, primarily in the service of NFTs, purport to be about curatorial, but then they’re templated. I agree 100%. It's like every single artwork has different parameters and requires a conversation with the artist. It’s just not something that can have a strict template.
+
+**BL:** Yes, this is a new domain, and I’m wrapping my head around what it is. You using the word template here resonates. Richard Mosse was approached by someone. They asked , “Why are you making these enormous installations that very few people can see? Why don’t you shift it over to an NFT?” The individual asking had a template which would scrunch and restrict Mosse’s work. Why should Mosse do that? But he could. Many artists do this because at some point it becomes about the seduction of money.
+
+**RH:** I can’t help but think about the history of artists experimenting with the limitations of the web and GIF culture. For example, there was this popular website called You’re The Man Now Dog, where artists would try and sometimes fail to properly sync audio with GIFs. All of  these artists would still flock to this forum and share work with one another, understanding limitations. But as you mentioned with Mosse, the issue is when the artists aren’t okay with those limitations, forced to constrain themselves.
+
+**BL:** We learn by doing, or we learn by looking, we learn by talking. So, perhaps it’ll be perfectly fine for Richard to do something as an NFT, as long as he understands and accepts the limitations, and if it’s just one single image that somebody is buying. But if you’re buying a Mosse, why would you buy an NFT instead of a gorgeous, large photograph? It all appears to be about promotion, auction sales, as prices go up and up. I know there are a lot of people out there engaged in software, people who are buying this material, and that's all fine. I'm glad they're being introduced to art rather than another fast, fancy car, item of clothing, piece of jewelry, or whatever.
+
+**RH:** Again, thinking back to April 2020, maybe it was lack of meat space and platonic, tangible human connection for me. When I started conceptualizing On Screen Presence, I didn't imagine that artist faces would be in these performances. I had imagined a bunch of robotic plotter arms making process art. But the presence of artists themselves have now become a major component, whether it’s a camera simply focused on their hands making, or sitting in front of the camera speaking directly to viewers, who in some cases will be interacting with and co-authoring these works…
+
+I'm thinking a lot about process art in general, and the extent of how much of it is off screen, created in the lead up. We’re not going to see them writing software, for example, we’re going to see them executing said software. What are your thoughts on process art, intimacy, and artist presence through a live stream?
+
+**BL:** In some ways, you’ve made me think back to the start of my own career, when very little was written about video. Very little was written about performance, which wasn’t even called performance then, it was called events. Joan Jonas never called her work performance at the beginning. I would be there, and would watch Joan perform with live and prerecorded imagery and her props. Or I watched Nam June. I witnessed him slowly, slowly move around Anthology Film Archives, and ultimately, he smashed to smithereens an upright piano, which was probably a comment on bourgeoisie culture. Every middle-class family had a piano and their kids took piano lessons.
+
+I saw all kinds of works like this. When the artist is indeed present, and you’re there, live with them, then you have a very different experience, one that I know you’ve thought a lot about. It’s personal, and it’s always going to be different for everybody. And then artwork that you put together in a show, everybody will have a different interpretation, and all that's fine, different reactions. Experiences with art are changing every minute as technology keeps changing, or culture and politics also shift.
+
+I think something about process is arcane or abstruse, like the creation of a software. Some people, all they do is buy their software off the shelf. They’re not engaging with writing code. They’re not Auriea Harvey, who is able to do so much. I knew someone who had a school in New York, where he taught coding to artists to get them out of that fear.
+
+![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime3.jpg)
+<sub>“Every Icon: BlockPrint” by John F. Simon Jr. Image courtesy of the artist and Feral File. </sub>
+
+**RH:** I’m reminded of something else I was reading a couple of days ago. It was this conversation about how when you stand in front of a painting, whether you have experience working with or understanding pigments chemically, you do get an idea of process, such as seeing the brushstrokes, and being in front of this tangible support as object. But there’s something elusive about the process of software, where the executable does not readily reveal its proverbial strokes.
+
+**BL:** In addition to the process involving this abstract software, the question is, how is the artist working with it? What does it mean to have the artist’s hand involved with software? Many new collectors engaging with these works aren’t really thinking as much about the artist process, they’re just thinking about the aesthetic as a product tied to the speculative value, so it might be why you feel you have to expose it, like you have to bring the artist back into it.
+
+**RH:** I think it was Douglas Crimp who referenced Leo Steinberg’s concept of the canvas as flatbed. Steinberg was thinking about Rauschenberg's combines, while Crimp is obviously considering photography and moving image media “out of bounds.” And other than watching a film in a theater, I’m primarily drawn to more sculptural, complex variable media myself. This may be why the pandemic made me feel so trapped. It was truly because I couldn’t be in the round with art. What are your thoughts on what I call “the loss of the flatbed” during the pandemic, when experiencing screen native work at home? Could this be reconciled?
+
+**BL:** I think we’re deprived when we don’t have access to the flatbed. But there’s one issue there that is quite dramatic, and that is sound. Most people don’t have very good headphones or don’t even use them. I think sound is very integral to a tangible, centered experience. I could really go on from there. That’s only one aspect, although an important aspect lost at home. I believe viewers are much smarter than institutions, or smarter than institutions think they are. Many decades ago, when people went to MoMA for the Picassos, Matisses, or Andrew Wyeth Christina's World, they’d somehow come across video.
+
+At the beginning, I always offered simple handouts, which viewers could pick up. They might have thrown them away, but I didn’t care. If some flyers made its way out the door with them, maybe they’d read it. Then they had a little more experience, and come back for a second viewing. It would be deeper. It’s important because knowledge is cumulative. Experience is different when you’re only viewing art at home. Sound plays a very big role. In a lot of the work I dealt with, especially in the beginning of my career, many artists working with video and performance came out of music.
+
+**RH:** That's a great point, but even if you can’t hear audio as it should be experienced from your home, it's not something you necessarily fully lose. To me, the loss of a flatbed is about losing the sculptural, “out of bounds” experimentation that is possible with screen and screen-adjacent hardware, but you lose that because the artists couldn't necessarily come to your house with a mask and start painting or placing three-dimensional objects directly on the glass of your screen. But it does mean a lot that you can’t access audio in a way that a curator and artist may shape in a more controlled space.
+
+**BL:** Recently I caught up with an artist by the name of Dara Friedman. She has a project this summer in Italy, in a deconsecrated church in the little town of Cremona. It's where Stradivarius lived. It’s where today there are over 200 violin makers. Dara is creating an installation in a deconsecrated church in a town devoted to sound, so she’s making a very particular work that relies strongly on sound.
+
+**RH:** There's no way that could translate through everybody’s specific hardware in their homes, right? It requires being in a place particularly calibrated to view that and hear it correctly.
+
+I can’t stop thinking about the role of the recording. The post performance, the concept of the indexical media. Probably out of Claire Bishop, or really more likely it was Rosalind Krauss. Except performance in this show originates with the livestream video. They are simply played back after the fact, not really changing medium. It’s not like people will be watching these with their body in the same space as the artist’s body, and then later on, a recording emerges. How often has performance entered into your own curatorial work and what is the relationship between the live performance and its recording, in your experience?
+
+**BL:** Goodness. I’ve thought a lot about that over the years. I watched Joan Jonas perform with pre-recorded and live material when performance as artform was novel. It’s like apples and oranges to me, the live and the prerecorded. I feel that when we consider both, the artist working live has made certain decisions and has thought about the space or the stage, or the no space or no stage; and then when there’s a recording, it’s one thing if it’s a Nancy Holt and Robert Smithson who were the eye behind the camera and the movement around and through their work. They are sharing with the viewer what that piece is.
+
+In other cases, it’s someone else behind the camera, and maybe they have a politics that is quite different from that of the artist. I don't always trust the document, so that’s one answer. But generally, there’s a lot that you have to process when you’re looking at a document after the fact. You have to ask, who was behind the camera? In the same way, whose words about a work are we reading? Are they Bruce Nauman's words, and did he reinterpret what he was doing when he spoke later? Rosalind Krauss had a very particular agenda. What about Lucy Lippard?
+
+![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime4.jpg)
+<sub>“The Interfered Microscopy Plot” by Golan Levin. Image courtesy of the artist and Feral File.</sub>
+
+**RH:** The whole impetus for this show is for it to be live, and for people to experience it live. Three of the works are meant to be interacted with in real time, turning viewers into coauthors of the recording. So what does it even mean to engage with the recording later on? What is its relationship to it being “the artwork?” I’m trying to explore this type of intimacy, which naturally must be getting lost if you weren’t there during the actual performance. It ends up being a post-performance commentary as much as it’s about live performance.
+
+**BL:** Experience in the moment is very different. You feel the tension, or perhaps there will be some misstep, and then after the fact, maybe it doesn't have quite the resonance that you would feel if you were there as the work was unfolding live.
+
+**RH:** Do you lose the whole point if the intimacy of being there at the same time as the artist is not accessible? You’re almost like a voyeur viewing something that you weren’t a part of. And since each performance [in On Screen Presence] ends with the production of a work, then what is the relationship of the produced work, often tangible, to the video of the live performance? Is it a multi-part piece that culminates into an installation? Is it solely to be viewed as documentation post-performance?
+
+**BL:** You used the term installation. A collector would have the work in different iterations. Are you providing the artist’s parameters for an installation?  Would you specify screen size, type of screen luminance, all of that? Then there’s the object. Should it be on a little plinth? Should it be set on the collector’s library shelf? It’s complicated.
+
+**RH:** Right. And going back to this concept of exhibition design versus the rise of online viewing rooms, and all these things that broke down and compromised these methodologies, you can’t necessarily have it both ways. It’s complicated to have a flat webpage and then also facilitate the constantly changing parameters and iterations around installation.
+
+**BL:** In my career, I learned straightaway that installation was a form that an artist precisely defined. Bill Viola called his early audiovisual installation work “tuned environments.” He came out of music also, so for him, sound was very important. Artists Marina Rosenfeld and Jana Winderen also carefully tune the environment to the particular sound of their work, as do Janet Cardiff and her partner George Bures Miller. The latter works with a “Tone Meister.”
+
+**RH:** Right. But that is iterative, because every time they have to tune it differently, depending on the space they’re in. There’s something site-specific to that. The parameters of Feral File definitely come into play when thinking about site-specificity. These artists are basically tuning these concepts specifically to the way Feral File was built.
+
+I think some might look at this show and the questions being explored and go, ‘Well, what about putting on a VR headset and/or the act of  entering a virtual environment — isn’t that already the answer to your issues with the flat screen? You can enter this environment, and ‘feel’ like your body is in space with objects.” I take issue with this perspective, even with clumsy haptics. Trying to be optimistic, do you think virtual environments will ever properly render work that is not native to that particular program, and could they satisfy the need for a more corporeal human contact and connection?
+
+**BL:** We at least have the hope that it all gets better and better. I’ve seen a few examples of what to me was interesting VR, such as the work of Jakob Kudsk Steensen.
+
+![Alt text](https://dashboard.feralfile.com/assets/imgs/screenTime5.jpg)
+<sub>“Movie on 06-03-22 at 1.00 PM” by Molly Soda. Image courtesy of the artist and Feral File. </sub>
+
+**RH:** But with Jakob Kudsk Steensen or say, Alfredo Salazar-Caro, these works are made specifically for VR. They’re native to those environments, right? That’s a different concept to me. But what my issue tends to be is with creating these skeuomorphic white cube environments importing PNG, MP4, or more complicated file formats. They get particularly compressed, they don’t playback properly. All the issues that arise are not satisfying. And also, I tend to still feel this sense of disembodiment. The concept of importing and then purporting that it’s equal to me going into a gallery environment is false. I have this reflexive relationship with tangible space that just corporally doesn’t exist without what is afforded to some degree with expensive, clumsy haptics. I sometimes worry that virtual reality is still stuck in a similar place, from a technological perspective that it has been in for a couple decades.
+
+**BL:** Like you, I have issues with this. And then there are producers creating these environments who just want to make money, so they’re looking for content, and just grabbing what they can without consideration. Recently, both Jakob and Ed Atkins told me that they’re each now turning their attention to theater, beyond the VR headset.  I don’t know what it will be, but both will creativity push the tools somewhere new.
+
+**RH:** I really like that, because you have all these collectors and entrepreneurs who are new to developing a kind of fine art literacy now talking so optimistically about virtual environments and how they’re the future. But at the same time, you have artists who have been thinking about this for a long time now pushing out of the virtual environment and into the dispositif of theater. Is that somehow or somewhat born out of this obsession with experiential that was happening just before the pandemic, which was also commodified?
+
+**BL:** Yeah. It’s pushing for another challenge. I think that’s what artists always want — a new boundary and a new move. I experienced Lori Anderson’s VR work. In her work, there’s this moment where all of sudden I look down and I’m on a donkey. That was pretty amazing, that I really felt that I was moving along.
+
+**RH:** So did you feel it? What does it mean to feel when you’re in that situation? It’s not like you're wearing a Teslasuit.
+
+**BL:** Lori understands language really well, she understands image, and there was a sense of surprise. I think the concept [for your show]  is really great because during COVID, and they continue, although I get less of it now, galleries did all kinds of virtual walkthroughs, some better than others. They were really just trying to sell works.
+
+**RH:** Is it possible to sell works online and also have respect for material?
+
+**BL:** Well, the thing about those galleries, and when they do art fairs, they have their regular buyers. They know their tastes, so they pitch work specifically to them, even if it’s just an image. And I think all of us, [who aren’t primarily gallerists] on the other hand, we’re also educators. So you’re, in a way, trying to educate people as to what this work really is, and that’s quite valuable.
