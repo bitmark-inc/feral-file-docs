@@ -10,7 +10,7 @@ On the occasion of [Ecotone](https://feralfile.com/exhibitions/ecotone-swo), cur
 
 **Isaac Patka:** The magic comes from the fact that, when artists and engineers collaborate, the result is different from everyone’s expectations going in. As an engineer, I have a strong understanding of the constraints and boundaries of my field, and I have assumptions about how an artist might play within and at the edges of that field. However, these assumptions are quickly challenged when the artist learns just enough to start asking the right questions. While the artist may initially be disappointed by some of the constraints and challenges which make their early vision infeasible, the process of adapting, fitting their vision to the medium, and pushing it to the edge is exciting for all parties involved.
 
-![image1](https://dashboard.feralfile.com/assets/imgs/LawrenceLek1.jpg)
+![LawrenceLek1](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/dc7a5c5d-1a36-4d6f-bd93-1d83117d303d)
 <sub>“Becoming Illegible (Mirror Studies #1)” by Sarah Friend. Image courtesy of the artist and Feral File.</sub>
 
 **PDF:** What happened at Glitch in that regard?
@@ -19,7 +19,7 @@ On the occasion of [Ecotone](https://feralfile.com/exhibitions/ecotone-swo), cur
 
 Beyond thinking of tokens as URIs linking to a digital representation of some static artifact, artists at Glitch are interested in exploring other ways to use these tokens. Could tokens represent attribution, remix rights, liquid royalties? Could tokens own other tokens, and what would be the impact of that? What are the implications of sending tokens in permissionless fashion to another person without their consent? How can the artwork be made dynamic, responding to other changes on chain, over time, or as the art moves from owner to owner?
 
-![image2](https://dashboard.feralfile.com/assets/imgs/LawrenceLek2.jpg)
+![LawrenceLek2](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/a4d3eade-d810-477c-9e03-497a75817185)
 <sub>“Interplanetary” by Gene Kogan. Image courtesy of the artist and Feral File.</sub>
 
 **PDF:** Did you engage in any collaborations with artists?
@@ -40,7 +40,7 @@ It is also a project that I believe is in line with the values of the DADA commu
 
 **IBR:** Actually yes, during the residency we worked specifically on how to represent intrinsic rewards visually, and we received new insights after we shared our Dadagram with the Glitch community. The Dadagram is a sensing device that helps people assess what feels right to them. This is a new way to account for value that enables non-transactional distribution.
 
-![image3](https://dashboard.feralfile.com/assets/imgs/LawrenceLek3.jpg)
+![LawrenceLek3](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/18f929bb-9ebc-42a5-9120-38b1581192e2)
 <sub>“Littor[alter]ms” by Kalen Iwamoto. Image courtesy of the artist and Feral File.</sub>
 
 **PDF:** What language should we be using to define hybrid art practices that involve multiple literacies?
@@ -55,7 +55,7 @@ Do you feel that blockchain technology is helping to emerge a new hybrid artist-
 
 **IP:** In my view, blockchain is just another medium that creative people are exploring, like other new technical media before it. Perhaps it’s producing more game theorist artists, economist artists, and legal artists. But for engineers, it’s exciting to use our skills to create outwardly beautiful things. I know that many engineers, myself included, see beauty and art in a well-architected application, state machine, or documentation. But these are not normally appreciated in the same way as works of art.
 
-![image4](https://dashboard.feralfile.com/assets/imgs/LawrenceLek4.jpg)
+![LawrenceLek4](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/0b0dc0df-0918-46e5-a2f0-f3a133eea5c7)
 <sub>“element/tr33/obj (AV-2022-U-274)” by aurèce vettier. Image courtesy of the artist and Feral File.</sub>
 
 **PDF:** It is my strong belief that most exceptional engineers would make exceptional artists as well, if only they would let themselves move in that direction. Perhaps one of the most interesting outcomes of artist-engineer collaboration is getting artists to help engineers reveal the artists within them, and vice versa. Based on your experience of Glitch, what would you like to share with your fellow artists and engineers?
