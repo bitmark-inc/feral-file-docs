@@ -12,7 +12,7 @@ While the characters represent two attitudes towards the evolution of intelligen
 
 The exhibition’s featured artworks mostly incorporate coding, specific models  (GAN, GPT-2, face detection, etc), or simulation technologies. However, with a serendipity offset from the “real” and the “precise,” they discuss topics such as our experience of dreams, time, memory, oracles, ever-changing water surfaces, ever-changing nature, human authenticity, and a satellite fading away into deep space. These are the realms that contemporary technologies still cannot entirely depict, simulate, explain, or predict. The ambiguous and uncertain space emerging from these works is where a progress-driven person may get lost, until a moment of re-realisation snaps them out of it.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/long-cut-oracle.jpg)
+![long-cut-oracle](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/b5b94f3b-b282-4030-b416-2c8da2fd8955)
 Screen capture of “Abstract Oracle Miner 0009328437” by Guo Cheng & Weihao Qiu.
 
 **What do you think this exhibition teaches us about how we can and should engage with technology? Is there a human level that we tend to overlook when focusing too closely on technological progress?**
@@ -27,7 +27,7 @@ Many of the featured works question the notion of our technological reality as s
 
 We live in a time of planetary engineering, where we’re focused on converting the environment into a more habitable state. This also implies the duplication/iteration of our societies as we reach towards life on other planets. This is a “blueprint” not merely on the scale of a product, community, or society—but rather a more ambitious and expansive blueprint that reaches towards the cosmos. The show takes a cautious mindset towards this kind of linear progression and single-directional, accelerated expansion. I hope viewers resonate with how the artists’ works react subtly to this topic.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/long-cut-lived-yesterday.jpg)
+![long-cut-lived-yesterday](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/5e24e630-db3e-4ffd-a914-0893f1397725)
 Screen capture of “The One Who Lived Yesterday” by Cao Shu.
 
 **Can you share how some of the works in The Long Cut play with or critique the idea of a blueprint?**
@@ -44,7 +44,7 @@ The platform encourages artists to think about file formats and offers the possi
 
 One surprising bonus within the show is the work “Abstract Oracle Miner 0009328437” (Guo Cheng & Weihao Qiu), which not only plays with the browser container, but also extends the discussion towards the hardware/software hybridity of our internet environment. By making visible the hardware performance and physical reactions of each user’s computer, the work provokes the material infrastructure of our network systems. Through this, we come to realize that the materverse is never floating on a real cloud; instead, it still operates within the parameters of geological forces.
 
-![Alt text](https://dashboard.feralfile.com/assets/imgs/long-cut-steering.jpg)
+![long-cut-steering](https://github.com/bitmark-inc/feral-file-docs/assets/62201063/5199048c-8547-4ec0-8603-af69e80c45ed)
 Screen capture of “Steering Pixels” by Studio Above&Below.
 
 **How do you hope to see digital artworks and digital exhibitions evolving in the near and distant future(s)? What’s your hope for the digital art space?**
