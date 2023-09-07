@@ -14,7 +14,7 @@ Below, I am providing you with the terms of our agreement for your work to be ex
     - Series can be created from any medium. Series can be a single data type selected from: generative (code), video, image, 3d models, language, etc. 
 - The  artist, curator, and Feral File receive one artwork from each series that is larger than 10 artworks (or as otherwise agreed). 
 
-**Refik Anadol’s _[Unsupervised](https://feralfile.com/exhibitions/unsupervised-sla) _is a strong example of a model Feral File solo exhibition.**
+**Refik Anadol’s [Unsupervised](https://feralfile.com/exhibitions/unsupervised-sla) is a strong example of a model Feral File solo exhibition.**
 
 **In general, artwork installation must be completed <u>at least six weeks in advance of the opening<u>. Specific due dates for all tasks are shared within the Feral File exhibition installation interface.**
 
