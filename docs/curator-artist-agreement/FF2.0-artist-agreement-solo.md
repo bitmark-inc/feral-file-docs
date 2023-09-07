@@ -2,7 +2,7 @@
 
 **{Artist Name}:**
 
-Curator [Curator Name] has invited you to a solo exhibition to be opened on Feral File in [DD-MM-YYYY]. 
+Curator {Curator Name} has invited you to a solo exhibition to be opened on Feral File in {Date}. 
 
 Below, I am providing you with the terms of our agreement for your work to be exhibited and sold on [Feral File](https://feralfile.com). Please let me know if you have any questions.
 
