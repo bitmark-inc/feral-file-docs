@@ -51,13 +51,13 @@ If you understand and accept the responsibilities explained above and in The Cur
 
 Understood and Agreed:
 
-<br>Curator Name:
-<br>Employer (if any): 
+Curator Name:
+Employer (if any): 
 
-<br>Signature:
-<br>Date:
+Signature:
+Date:
 
-<br>Sincerely,
-<br>Michael Nguyễn
-<br>Head of Operations
-<br>Bitmark
+Sincerely,
+Michael Nguyễn
+Head of Operations
+Bitmark
