@@ -57,13 +57,13 @@ Understood and Agreed:
 
 If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by sending “I AGREE ON BEHALF OF [COMPANY NAME]”)
 
-<br>Artist Name:
-<br>Employer (if any): 
+Artist Name:
+Employer (if any): 
 
-<br>Signature:
-<br>Date:
+Signature:
+Date:
 
-<br>Sincerely,
-<br>Michael Nguyễn
-<br>Head of Operations
-<br>Bitmark
+Sincerely,
+Michael Nguyễn
+Head of Operations
+Bitmark
