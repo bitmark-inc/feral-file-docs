@@ -30,5 +30,4 @@ _Congratulations on the opening of SOURCE. My heartfelt thanks to Operator, 0xDE
 _Wishing for a splendid exhibition._
 
 _Best regards,_
-
-_qubibi - Kazumasa Teshigawara_
+<br />_qubibi - Kazumasa Teshigawara_
