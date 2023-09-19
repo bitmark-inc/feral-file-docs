@@ -13,7 +13,7 @@ _Dear All,_
 
 _I recently had a special opportunity to [exhibit my artwork “Mimizu Tree”](https://twitter.com/qubibien/status/1696492125805011024) next to Hans Dehlinger's "Yellow Tree" at the gallery Expanded.Art in Berlin. Hans, who is 83, has devoted an enormous amount of time to generative art. I presented my first generative artwork, ["hello world,"](https://vimeo.com/243842004) 13 years ago — a mere moment in time for Hans._
 
-_By the way, the question from Feral File gave me pause, and made me think deeply._😅
+_By the way, the question from Feral File gave me pause, and made me think deeply._ 😅
 
 _The core code that I used in "Mimizu" is the same as the one in "hello world." One day, I became fascinated by the unintentional boundaries that emerged when I was playing with colors in Photoshop. While I was recreating those lines in code, a moving pattern appeared by chance. Nowadays, this has become so generalized that it's even used as an effect in tools under the name of Turing Patterns. However, at the time, it was a shock to me. The emotion born at that moment might have been a mix of awe and perhaps even jealousy towards this uncharted depiction. If “source” is understood to mean “origin,” then the emotions that arose at that time could be considered the source of all of my generative art. As a result of my contemplation about how I could turn this depiction into an artwork, “hello world” was born in 2010._
 
