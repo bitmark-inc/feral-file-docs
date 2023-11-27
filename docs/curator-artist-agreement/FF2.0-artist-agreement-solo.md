@@ -39,9 +39,9 @@ Below is a summary of your responsibilities:
 
 **For these responsibilities, we agree to the following compensation:**
 1. **Primary Sale**
-    1. You receive 80% of the purchase price, minus any applicable transaction fees* paid to the payment processor (not Bitmark/Feral File). 
+    1. You receive {artist primary sale royalty} of the purchase price, minus any applicable transaction fees* paid to the payment processor (not Bitmark/Feral File). 
 1. **Secondary Sale**
-    1. You receive 7.5% of the purchase price, minus transaction fees.
+    1. You receive {artist secondary sale royalty} of the purchase price, minus transaction fees.
 
 ** Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%. You can use our worksheet to understand how the payment structure  breaks down (you will need to  make a copy to edit the figures): [Feral File Exhibition Financials - Artist + Curator - 2023](https://docs.google.com/spreadsheets/d/1gpOSaji6kQ3jLjtzQU7ixlATfXmNWq5Cv-vZ_fRx_Qw/edit#gid=1326931850) 
 
