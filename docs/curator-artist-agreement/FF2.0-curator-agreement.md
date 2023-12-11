@@ -6,7 +6,7 @@ I am providing you with the terms of our agreement for your work curating a new 
 
 **For these responsibilities, we agree to pay you  the following compensation:**
 - **Fixed fee of $2,000, paid in USDC.**
-- **{curator primary sale royalty %} share of Bitmark’s portion of Net Sales from the exhibition**, paid in the currency of the transaction (USDC is used for credit card transactions)
+- **{curator primary sale royalty} share of Bitmark’s portion of Net Sales from the exhibition**, paid in the currency of the transaction (USDC is used for credit card transactions)
 - **You will receive an artwork from each series of a group exhibition or from each series of a solo exhibition that is larger than 10 artworks (or as otherwise agreed).** Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) with the following fee structure: You will pay the artist {artist secondary sale royalty} of the selling price, pay Feral File {Feral File secondary sale royalty} of the selling price, and retain {collector secondary sale royalty} of the selling price, minus transaction fees.  
 
 You can use [this worksheet](https://docs.google.com/spreadsheets/d/1gpOSaji6kQ3jLjtzQU7ixlATfXmNWq5Cv-vZ_fRx_Qw/edit#gid=1326931850) to understand how the payment structure other than the fixed fee breaks down (you will need to make a copy to edit the figures). Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
