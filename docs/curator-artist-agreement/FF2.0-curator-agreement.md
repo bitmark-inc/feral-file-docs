@@ -47,7 +47,7 @@ If the exhibition does not proceed due to events beyond the reasonable control o
 
 You understand and agree that this agreement contains all of Feral File’s obligations to you, and together with the documents referenced in this agreement, supersedes all prior understandings regarding its subject matter.  You waive any claims against Bitmark/Feral File and its management and  personnel in excess of the obligations set forth in this agreement and hold Bitmark/Feral File and its management and personnel harmless against any claims which may arise from your activities under this agreement. 
 
-If you understand and accept the responsibilities explained above and in The Curator’s Guide, please confirm acceptance of this project and the terms of this agreement by clicking “Sign contract” below.
+If you understand and accept the responsibilities explained above and in The Curator’s Guide, please confirm acceptance of this project and the terms of this agreement by clicking “Sign contract” button below.
 
 Understood and Agreed:
 
