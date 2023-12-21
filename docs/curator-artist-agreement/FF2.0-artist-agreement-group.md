@@ -60,17 +60,9 @@ You can review the full terms and conditions of your rights in the current versi
 
 Understood and Agreed:
 
-(You may also sign by replying to this email with “I AGREE”
+(You may also sign by clicking the button “Sign contract”
 
-If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by sending “I AGREE ON BEHALF OF [COMPANY NAME]”)
+If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking “Sign contract”)
 
-<br>Artist Name:
-<br>Employer (if any): 
-
-<br>Signature:
-<br>Date:
-
-<br>Sincerely,
-<br>Michael Nguyễn
-<br>Head of Operations
-<br>Bitmark
+<br>Artist Name: {Artist Full Name}
+<br>Employer (if any): {Optional, Fill out by artist}
