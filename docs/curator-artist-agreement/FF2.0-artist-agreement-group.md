@@ -60,7 +60,7 @@ You can review the full terms and conditions of your rights in the current versi
 
 Understood and Agreed:
 
-(You may also sign by clicking the button “Sign contract”
+(You may also sign by clicking “Sign contract” button blow
 
 If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking “Sign contract”)
 
