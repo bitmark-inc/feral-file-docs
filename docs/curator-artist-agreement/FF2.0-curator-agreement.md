@@ -53,11 +53,3 @@ Understood and Agreed:
 
 Curator Name:
 Employer (if any): 
-
-Signature:
-Date:
-
-Sincerely,
-Michael Nguyễn
-Head of Operations
-Bitmark
