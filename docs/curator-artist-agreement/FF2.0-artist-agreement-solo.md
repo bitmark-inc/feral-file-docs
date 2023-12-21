@@ -59,11 +59,3 @@ If you have assigned your rights in your artwork to a company you control, you m
 
 Artist Name:
 Employer (if any): 
-
-Signature:
-Date:
-
-Sincerely,
-Michael Nguyễn
-Head of Operations
-Bitmark
