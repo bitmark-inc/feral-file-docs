@@ -59,9 +59,7 @@ If the exhibition does not proceed due to events beyond the reasonable control o
 You can review the full terms and conditions of your rights in the current version of the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) and [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector). You understand and agree that this agreement, together with the documents referenced in this agreement, supersedes all prior understandings regarding its subject matter.
 
 Understood and Agreed:
-
-(You may also sign by clicking “Sign contract” button blow
-
+(Click “Sign contract” button below)
 If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking “Sign contract”)
 
 <br>Artist Name: {Artist Full Name}
