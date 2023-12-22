@@ -1,13 +1,13 @@
 # Curator Agreement
 
-**{Curator Name}:**
+**{{ .Signer.FullName }}:**
 
-I am providing you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on {Date} with the responsibilities detailed in [The Curator’s Guide](https://docs.google.com/document/d/1g6F7IiDB5D3jWExJ8-HHfJdtZB5TlB-s-Zkuz5bztTI/edit). There may be other tasks discussed and agreed upon by both parties (Bitmark/Feral File, yourself) over email.  Those tasks, once agreed, will be part of this agreement.
+I am providing you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }} with the responsibilities detailed in [The Curator’s Guide](https://docs.google.com/document/d/1g6F7IiDB5D3jWExJ8-HHfJdtZB5TlB-s-Zkuz5bztTI/edit). There may be other tasks discussed and agreed upon by both parties (Bitmark/Feral File, yourself) over email.  Those tasks, once agreed, will be part of this agreement.
 
 **For these responsibilities, we agree to pay you  the following compensation:**
 - **Fixed fee of $2,000, paid in USDC.**
-- **{curator primary sale royalty} share of Bitmark’s portion of Net Sales from the exhibition**, paid in the currency of the transaction (USDC is used for credit card transactions)
-- **You will receive an artwork from each series of a group exhibition or from each series of a solo exhibition that is larger than 10 artworks (or as otherwise agreed).** Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) with the following fee structure: You will pay the artist {artist secondary sale royalty} of the selling price, pay Feral File {Feral File secondary sale royalty} of the selling price, and retain {collector secondary sale royalty} of the selling price, minus transaction fees.  
+- **{{ share .FirstSale }} share of Bitmark’s portion of Net Sales from the exhibition**, paid in the currency of the transaction (USDC is used for credit card transactions)
+- **You will receive an artwork from each series of a group exhibition or from each series of a solo exhibition that is larger than 10 artworks (or as otherwise agreed).** Future sales or other dispositions of such editions are subject to the [Art Sale Agreement](https://feralfile.com/docs/art-sale-agreement) with the following fee structure: You will pay the artist {{ percent .ReSale.Artist }} of the selling price, pay Feral File {{ percent .ReSale.Platform }} of the selling price, and retain {{ percent .ReSale.Seller }} of the selling price, minus transaction fees.  
 
 You can use [this worksheet](https://docs.google.com/spreadsheets/d/1gpOSaji6kQ3jLjtzQU7ixlATfXmNWq5Cv-vZ_fRx_Qw/edit#gid=1326931850) to understand how the payment structure other than the fixed fee breaks down (you will need to make a copy to edit the figures). Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%.
 
@@ -51,5 +51,9 @@ If you understand and accept the responsibilities explained above and in The Cur
 
 Understood and Agreed:
 
-<br>Curator Name: {Curator's Full Name}
-<br>Employer (if any): {Optional, Fill out by artist}
+<br>Curator Name: {{ .Signer.FullName }}
+{{ if .Signer.Metadata.Company }}<br>Employer (if any): {{ .Signer.Metadata.Company }}{{ end }}
+{{ if .ExhibitionLegalSignature }}
+<br>Signature: {{ .ExhibitionLegalSignature.Signature }}
+<br>Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
+{{ end }}

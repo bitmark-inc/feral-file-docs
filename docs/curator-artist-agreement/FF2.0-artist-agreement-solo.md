@@ -1,8 +1,8 @@
 # Artist Agreement Solo
 
-**{Artist Name}:**
+**{{ .Signer.FullName }}:**
 
-Curator {Curator Name} has invited you to a solo exhibition to be opened on Feral File in {Date}. 
+Curator {{ .Curator.FullName }} has invited you to a solo exhibition to be opened on Feral File in {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }}. 
 
 Below, I am providing you with the terms of our agreement for your work to be exhibited and sold on [Feral File](https://feralfile.com). Please let me know if you have any questions.
 
@@ -39,9 +39,9 @@ Below is a summary of your responsibilities:
 
 **For these responsibilities, we agree to the following compensation:**
 1. **Primary Sale**
-    1. You receive {artist primary sale royalty} of the purchase price, minus any applicable transaction fees* paid to the payment processor (not Bitmark/Feral File). 
+    1. You receive {{ percent .FirstSale.Artist }} of the purchase price, minus any applicable transaction fees* paid to the payment processor (not Bitmark/Feral File). 
 1. **Secondary Sale**
-    1. You receive {artist secondary sale royalty} of the purchase price, minus transaction fees.
+    1. You receive {{ percent .ReSale.Artist }} of the purchase price, minus transaction fees.
 
 ** Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%. You can use our worksheet to understand how the payment structure  breaks down (you will need to  make a copy to edit the figures): [Feral File Exhibition Financials - Artist + Curator - 2023](https://docs.google.com/spreadsheets/d/1gpOSaji6kQ3jLjtzQU7ixlATfXmNWq5Cv-vZ_fRx_Qw/edit#gid=1326931850) 
 
@@ -53,7 +53,11 @@ You can review the full terms and conditions of your rights in the current versi
 
 Understood and Agreed:
 <br>(Click “Sign contract” button below)
-If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking “Sign contract”)
-
-<br>Artist Name: {Artist Full Name}
-<br>Employer (if any): {Optional, Fill out by artist}
+{{ if .Signer.Metadata.Company }}(If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking “Sign contract”)
+{{ end }}
+<br>Artist Name: {{ .Signer.FullName }}
+{{ if .Signer.Metadata.Company }}<br>Employer: {{ .Signer.Metadata.Company }}{{ end }}
+{{ if .ExhibitionLegalSignature }}
+<br>Signature: {{ .ExhibitionLegalSignature.Signature }}
+<br>Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
+{{ end }}
