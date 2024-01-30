@@ -1,0 +1,29 @@
+{
+  "merchandise": {
+    "enable": false,
+    "allow_view_only": true,
+    "must_complete": true
+  },
+  "pay_to_mint": {
+    "enable": true,
+    "allow_view_only": true
+  },
+  "view_detail": {
+    "action_button": true,
+    "leader_board": true,
+    "about_moma": true,
+    "glossary": true,
+    "metadata": true,
+    "token_ownership": true,
+    "provenance": true,
+    "rights": true,
+    "chat": true
+  },
+  "feature": {
+    "download_stamp": true,
+    "download_postcard": true
+  },
+  "postcard_action": {
+    "wait_confirmed_to_send": false
+  }
+}

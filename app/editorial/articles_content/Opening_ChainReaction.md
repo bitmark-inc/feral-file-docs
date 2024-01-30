@@ -1,0 +1,23 @@
+# Opening: Chain Reaction 
+
+![](https://i.imgur.com/Z66UnP2.jpg)
+<caption>“Seed Protocol - Dynamical Lunar Indigenous Time (DLITE) 43:28:22.0004124” by Amelia Winger-Bearskin.</caption>
+
+### Feral File is pleased to announce Chain Reaction, curated by Christiane Paul, curator of digital art at the Whitney, is now open. Visit the exhibition [here](https://feralfile.com/exhibitions/chain-reaction-tan).
+
+Christiane writes in their curator statement, titled “NFTs as Catalysts and Proof of Action”:
+
+The exhibition Chain Reaction strives to underscore the inherent connections between the blockchain as a list of data blocks facilitating the recording of transactions and tracking of assets, and the generative social, aesthetic, and environmental contexts and networks in which these assets are embedded. The works in this exhibition explore their existence as “tokens” beyond just being technological records of a transaction: they function as catalysts in precipitating events or actions, from environmental preservation and sustainability of a creative process to aesthetic choices. NFTs are functionally defined by their non-fungible status. They are capable of encapsulating and proving ownership of digital artworks that are often characterized by malleable, generative, untraceable, or imperceptible qualities. The artworks in Chain Reaction highlight the porous boundaries between NFTs as a mechanism for unique identification, on the one hand, and as a common “keepsake” of a social contract and commitment, or collective action, on the other.
+
+
+Jennifer and Kevin McCoy’s “Public View / Private View” opens up the artistic process of creation to a group of donors and art supporters connected to them and makes participants in the “art ecosystem” a formal part of the art. In her work “Synchronicities,” Sara Ludy plays with transient moments by asking collectors to take a leap of faith and purchase time codes associated with video clips, excerpted from a 24-hour video, that will appear in their wallets upon purchase. The collected clips reveal themselves on a website in a grid-like structure, a space collectively shaped by the owners. Stephanie Dinkins’ “The Okra Continuum” equally invites collectors to make a purchase sight unseen, creating the journey of an okra pod, symbolizing its journey east with Africans in pre-slavery times towards an uninhibited future. Projection into the future is also at the core of Amelia Winger-Bearskin’s “Seed Protocol - Dynamical Lunar Indigenous Time (DLITE) 43:28:22.0004124.” The edition consists of 100 variations of a pile of corn seeds that imagine the texture of future generations of corn and asks collectors to commit to engagement with seed banks to keep ancestral seeds strong. Ira Greenberg and Marina Zurkow’s “The Dorises - Oystercraft from silicon to saltwater” allows people to collect digital NFT oysters, each of them with unique generative features and a password that gives access to a reef website on which the oysters are placed. The reef of owners collectively votes on distributing funds to real-world oyster conservation projects. Collectors of Alfredo Salazar-Caro’s “Silva Ex Machina,” a flora created from generative geometry nodes, support reforestation in the Amazon rainforest through their purchase, potentially creating a small forest of their own.
+
+
+The tokenized visual art brought together in Chain Reaction emphasizes the concept, process, and capacity to trigger events. It focuses on the promotion or acceleration of reactions, on self-sustaining fission, or series of actions, and tries to raise questions about “linked” communities. The artworks take the form of inventive experimental gestures that set in motion a course of action in various forms: in “The Dorises,” an algorithmic generative process shapes each asset in the edition and places it in a shared environment; in “Synchronicities,” an “edition” of video clips requires a community of collectors to come together to set in motion and complete a process; three of the projects allocate resources to environmental causes and sustainability.
+
+
+The artworks in Chain Reaction are a reminder that the attraction of NFTs ultimately resides in a network of people that collect and trade, be they driven by financial gain, the gaming aspects of a competitive environment, or the support of arts and creativity. Every tokenized asset on the blockchain is a testament to a human investment — time, money, or effort. The potential to activate collective human action may be the blockchain’s biggest asset.
+
+---
+
+Visit the exhibition [here](https://feralfile.com/exhibitions/chain-reaction-tan).
