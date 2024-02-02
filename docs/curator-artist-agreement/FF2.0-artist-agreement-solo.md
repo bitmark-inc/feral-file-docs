@@ -1,4 +1,4 @@
-# Artist Agreement Solo
+# [Archived] Artist Agreement Solo
 
 **{{ .Signer.FullName }}:**
 
