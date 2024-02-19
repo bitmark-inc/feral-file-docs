@@ -25,5 +25,8 @@
   },
   "postcard_action": {
     "wait_confirmed_to_send": false
+  },
+  "feralfile_artwork_action": {
+    "allow_download_artwork_contracts": ["KT19VkuK7tw22m4P36xRpPiMT4qzEw8YAN8A"]
   }
 }
