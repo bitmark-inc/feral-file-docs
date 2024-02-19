@@ -27,6 +27,7 @@
     "wait_confirmed_to_send": false
   },
   "feralfile_artwork_action": {
-    "allow_download_artwork_contracts": ["KT19VkuK7tw22m4P36xRpPiMT4qzEw8YAN8A"]
+    "allow_download_artwork_contracts": ["KT19VkuK7tw22m4P36xRpPiMT4qzEw8YAN8A"],
+    "sound_piece_contract_addresses": ["0x19da6876a149fE5a40c3496A21DBBeFdc9A3a636"]
   }
 }
