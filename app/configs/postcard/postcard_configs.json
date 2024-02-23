@@ -3,7 +3,7 @@
     "enable": false,
     "allow_view_only": true,
     "must_complete": true,
-    "postcard_tokenId_regex": "^.*$"
+    "postcard_tokenId_regex": "^tez-KT1Rg1hhAPD8HSKaNKV6zuu7y8Zuk4QXaq2V-(1699413090857|1699951798888)$"
   },
   "pay_to_mint": {
     "enable": true,
