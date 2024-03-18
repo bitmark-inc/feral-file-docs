@@ -46,7 +46,7 @@ For these responsibilities, we agree to the following compensation and pricing t
    - The artists in the exhibition, including you; and
    - Feral File.
 
-   **b**. Your future sales or other dispositions of such artworks are subject to the [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement?revision={{ .Revision }}) in effect at the time of the exhibition, under which you will pay the artist {{ percent .ReSale.Artist }} of the selling price, pay Feral File {{ percent .ReSale.Platform }} of the selling price,{{ if .Partner }} pay {{ .Partner.FullName }} {{ percent .ReSale.Partner }} of the selling price,{{ end }} and will retain {{ percent .ReSale.Seller }} of the selling price, minus transaction fees.
+   **b**. Your future sales or other dispositions of such artworks are subject to the [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement{{ .QueryParams }}) in effect at the time of the exhibition, under which you will pay the artist {{ percent .ReSale.Artist }} of the selling price, pay Feral File {{ percent .ReSale.Platform }} of the selling price,{{ if .Partner }} pay {{ .Partner.FullName }} {{ percent .ReSale.Partner }} of the selling price,{{ end }} and will retain {{ percent .ReSale.Seller }} of the selling price, minus transaction fees.
 
 _\* Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%._
 
@@ -54,13 +54,13 @@ You will receive sale proceeds directly in your preferred web3 wallet, which you
 
 If the exhibition does not proceed due to events beyond the reasonable control of Feral File, this agreement will be deemed canceled, without liability or obligation for you or Feral File. Any rights in your artworks granted to Feral File, the curator, or other artists will not apply, and Feral File will securely destroy any copies of the artworks in its possession or control.
 
-You can review the full terms and conditions of your rights in the current version of the [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector?revision={{ .Revision }}), and the [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement?revision={{ .Revision }}).
+You can review the full terms and conditions of your rights in the current version of the [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector{{ .QueryParams }}), and the [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement{{ .QueryParams }}).
 
 You understand and agree that this agreement, together with the documents referenced in this agreement, supersedes all prior understandings regarding its subject matter.
 
 Referenced Documents:
-[Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector?revision={{ .Revision }})
-[Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement?revision={{ .Revision }})
+[Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector{{ .QueryParams }})
+[Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement{{ .QueryParams }})
 
 Understood and Agreed:
 <br>(Click “Sign contract” button below)
