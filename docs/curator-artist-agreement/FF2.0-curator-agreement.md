@@ -31,7 +31,7 @@ You understand and agree that this agreement contains all of Feral File’s obli
 - [The Curator’s Guide](https://docs.google.com/document/d/1g6F7IiDB5D3jWExJ8-HHfJdtZB5TlB-s-Zkuz5bztTI/edit?usp=sharing)
 - [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement)
 
-If you understand and accept the responsibilities explained above, please confirm acceptance of this project and the terms of this agreement by signing below.
+If you understand and accept the responsibilities explained above, please confirm acceptance of this project and the terms of this agreement by clicking “Sign contract” button below.
 
 Understood and Agreed:
 <br>Curator Name: {{ .Signer.FullName }}
