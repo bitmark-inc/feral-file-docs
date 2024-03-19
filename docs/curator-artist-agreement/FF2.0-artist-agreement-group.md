@@ -75,8 +75,9 @@ You can review the full terms and conditions of your rights in the current versi
 You understand and agree that this agreement, together with the documents referenced in this agreement, supersedes all prior understandings regarding its subject matter.
 
 Referenced Documents:
-[Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector{{ .QueryParams }})
-[Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement{{ .QueryParams }})
+
+- [Terms for Artists and Collectors](https://feralfile.com/docs/terms-of-artist-collector{{ .QueryParams }})
+- [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement{{ .QueryParams }})
 
 Understood and Agreed:
 <br>(Click “Sign contract” button below)
