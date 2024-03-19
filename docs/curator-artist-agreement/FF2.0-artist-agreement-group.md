@@ -8,45 +8,61 @@ Below, Bitmark, Inc. (“we”, “us”, “our”, “Feral File”) provides 
 
 Below is a summary of your responsibilities:
 
-1. **Create your artworks, and provide exhibition sets if requested.**  
-   **a**. Create at least one series (a collection of related artworks) for the exhibition. Each “item” in a series, a collection of related artworks, is a unique artwork.  
-   **b**. You may also create separate editioned artworks for the exhibition.  
-   **c**. We may require that each artist create an equal number of series for the exhibition, each with the same number of items.  
-   **d**. We may package series into “exhibition sets” for sale consisting of one artwork from each series from each artist. Exhibition sets may be available for the entire exhibition, or only for a limited time after which the artworks may be sold separately.  
-   **e**. Artworks not in an exhibition set are sold separately.
-2. **Install your artwork(s) through the Feral File Admin interface**  
-   **a**. Work with the curator to define one or more series & artworks to be exhibited.  
-   **b**. This work must not be available anywhere else, but it can be related to existing work.  
-   **c**. Prepare for the exhibition with your curator and other artists on Feral File’s Discord. (The Feral File team will assist with installation issues.)
-3. **Promote the exhibition and your fellow exhibition artists**  
-   **a**. Join online for online openings and social events, such as live discussions through Twitter Spaces.  
-   **b**. Be available for press interviews and other content production used to promote the exhibition.  
-   **c**. Promote the exhibition across your networks: social media, press contacts, existing collectors of your work, potential collectors, mail lists. (The Feral File team will work closely with you to maximize your impact and produce marketing assets for distribution.)  
-   **d**. Provide a short biography for the curator to edit. Share career highlights (press mentions, awards, notable artwork appearances/installations) with Feral File. This information will be used to promote you and the exhibition.
-4. **Support the financial success of the exhibition and your artworks**  
-   **a**. Withhold from selling your exhibition set (in its entirety or through individual artworks) until exhibition sales are complete (all artworks sold out or removed from the primary market on Feral File).  
-   **b**. For 24 months after the end of the exhibition, Feral File will have the exclusive right to list on Feral File and mutually agreeable third party platforms any of your artworks unsold after the completion of the exhibition, subject to (i) the compensation terms below, and (ii) setting the price of your artwork at the price agreed between you and Feral File below, unless you and Feral File agree otherwise.
+#### 1. Create your artworks, and provide exhibition sets if requested.
+
+1. Create at least one series (a collection of related artworks) for the exhibition. Each “item” in a series, a collection of related artworks, is a unique artwork.
+2. You may also create separate editioned artworks for the exhibition.
+3. We may require that each artist create an equal number of series for the exhibition, each with the same number of items.
+4. We may package series into “exhibition sets” for sale consisting of one artwork from each series from each artist. Exhibition sets may be available for the entire exhibition, or only for a limited time after which the artworks may be sold separately.
+5. Artworks not in an exhibition set are sold separately.
+
+#### 2. Install your artwork(s) through the Feral File Admin interface
+
+1. Work with the curator to define one or more series & artworks to be exhibited.
+2. This work must not be available anywhere else, but it can be related to existing work.
+3. Prepare for the exhibition with your curator and other artists on Feral File’s Discord. (The Feral File team will assist with installation issues.)
+
+#### 3. Promote the exhibition and your fellow exhibition artists
+
+1. Join online for online openings and social events, such as live discussions through Twitter Spaces.
+2. Be available for press interviews and other content production used to promote the exhibition.
+3. Promote the exhibition across your networks: social media, press contacts, existing collectors of your work, potential collectors, mail lists. (The Feral File team will work closely with you to maximize your impact and produce marketing assets for distribution.)
+4. Provide a short biography for the curator to edit. Share career highlights (press mentions, awards, notable artwork appearances/installations) with Feral File. This information will be used to promote you and the exhibition.
+
+#### 4. Support the financial success of the exhibition and your artworks
+
+1. Withhold from selling your exhibition set (in its entirety or through individual artworks) until exhibition sales are complete (all artworks sold out or removed from the primary market on Feral File).
+2. For 24 months after the end of the exhibition, Feral File will have the exclusive right to list on Feral File and mutually agreeable third party platforms any of your artworks unsold after the completion of the exhibition, subject to (i) the compensation terms below, and (ii) setting the price of your artwork at the price agreed between you and Feral File below, unless you and Feral File agree otherwise.
 
 In general, artwork installation must be completed at least six weeks in advance of the opening. Specific due dates for all tasks are shared within the Feral File Admin interface. Failure to complete tasks on time may delay the exhibition or force the exhibition to continue without your participation.
 
 For these responsibilities, we agree to the following compensation and pricing terms:
 
-1. **Pricing**  
-   **a**. Feral File will suggest pricing for your artworks based on our experience in operating digital artwork exhibitions. You may accept the suggested pricing or discuss pricing with Feral File to work toward mutually agreeable pricing. If you or Feral File determine that such agreement is not possible, either you or Feral File may terminate this agreement and withdraw your artworks from the exhibition. You will refund any advance you have been paid.
-2. **Advance**  
-   **a**. Feral File will pay you an advance against sales of $2500, paid in ETH to {{ .Signer.ID }} no later than 30 days after signing this agreement. You agree to return the full advance immediately upon Feral File’s request if the exhibition is canceled, if this agreement is terminated based on a failure to reach agreement on pricing, or if you do not fulfill your obligations under this agreement, including without limitation your obligation to timely complete the installation of your exhibition set.
-3. **Primary Sale**  
-   **a**. You receive {{ percent .FirstSale.Artist }} of the purchase price, minus any applicable transaction fees\* paid to the payment processor. Feral File will credit the amounts due under this paragraph against the advance until the advance has been recouped, after which Feral File will pay you the amounts due after which Feral File will pay you the amounts due per the terms outlined in this clause.
-4. **Secondary Sale**  
-   **a**. You receive {{ percent .ReSale.Artist }} of the purchase price, minus transaction fees.
-5. **Exhibition Set of Artworks for Artists, Curator and Feral File**  
-   **a**. At the conclusion of the NFT minting process, Feral File will automatically transfer one of each exhibition set to the following persons free of charge, in the order listed:
+#### 1. Pricing
 
-   - The curator of the exhibition;
-   - The artists in the exhibition, including you; and
-   - Feral File.
+Feral File will suggest pricing for your artworks based on our experience in operating digital artwork exhibitions. You may accept the suggested pricing or discuss pricing with Feral File to work toward mutually agreeable pricing. If you or Feral File determine that such agreement is not possible, either you or Feral File may terminate this agreement and withdraw your artworks from the exhibition. You will refund any advance you have been paid.
 
-   **b**. Your future sales or other dispositions of such artworks are subject to the [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement{{ .QueryParams }}) in effect at the time of the exhibition, under which you will pay the artist {{ percent .ReSale.Artist }} of the selling price, pay Feral File {{ percent .ReSale.Platform }} of the selling price,{{ if .Partner }} pay {{ .Partner.FullName }} {{ percent .ReSale.Partner }} of the selling price,{{ end }} and will retain {{ percent .ReSale.Seller }} of the selling price, minus transaction fees.
+#### 2. Advance
+
+Feral File will pay you an advance against sales of $2500, paid in ETH to {{ .Signer.ID }} no later than 30 days after signing this agreement. You agree to return the full advance immediately upon Feral File’s request if the exhibition is canceled, if this agreement is terminated based on a failure to reach agreement on pricing, or if you do not fulfill your obligations under this agreement, including without limitation your obligation to timely complete the installation of your exhibition set.
+
+#### 3. Primary Sale
+
+You receive {{ percent .FirstSale.Artist }} of the purchase price, minus any applicable transaction fees\* paid to the payment processor. Feral File will credit the amounts due under this paragraph against the advance until the advance has been recouped, after which Feral File will pay you the amounts due after which Feral File will pay you the amounts due per the terms outlined in this clause.
+
+#### 4. Secondary Sale
+
+You receive {{ percent .ReSale.Artist }} of the purchase price, minus transaction fees.
+
+#### 5. Exhibition Set of Artworks for Artists, Curator and Feral File
+
+1. At the conclusion of the NFT minting process, Feral File will automatically transfer one of each exhibition set to the following persons free of charge, in the order listed:
+
+- The curator of the exhibition;
+- The artists in the exhibition, including you; and
+- Feral File.
+
+2. Your future sales or other dispositions of such artworks are subject to the [Agreement of Original Transfer of Work of Digital Art](https://feralfile.com/docs/art-sale-agreement{{ .QueryParams }}) in effect at the time of the exhibition, under which you will pay the artist {{ percent .ReSale.Artist }} of the selling price, pay Feral File {{ percent .ReSale.Platform }} of the selling price,{{ if .Partner }} pay {{ .Partner.FullName }} {{ percent .ReSale.Partner }} of the selling price,{{ end }} and will retain {{ percent .ReSale.Seller }} of the selling price, minus transaction fees.
 
 _\* Transaction fees may differ based on the collector’s payment method (cryptocurrency, credit card) and the exhibition’s minting fees, but typically average 3%._
 
