@@ -28,7 +28,13 @@
     "wait_confirmed_to_send": false
   },
   "feralfile_artwork_action": {
-    "allow_download_artwork_contracts": ["KT19VkuK7tw22m4P36xRpPiMT4qzEw8YAN8A"],
-    "sound_piece_contract_addresses": ["0x19da6876a149fE5a40c3496A21DBBeFdc9A3a636"]
+    "allow_download_artwork_contracts": ["KT19VkuK7tw22m4P36xRpPiMT4qzEw8YAN8A","KT1CPeE8YGVG16xkpoE9sviUYoEzS7hWfu39","KT1U49F46ZRK2WChpVpkUvwwQme7Z595V3nt","KT19rZLpAurqKuDXtkMcJZWvWqGJz1CwWHzr","KT1KzEtNm6Bb9qip8trTsnBohoriH2g2dvc7","KT1RWFkvQPkhjxQQzg1ZvS2EKbprbkAdPRSc","KT1X7i8EeQHChQ2cKGVthHrBS2jsPLSDWoEw"],
+    "sound_piece_contract_addresses": ["0x19da6876a149fE5a40c3496A21DBBeFdc9A3a636"],
+    "scrollable_preview_url": null
+  },
+  "exhibition": {
+    "specified_series_artwork_model_title": {
+      "faa810f7-7b75-4c02-bf8a-b7447a89c921": "interactive instruction"
+    }
   }
 }
