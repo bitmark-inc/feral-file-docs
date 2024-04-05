@@ -1,4 +1,4 @@
-# [Archived] Artist Agreement Solo
+# Artist Agreement Solo
 
 **{{ .Signer.FullName }}:**
 Curator {{ .Curator.FullName }} has invited you to a solo exhibition to be opened on Feral File in {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }}.
@@ -29,7 +29,7 @@ For these responsibilities, we agree to the following compensation and pricing t
 1. **Pricing.**
    1. Feral File will suggest pricing for your artworks based on our experience in operating digital artwork exhibitions. You may accept the suggested pricing or discuss pricing with Feral File to work toward mutually agreeable pricing. If you or Feral File determine that such agreement is not possible, either you or Feral File may terminate this agreement and cancel the exhibition. You will refund any advance you have been paid.
 1. **Advance**
-   1. Feral File will pay you an advance against sales of $7500, paid in ETH to {{ .Signer.AccountID }} no later than 30 days after signing this agreement. You agree to return the full advance immediately upon Feral File’s request if the exhibition is canceled, if this agreement is terminated based on a failure to reach agreement on pricing, or if you do not fulfill your obligations under this agreement, including without limitation your obligation to timely complete the installation of your exhibition set.
+   1. Feral File will pay you an advance against sales of $7500, paid in ETH to {{ .Signer.ID }} no later than 30 days after signing this agreement. You agree to return the full advance immediately upon Feral File’s request if the exhibition is canceled, if this agreement is terminated based on a failure to reach agreement on pricing, or if you do not fulfill your obligations under this agreement, including without limitation your obligation to timely complete the installation of your exhibition set.
 1. **Primary Sale**
    1. You receive {{ percent .FirstSale.Artist }} of the purchase price, minus any applicable transaction fees\* paid to the payment processor. Feral File will credit the amounts due under this paragraph against the advance until the advance has been recouped, after which Feral File will pay you the amounts due after which Feral File will pay you the amounts due per the terms outlined in this clause.
 1. **Secondary Sale**
@@ -58,10 +58,10 @@ Referenced Documents:
 
 Understood and Agreed:
 
-If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by sending “I AGREE ON BEHALF OF [COMPANY NAME]”)
-<br>Artist Name: {{ .Signer.FullName }}
-{{ if .Signer.Metadata.Company }}<br>Employer: {{ .Signer.Metadata.Company }}{{ end }}
-{{ if .ExhibitionLegalSignature }}
-<br>Signature: {{ .ExhibitionLegalSignature.Signature }}
-<br>Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
+(Click "Sign contract" button below) (If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking "Sign contract")
+
+Artist Name: {{ .Signer.FullName }}
+{{ if .Signer.Metadata.Company }}Employer: {{ .Signer.Metadata.Company }}{{ end }}
+{{ if .ExhibitionLegalSignature }}Signature: {{ .ExhibitionLegalSignature.Signature }}
+Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
 {{ end }}
