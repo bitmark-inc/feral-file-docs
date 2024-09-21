@@ -1,11 +1,11 @@
 [#] 0.53.11 - Sep 20, 2024
 
 **What's new**
-- こんにちは! We now support Japanese language. 🌸
+- こんにちは! We now support Japanese language. 
 
 **Improvements**
-- The Daily artwork now updates at 6:00 AM local time so you can enjoy it with morning coffee. ☕️
-- No more loading screen limbo! 🌀
+- The Daily artwork now updates at 6:00 AM local time so you can enjoy it with morning coffee. 
+- No more loading screen limbo! 
 
 ---
 
