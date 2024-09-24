@@ -1,0 +1,10 @@
+{
+  "tizen": {
+    "url": "https://display.feralfile.com/?platform=tizen"
+  },
+  "google": {
+    "url": "https://display.feralfile.com/?platform=google"
+  },
+  "duration": 3600000,
+  "new_daily_hour": 6
+}

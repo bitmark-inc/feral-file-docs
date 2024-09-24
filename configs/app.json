@@ -1,0 +1,160 @@
+{
+  "merchandise": {
+    "enable": true,
+    "allow_view_only": true,
+    "must_complete": true,
+    "postcard_tokenId_regex": "^tez-KT1Rg1hhAPD8HSKaNKV6zuu7y8Zuk4QXaq2V-(1699413090857|1699951798888|1692601505415)$"
+  },
+  "pay_to_mint": {
+    "enable": true,
+    "allow_view_only": true
+  },
+  "view_detail": {
+    "action_button": true,
+    "leader_board": true,
+    "about_moma": true,
+    "glossary": true,
+    "metadata": true,
+    "token_ownership": true,
+    "provenance": true,
+    "rights": true,
+    "chat": true
+  },
+  "feature": {
+    "download_stamp": true,
+    "download_postcard": true
+  },
+  "postcard_action": {
+    "wait_confirmed_to_send": false
+  },
+  "feralfile_artwork_action": {
+    "allow_download_artwork_contracts": [
+      "KT19VkuK7tw22m4P36xRpPiMT4qzEw8YAN8A",
+      "KT1CPeE8YGVG16xkpoE9sviUYoEzS7hWfu39",
+      "KT1U49F46ZRK2WChpVpkUvwwQme7Z595V3nt",
+      "KT19rZLpAurqKuDXtkMcJZWvWqGJz1CwWHzr",
+      "KT1KzEtNm6Bb9qip8trTsnBohoriH2g2dvc7",
+      "KT1RWFkvQPkhjxQQzg1ZvS2EKbprbkAdPRSc",
+      "KT1X7i8EeQHChQ2cKGVthHrBS2jsPLSDWoEw"
+    ],
+    "sound_piece_contract_addresses": [
+      "0x1d9787369b1dcf709f92da1d8743c2a4b6028a83"
+    ],
+    "yoko_ono_private_token_ids": [
+      "5429577522081131997036023001590580143446575936",
+      "5429577522081131997036023001590580143446575937",
+      "5429577522081131997036023001590580143446575938",
+      "5429577522081131997036023001590580143446575939",
+      "5429577522081131997036023001590580143446575940",
+      "5429577522081131997036023001590580143446575941",
+      "5429577522081131997036023001590580143446575942",
+      "5429577522081131997036023001590580143446575943",
+      "5429577522081131997036023001590580143446575944",
+      "5429577522081131997036023001590580143446575945",
+      "5429577522081131997036023001590580143446575946",
+      "5429577522081131997036023001590580143446575947",
+      "5429577522081131997036023001590580143446575948",
+      "5429577522081131997036023001590580143446575949",
+      "5429577522081131997036023001590580143446575950",
+      "5429577522081131997036023001590580143446575951",
+      "5429577522081131997036023001590580143446575952",
+      "5429577522081131997036023001590580143446575953",
+      "5429577522081131997036023001590580143446575954",
+      "5429577522081131997036023001590580143446575955",
+      "5429577522081131997036023001590580143446575956",
+      "5429577522081131997036023001590580143446575957",
+      "5429577522081131997036023001590580143446575958",
+      "5429577522081131997036023001590580143446575959",
+      "5429577522081131997036023001590580143446575960",
+      "5429577522081131997036023001590580143446575961",
+      "5429577522081131997036023001590580143446575962",
+      "5429577522081131997036023001590580143446575963",
+      "5429577522081131997036023001590580143446575964",
+      "5429577522081131997036023001590580143446575965"
+    ],
+    "scrollable_preview_url": null
+  },
+  "exhibition": {
+    "specified_series_artwork_model_title": {
+      "faa810f7-7b75-4c02-bf8a-b7447a89c921": "interactive instruction"
+    },
+    "yoko_ono_public": {
+      "owner_data_contract": "0x30F4D17baB0C815519c5d924ac4735be14eb25EC",
+      "moma_exhibition_contract": "0x1d9787369b1dcf709f92da1d8743c2a4b6028a83",
+      "public_token_id": "5429577522081131997036023001590580143450575936",
+      "public_version_preview": "previews/faa810f7-7b75-4c02-bf8a-b7447a89c921/1709110451/index.html",
+      "public_version_thumbnail": "thumbnails/faa810f7-7b75-4c02-bf8a-b7447a89c921/1709178836"
+    },
+    "john_gerrard": {
+      "contract_address": "0xBE0A4E26a156B2a60cF515E86b3Df9756DEE1952",
+      "exhibition_id": "46a0f68b-a657-4364-92a0-32a88b65fbd9"
+    },
+    "crawl": {
+      "exhibition_id": "3c4b0a8b-6d3e-4c32-aaae-c701bb9deca9",
+      "merge_series_id": "0a954c31-d336-4e37-af0f-ec336c064879"
+    },
+    "dont_fake_artwork_series_ids": ["0a954c31-d336-4e37-af0f-ec336c064879"],
+    "on_going_exhibition_ids": ["46a0f68b-a657-4364-92a0-32a88b65fbd9"]
+  },
+  "dApp_urls": {
+    "deny_dApp_list": [],
+    "tezos_nodes": [
+      "https://mainnet.api.tez.ie",
+      "https://rpc.tzbeta.net",
+      "https://mainnet.smartpy.io",
+      "https://mainnet.ecadinfra.com"
+    ]
+  },
+  "in_app_webview": {
+    "uri_scheme_white_list": ["https"],
+    "allowed_fingerprints": [
+      "04 2A 70 D1 55 FC 5A 92 B9 1B 20 E5 D7 FB 6A D0 54 05 76 30",
+      "9D E0 F5 9B DC 83 6D 5D D5 4A 27 7A 80 C5 3D 3C AF 72 A7 DD",
+      "C3 5E 95 D8 97 98 C2 81 A9 34 5F FA B0 EC F2 6F 4B 7D 1B 72",
+      "DF 85 1C EE 81 FA 39 8E 54 E9 8E 9B BB 00 A7 DD D8 7B EC 0C",
+      "49 EE 12 48 B5 B8 06 39 66 BC 8F 4F 1F FC 6D BE DD 06 35 99",
+      "1E A8 0A 38 31 6B BA 28 D7 52 26 11 AC 32 F6 2A CA B1 B0 2C"
+    ]
+  },
+  "john_gerrard": {
+    "series_ids": [
+      "0b95013a-599b-4af2-a0a4-fe13eff98e89",
+      "4e7c1eba-7c17-4c38-9454-36c72ae98249"
+    ],
+    "asset_ids": [
+      "0ae03302f46d0e110b7c40472a4badda40e78356a598f342dca036a012c003c9d128b8c61083e14076937e8706ba50f37b094761a94614347cfd250c13dd4351"
+    ],
+    "custom_notes": [
+      {
+        "id": "jg_custom_notes_1",
+        "title": "details",
+        "content": "<i>crystalline work (arctic)</i> is a software artwork in which a virtual robot is sited upon a barren platform at the Arctic North Pole. Using an ice-generation algorithm, the robot performs to create real time crystal patterns, titled “archetypes,” producing 24 unique archetypes per solar day, 168 per week, and 8,760 over an entire solar year. Archetypes include masks, solar crosses, mandalas, stars, trees, snowflakes, and mycelium. The robot also changes color second by second, shifting across the visible light spectrum in real time, from solstice to solstice. The length of time required for a performance’s completion can vary from 20 minutes to over 1 hour. Once an archetype is completed, the robot’s performance is digitally dropped into the Feral File gallery as a unique, dynamic, tokenized 3D Web Graphic Library (WebGL) art piece documenting that solar moment and made available to collect. <br /> <p style=\"font-size: 0.75em\"> Credits. Producer: Werner Poetzelberger, Programmer: Helmut Bressler, Generative Sound Producer: Jonas Hammerer, Engine: Babylon.js, Web Audio: Tone.js  </p>",
+        "canReadMore": true
+      },
+      {
+        "id": "jg_custom_notes_2",
+        "title": "interacting",
+        "content": "Drag within the scene to look around. Tap top left (“F” on keyboard) for full screen on/off. Tap top right (“R” on keyboard) to rotate the work. Tap bottom left (“S” on keyboard) to switch generative vibrational audio on or off. For individual works in the gallery of all works below ONLY: on a keyboard, “I” downloads the generated archetype as a 4,000-pixel image file for local pigment printing. “G” exports a txt file including artist guidelines for printing and framing. “M” exports the generated archetype as a 3D model for usage in 3D prints or virtual world building."
+      },
+      {
+        "id": "jg_custom_notes_3",
+        "title": "regenerating",
+        "content": "<i>crystalline work (arctic)</i> is not only a 365-day generative artwork, but also a regenerative work for the environment. 25% of sales revenue are donated to <a href=\"https://www.hometree.ie/\" target=\"_blank\">Hometree</a>, a charity committed to restoring a lost 4,000-acre temperate rainforest in Connemara, Ireland. For each collected day of the robot’s performance, 33 trees will be planted — which equates to 231 trees per week and 12,045 trees per year."
+      },
+      {
+        "id": "jg_custom_notes_4",
+        "title": "collecting",
+        "content": "<i>crystalline</i> performances are tokenized on the Ethereum blockchain, priced at $100 each work (~0.026 ETH at the time of sale’s start), and can be purchased using a credit card or ETH. Purchases made by credit card require an accompanying Ethereum wallet address to receive the artwork. The <a href=\"https://feralfile.com/app\" target=\"_blank\">Feral File app</a> provides the easiest method to open a new wallet address, receive your artwork(s), and enjoy your art in day-to-day life. Works will be available sequentially from launch on the Summer Solstice of 2024. Once collected, a placeholder will sit in the collector’s wallet until the work itself is performed by the robot, after which the artwork metadata will update with a recording of the performance. Works can be collected individually or collected and watched in greater numbers through a process called “stringing.”",
+        "canReadMore": true
+      },
+      {
+        "id": "jg_custom_notes_5",
+        "title": "stringing",
+        "content": "The artist recommends collecting and displaying the artworks in groups of 24 — based on the solar day — but has made it possible to collect individual works at a more accessible price point. gerrard hopes collectors will string multiple works together using the <a href=\"https://feralfile.com/app\" target=\"_blank\">Feral File app</a>, which can stream them to a local screen."
+      }
+    ]
+  },
+  "daily": {
+    "scheduleTime": "6"
+  }
+}
