@@ -6,4 +6,4 @@ Feral File wants your data to be not just secure, but also resilient. To make it
 
 The cloud backup system uses end-to-end encryption where available: if you are using an older Android system (Android 8 or earlier) or you do not have screen lock enabled, you will be warned that end-to-end encryption is not in use. Because your keys are encrypted before they reach the cloud, no one else ever has access to them, not Google and not Bitmark.
 
-Of course all security ultimately rests on the code, and whether it makes the proper use of all of these best practices. This is why the Feral File app is open source. We believe in trust through transparency. We invite you to [review and use our code](https://github.com/bitmark-inc/autonomy-client).
+Of course all security ultimately rests on the code, and whether it makes the proper use of all of these best practices. This is why the Feral File app is open source. We believe in trust through transparency. We invite you to [review and use our code](https://github.com/bitmark-inc/feralfile-app).
