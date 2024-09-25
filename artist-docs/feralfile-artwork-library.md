@@ -33,7 +33,7 @@ We use sfc32 in our random function. sfc stands for "Small Fast Counter". It run
 
 ### Code
 
-```htmlmixed
+```javascript
 <script id="ffhash-snippet">
   function randomHash() {
     return '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'.replace(/[f]/g, function (c) {
@@ -44,8 +44,8 @@ We use sfc32 in our random function. sfc stands for "Small Fast Counter". It run
 
   const urlSearchParams = new URLSearchParams(window.location.search);
   const params = Object.fromEntries(urlSearchParams.entries());
-  let hash = params.token_id_hash || randomHash()
-  console.log(hash)
+  let hash = params.token_id_hash || randomHash();
+  console.log(hash);
 
   {
     let sfc32 = function (uint128Hex) {
@@ -69,49 +69,44 @@ We use sfc32 in our random function. sfc stands for "Small Fast Counter". It run
       for (let i = 0; i < 1e6; i += 2) {
         rand();
       }
-      return rand
+      return rand;
     };
 
-    var ffrand = sfc32(hash.substr(34, 32))
+    var ffrand = sfc32(hash.substr(34, 32));
   }
 </script>
 ```
 
 ### Usage
 
-After you load the snippet, simply call `ffrand` to get a random number.
+After loading the snippet, call `ffrand` to get a random number.
 
-```htmlmixed
+```javascript
 <script>
-  let r = ffrand()
+  let r = ffrand();
 </script>
 ```
 
 :::warning
-If you would like to design the randomness by yourself, please ensure the random value is deterministic by a given `token_id_hash`. Otherwise, the artwork would be different by each page reloads.
+If designing your randomness, ensure it remains deterministic by a given `token_id_hash`; otherwise, the artwork may change with each page reload.
 :::
 
 ## Artwork Library
 
-With this parameters from FF, we come up with a library that can get provenance from our indexer. Thus, for software artwork developer's, they can create artwork variants by integrating this library.
+With these parameters, the Feral File library retrieves provenance from our indexer, enabling software artwork developers to create variants by integrating this library. Inspired by fxhash, this library is designed as a simple snippet that can be included at the top of generative artworks.
 
-Learning from fxhash, this library is designed to be a simple snippet script (library) that can be put on the top of generative artworks. 
+### Functionality
 
-In this snippet script, we only use XHR(XMLHttpRequest). It is because the library does not require any other third-party libraries. This minimize the dependencies of artworks for artists.
-
-
-### Function
-
-Here lists supported functions
+Supported functions:
 
 - Get blockchain height (integer)
 - Get provenance (array)
 
 ### Usage
 
-Attach the script in HEAD. And call to `ffinit` on page loaded.
+Include the script in the HEAD section and call `ffinit` when the page loads.
 
-```htmlembedded
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,39 +120,39 @@ Attach the script in HEAD. And call to `ffinit` on page loaded.
 </html>
 ```
 
-In your script, you are able to get these events:
+You can listen to these events in your script:
 - provenance-request-error
 - provenance-ready
 - blockchain-info-request-error
 - blockchain-info-ready
-    
+
 Example:
 
-```javascript!
- <script>
-    // listen to blockchain information data
-    window.addEventListener("blockchain-info-ready", function (event) {
-      console.log("current block height:", event.detail.height);
-    })
+```javascript
+<script>
+  // Listen to blockchain information data
+  window.addEventListener("blockchain-info-ready", function (event) {
+    console.log("current block height:", event.detail.height);
+  });
 
-    window.addEventListener("blockchain-info-request-error", function (event) {
-      console.log(event.detail.error)
-    })
+  window.addEventListener("blockchain-info-request-error", function (event) {
+    console.log(event.detail.error);
+  });
 
-    // listen to token provenance data
-    window.addEventListener("provenance-ready", function (event) {
-      console.log("provenance length:", event.detail.provenances.length)
-    })
+  // Listen to token provenance data
+  window.addEventListener("provenance-ready", function (event) {
+    console.log("provenance length:", event.detail.provenances.length);
+  });
 
-    window.addEventListener("provenance-request-error", function (event) {
-      console.log("fail to get provenance:", event.detail.error)
-    })
-  </script>
+  window.addEventListener("provenance-request-error", function (event) {
+    console.log("fail to get provenance:", event.detail.error);
+  });
+</script>
 ```
 
 ### Provenance Data Example
 
-```json!
+```json
 [
     {
         "type": "transfer",
@@ -177,15 +172,15 @@ Example:
         "txURL": "https://tzkt.io/oo3X4Fy9RADVk6JVcKS1BeJLjB6bRzwTxLKvbBjFDBdPabHrcmJ"
     }
 ]
-
 ```
 
 ## Artwork Attributes
-To provide function tracking artwork attributes, we create a snippet to offer a `$feralfile` namespace and 2 functions `$feralfile.features(array_of_attributes)` to input artwork attributes and `$feralfile.getFeatures()` to get saved attributes based on artwork information
+
+To track artwork attributes, a snippet provides the `$feralfile` namespace with two functions: `$feralfile.features(array_of_attributes)` to input attributes and `$feralfile.getFeatures()` to retrieve saved attributes based on the artwork information.
 
 ### Code
 
-```htmlmixed
+```javascript
 <script id="feralfile-attributes">
   var $feralfile = {
       features: function (attrs) {
@@ -197,10 +192,12 @@ To provide function tracking artwork attributes, we create a snippet to offer a 
     };
 </script>
 ```
-### Usage
-After you load the snippet, simply call `$feralfile.features()` to set attributes.
 
-```htmlmixed
+### Usage
+
+Load the snippet and call `$feralfile.features()` to set attributes.
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -239,19 +236,17 @@ After you load the snippet, simply call `$feralfile.features()` to set attribute
 </html>
 ```
 
-### TODO
-
-- Refactor API calls
-- Merge events
-- Select to enable watching
-
 ## Reference
 
 ### Source Code
 
-#### IPFS Link
+#### IPFS Links
 
 - [V1 - ipfs://QmTBGnS8GdZ1LFFgJzZoM4ArMmxwsrTnEmtEcgLH1h2d1w](https://ipfs.bitmark.com/ipfs/QmTBGnS8GdZ1LFFgJzZoM4ArMmxwsrTnEmtEcgLH1h2d1w)
 - [V2 - ipfs://QmcrNv6RihePaRSX7ce5vg9ubtzdz6hjWicqB97uJhGqRk](https://ipfs.bitmark.com/ipfs/QmcrNv6RihePaRSX7ce5vg9ubtzdz6hjWicqB97uJhGqRk)
 - [V2 staging - ipfs://QmavGeGEmnfuYPNY1YhNaygj1zN8Z3wk1HrEAnXdu5wSmt](https://ipfs.bitmark.com/ipfs/QmavGeGEmnfuYPNY1YhNaygj1zN8Z3wk1HrEAnXdu5wSmt)
 - [V3 - ipfs://QmakVUXKyHF5cddi6owHLbCib7wbU36nY2JoQiNkE7eSho](https://ipfs.bitmark.com/ipfs/QmakVUXKyHF5cddi6owHLbCib7wbU36nY2JoQiNkE7eSho)
+
+### Resize Event Handling
+
+The artwork should handle window resize events properly. Resize events occur when displaying artwork on phones or TVs, especially when changing orientation. If the window size changes during artwork display, ensure it triggers a redraw with the new canvas size. Since artworks are displayed in an iframe, resizing the parent window will trigger the resize event on your artwork. Reference: [MDN - Window Resize Event](https://developer.mozilla.org/en-US/docs/Web/API/Window/resize_event).
