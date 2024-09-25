@@ -1,14 +1,3 @@
-[#] 0.53.11 - Sep 20, 2024
-
-**What's new**
-- こんにちは! We now support Japanese language. 
-
-**Improvements**
-- The Daily artwork now updates at 6:00 AM local time so you can enjoy it with morning coffee. 
-- No more loading screen limbo! 
-
----
-
 [#] 0.47.0 - Jan 12, 2024
 
 ### Autonomy renamed Feral File to includes all the same features plus news ways to organize, explore, and stream digital art.
