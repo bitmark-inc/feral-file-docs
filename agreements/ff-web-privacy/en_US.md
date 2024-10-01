@@ -2,7 +2,7 @@
 
 **Last Updated: 20-SEP 2024**
 
-Bitmark Inc. (“we” “us” “our” “Feral File”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information received from users of the Feral File website located at the [https://feralfile.com](https://feralfile.com) domain and subdomains (the "Website"). Any terms not defined in this Privacy Policy are defined in the Feral File [Terms of Service](https://feralfile.com/docs/terms-of-service). Please note that this Privacy Policy only applies to this Website and does not apply to the offer of artwork for sale or the purchase of artwork. Information regarding the use and handling of personal information in connection with those activities is contained in the agreements specific to those activities listed [here](https://feralfile.com/docs/terms-of-artist-collector).
+Bitmark Inc. (“we” “us” “our” “Feral File”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information received from users of the Feral File website located at the [https://feralfile.com](https://feralfile.com) domain and subdomains (the "Website"). Any terms not defined in this Privacy Policy are defined in the Feral File [Terms of Service](https://feralfile.com/legal/terms-of-service). Please note that this Privacy Policy only applies to this Website and does not apply to the offer of artwork for sale or the purchase of artwork. Information regarding the use and handling of personal information in connection with those activities is contained in the agreements specific to those activities listed [here](https://feralfile.com/legal/terms-artists-and-collectors).
 
 ## Website Information Collection and Use
 
@@ -64,4 +64,4 @@ This Website is not directed to children under 18\. If a parent or guardian beco
 
 ## Changes to This Privacy Policy
 
-Feral File reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here. You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at [support@feralfile.com](mailto:support@feralfile.com).  
+Feral File reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here. You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at [support@feralfile.com](mailto:support@feralfile.com).
