@@ -38,4 +38,4 @@ Feral File protects artists by forefronting their rights, just like we forefront
 Your rights are guaranteed in perpetuity until you resell or transfer ownership of the work.
 
 ---
-*You can review the full terms and conditions of your rights in the [Art Transfer Agreement](https://feralfile.com/legal/art-transfer-agreement) and [Terms for Artists and Collectors](https://feralfile.com/legal/terms-of-artist-collector).*
+*You can review the full terms and conditions of your rights in the [Art Transfer Agreement](https://feralfile.com/legal/art-transfer-agreement) and [Terms for Artists and Collectors](https://feralfile.com/legal/terms-artists-and-collectors).*
