@@ -2,7 +2,7 @@
 
 **Last Updated: 20-SEP 2024**
 
-This Agreement is between you and Bitmark Inc. (“we” “us” “our” “Feral File”) and sets forth the terms and conditions that apply to your access and use of the Feral File website and service located at the [https://feralfile.com](https://feralfile.com) domain and subdomains (the "Website"). Please note that this Agreement only applies to this Website and does not apply to the use of Feral File’s blockchain digital property registry and lever system for the offer of artwork for sale or the purchase of artwork. Agreements specific to those activities are listed [here](https://feralfile.com/legal/terms-of-artist-collector).
+This Agreement is between you and Bitmark Inc. (“we” “us” “our” “Feral File”) and sets forth the terms and conditions that apply to your access and use of the Feral File website and service located at the [https://feralfile.com](https://feralfile.com) domain and subdomains (the "Website"). Please note that this Agreement only applies to this Website and does not apply to the use of Feral File’s blockchain digital property registry and lever system for the offer of artwork for sale or the purchase of artwork. Agreements specific to those activities are listed [here](https://feralfile.com/legal/terms-artists-and-collectors).
 
 ## 1\. Accepting the Terms
 
