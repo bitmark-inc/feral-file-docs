@@ -244,52 +244,6 @@ Your artwork should read the `display_mode` parameter from the URL and adjust th
   
 - **`display_mode=fit`**: The artwork should scale its content to fit entirely within the viewport, ensuring that all content is visible, potentially adding padding or black bars if the aspect ratios do not match.
 
-### Code Example
-
-```javascript
-<script>
-  // Get display_mode from URL parameters
-  const urlParams = new URLSearchParams(window.location.search);
-  const displayMode = urlParams.get('display_mode') || 'fit'; // Default to 'fit' if not specified
-
-  // Adjust your artwork based on the display mode
-  function adjustDisplayMode() {
-    const canvas = document.getElementById('myCanvas');
-    const context = canvas.getContext('2d');
-
-    const windowWidth = window.innerWidth;
-    const windowHeight = window.innerHeight;
-
-    // Set canvas size to match window size
-    canvas.width = windowWidth;
-    canvas.height = windowHeight;
-
-    if (displayMode === 'crop') {
-      // Implement cropping logic to fill the viewport
-      // Scale and center your artwork to fill the canvas, possibly cropping edges
-      context.save();
-      // Your drawing code here, scaling up to fill and possibly cropping
-      context.restore();
-    } else if (displayMode === 'fit') {
-      // Implement fitting logic to ensure all content is visible within the viewport
-      // Scale your artwork to fit within the canvas without cropping
-      context.save();
-      // Your drawing code here, scaling down to fit entirely
-      context.restore();
-    } else {
-      // Handle unexpected values if necessary
-      console.warn('Unknown display_mode:', displayMode);
-    }
-  }
-
-  // Call adjustDisplayMode during initialization
-  adjustDisplayMode();
-
-  // Also, call adjustDisplayMode on window resize if needed
-  window.addEventListener('resize', adjustDisplayMode);
-</script>
-```
-
 ### Guidelines
 
 - **Responsive Design**: Ensure that your artwork adapts to different screen sizes and aspect ratios.
@@ -364,4 +318,4 @@ Reference: [MDN - Window Resize Event](https://developer.mozilla.org/en-US/docs/
 - **External Dependencies**: When creating your artwork, ensure that all external dependencies are properly included and accessible.
 - **Performance**: Be cautious with performance on devices with limited resources, such as mobile phones and TVs.
 - **Animation Frame**: Consider using `requestAnimationFrame` for animations to optimize performance.
-- **Testing**: Always test your artwork thoroughly in the environments where it will be displayed (desktop browsers, mobile browsers, mobile apps, TV apps).
+- **Testing**: Test your artwork thoroughly in the environments where it will be displayed (desktop browsers, mobile browsers, mobile apps, TV apps).
