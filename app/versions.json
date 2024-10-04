@@ -4,7 +4,7 @@
         "link": "https://apps.apple.com/us/app/autonomy-app/id1544022728"
     },
     "devIOS": {
-        "requiredVersion": "0.57.0",
+        "requiredVersion": "0.50.0",
         "link": "https://install.appcenter.ms/orgs/support-zzd0-28/apps/autonomy-1/distribution_groups/testers"
     },
     "productionAndroid": {
@@ -12,7 +12,7 @@
         "link": "https://play.google.com/store/apps/details?id=com.bitmark.autonomy_client"
     },
     "devAndroid": {
-        "requiredVersion": "0.57.0",
+        "requiredVersion": "0.50.0",
         "link": "https://install.appcenter.ms/orgs/support-zzd0-28/apps/autonomy-android-1/distribution_groups/bitmark%20internal%20testers"
     }
 }
