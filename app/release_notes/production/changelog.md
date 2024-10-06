@@ -1,3 +1,25 @@
+[#] 0.53.14 - Sep 26, 2024
+
+- We changed the Daily to show at 6AM local time.
+- We’ve fixed the issue where some users were getting stuck on the loading screen when opening the app. We apologize for any inconvenience this may have caused—thanks for your patience!
+
+[#] 0.53.10 - Sep 15, 2024
+
+- Added Japanese support
+- Improved startup performance
+
+
+[#] 0.53.07 - Sep 2, 2024
+
+Welcome to Feral File Membership.
+
+Moving forward, all members have access to a new feature called the Feral File Daily.
+
+As a curated feature, the Daily lets you display one new artwork every day. It works on any compatible smart TV.
+
+Over our six-year existence, we’ve compiled an incredible exhibition history which now includes 15,000+ unique artworks. The Daily will draw from this archive, while also spotlighting artworks from recently-launched exhibitions.
+
+
 [#] 0.47.0 - Jan 12, 2024
 
 ### Autonomy renamed Feral File to includes all the same features plus news ways to organize, explore, and stream digital art.
