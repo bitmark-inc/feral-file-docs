@@ -1,9 +1,9 @@
 {
   "tizen": {
-    "url": "https://fix-art-discovery-feedbacks.feralfile-display-prod.pages.dev/?platform=tizen"
+    "url": "https://report-problem.feralfile-display.pages.dev/?platform=tizen"
   },
   "google": {
-    "url": "https://fix-art-discovery-feedbacks.feralfile-display-prod.pages.dev/?platform=google"
+    "url": "https://report-problem.feralfile-display.pages.dev/?platform=google"
   },
   "duration": 3600000,
   "new_daily_hour": 6
