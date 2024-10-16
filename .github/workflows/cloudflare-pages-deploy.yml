@@ -1,0 +1,37 @@
+name: Deploy Remote Configs
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deployment Environment'
+        required: true
+        default: 'Production'
+        type: choice
+        options:
+        - Production
+        - Development
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy
+    environment: ${{ github.event.inputs.environment }}
+    steps:
+      - name: Checkout configs folder
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            configs
+          sparse-checkout-cone-mode: false
+
+      - name: Create version.json
+        run: |
+          echo "{\"commit\": \"${{ github.sha }}\", \"environment\": \"${{ github.event.inputs.environment }}\"}" > configs/version.json
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy configs --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME }}
