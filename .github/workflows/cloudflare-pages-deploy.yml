@@ -34,4 +34,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy configs --project-name=remote-configs
+          command: pages deploy configs --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME }}
