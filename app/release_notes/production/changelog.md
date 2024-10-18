@@ -1,3 +1,21 @@
+[#] 0.54.2 - Oct 18, 2024
+We’ve made several key improvements in this version:
+
+- Fixed the loading issue with 0.53.17 for Android.
+- Fixed the problem of error messages popping up repeatedly.
+- Resolved playlist casting issues.
+- Addressed 3D artwork playback issues.
+- Fixed the issue where some users couldn’t receive in-app notifications.
+- Made some overall UI improvements.
+
+Update now for a smoother experience!
+
+[#] 0.54.1 - Oct 16, 2024
+Big updates are here! We’ve streamlined the experience between the mobile app and TV, making it easier for you to enjoy Daily artworks. Organizing your artwork collections is now a breeze, and reporting display issues on your TV is simpler than ever. Update now to explore the improvements!
+
+[#] 0.53.17 - Oct 12, 2024
+We’ve got something special for SuperBridge attendees! Scan the QR code at SuperBridge to install the app and access the exclusive playlist.
+
 [#] 0.53.14 - Sep 26, 2024
 
 - We changed the Daily to show at 6AM local time.
