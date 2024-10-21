@@ -1,6 +1,10 @@
 name: Deploy Remote Configs
 
 on:
+  push:
+    branches:
+      - main
+      - dev
   workflow_dispatch:
     inputs:
       environment:
@@ -16,7 +20,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     name: Deploy
-    environment: ${{ github.event.inputs.environment }}
+    environment: ${{ github.event.inputs.environment || (github.ref == 'refs/heads/main' && 'Production' || 'Development') }}
     steps:
       - name: Checkout configs folder
         uses: actions/checkout@v4
@@ -27,7 +31,7 @@ jobs:
 
       - name: Create version.json
         run: |
-          echo "{\"commit\": \"${{ github.sha }}\", \"environment\": \"${{ github.event.inputs.environment }}\"}" > configs/version.json
+          echo "{\"commit\": \"${{ github.sha }}\", \"environment\": \"${{ github.event.inputs.environment || (github.ref == 'refs/heads/main' && 'Production' || 'Development') }}\"}" > configs/version.json
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
