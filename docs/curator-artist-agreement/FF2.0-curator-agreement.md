@@ -1,6 +1,6 @@
 # Curator Agreement
 
-**{{ .Signer.AlumniAccount.FullName }}:**
+**{{ .Signer.FullName }}:**
 
 Below, Bitmark, Inc. (“we”, “us”, “our”, “Feral File”) provides you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }} with the responsibilities detailed in [The Curator’s Guide](https://docs.google.com/document/d/1g6F7IiDB5D3jWExJ8-HHfJdtZB5TlB-s-Zkuz5bztTI/edit). There may be other tasks discussed and agreed upon by both parties (Feral File, yourself) over email. Those tasks, once agreed, will be part of this agreement.
 
@@ -34,8 +34,8 @@ You understand and agree that this agreement contains all of Feral File’s obli
 If you understand and accept the responsibilities explained above, please confirm acceptance of this project and the terms of this agreement by clicking “Sign contract” button below.
 
 Understood and Agreed:
-<br>Curator Name: {{ .Signer.AlumniAccount.FullName }}
-{{ if .Signer.AlumniAccount.Company }}<br>Employer (if any): {{ .Signer.AlumniAccount.Company }}{{ end }}
+<br>Curator Name: {{ .Signer.FullName }}
+{{ if .Signer.Company }}<br>Employer (if any): {{ .Signer.Company }}{{ end }}
 {{ if .ExhibitionLegalSignature }}
 <br>Signature: {{ .ExhibitionLegalSignature.Signature }}
 <br>Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
