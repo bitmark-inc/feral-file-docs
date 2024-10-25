@@ -1,3 +1,7 @@
+
+[#] 0.54.3 - Oct 25, 2024
+This update includes fixes for crash issues and artwork loading, boosts app initialization for a faster start, and makes it easier to check past announcements.
+
 [#] 0.54.2 - Oct 18, 2024
 We’ve made several key improvements in this version:
 
