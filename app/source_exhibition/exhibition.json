@@ -14,11 +14,9 @@
   "curator": {
     "ID": "listIDs",
     "alias": "Operator, 0xDEAFBEEF, Casey Reas",
-    "alumniAccount": [
-      {
-        "alias": "Operator, 0xDEAFBEEF, Casey Reas"
-      }
-    ]
+    "alumniAccount": {
+      "alias": "Operator, 0xDEAFBEEF, Casey Reas"
+    }
   },
   "curators": [
     {
