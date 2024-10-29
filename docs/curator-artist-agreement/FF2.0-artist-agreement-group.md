@@ -1,8 +1,8 @@
 # Artist Agreement Group
 
-**{{ .Signer.AlumniAccount.FullName }}:**
+**{{ .Signer.FullName }}:**
 
-Curator {{ .Curator.AlumniAccount.FullName }} has invited you to a group exhibition to be opened on Feral File in {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }}.
+Curator {{ .Curator.FullName }} has invited you to a group exhibition to be opened on Feral File in {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }}.
 
 Below, Bitmark, Inc. (“we”, “us”, “our”, “Feral File”) provides  you with the terms of our agreement for your work to be exhibited and sold on [Feral File](https://feralfile.com).
 
@@ -27,7 +27,7 @@ Below is a summary of your responsibilities:
 
 1. **Support the financial success of the exhibition and your artworks**
    1. Withhold from selling your exhibition set (in its entirety or through individual artworks) until exhibition sales are complete (all artworks sold out or removed from the primary market on Feral File).
-   1. For 24 months after the end of the exhibition, Feral File will have the exclusive right to list on Feral File and mutually agreeable third party platforms any of your artworks unsold after the completion of the exhibition, subject to (i) the compensation terms below, and (ii) setting the price of your artwork at the price agreed between you and Feral File below, unless you and Feral File agree otherwise. 
+   1. For 24 months after the end of the exhibition, Feral File will have the exclusive right to list on Feral File and mutually agreeable third party platforms any of your artworks unsold after the completion of the exhibition, subject to (i) the compensation terms below, and (ii) setting the price of your artwork at the price agreed between you and Feral File below, unless you and Feral File agree otherwise.
 
 
 In general, artwork installation must be completed at least six weeks in advance of the opening. Specific due dates for all tasks are shared within the Feral File Admin interface. Failure to complete tasks on time may delay the exhibition or force the exhibition to continue without your participation.
@@ -61,8 +61,8 @@ Referenced Documents:
 Understood and Agreed:
 <br>(Click “Sign contract” button below)
 (If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking “Sign contract”)
-<br>Artist Name: {{ .Signer.AlumniAccount.FullName }}
-{{ if .Signer.AlumniAccount.Company }}<br>Employer (if any): {{ .Signer.AlumniAccount.Company }}{{ end }}
+<br>Artist Name: {{ .Signer.FullName }}
+{{ if .Signer.Company }}<br>Employer (if any): {{ .Signer.Company }}{{ end }}
 {{ if .ExhibitionLegalSignature }}
 <br>Signature: {{ .ExhibitionLegalSignature.Signature }}
 <br>Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}

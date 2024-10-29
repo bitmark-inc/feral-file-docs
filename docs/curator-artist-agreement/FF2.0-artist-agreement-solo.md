@@ -1,7 +1,7 @@
 # Artist Agreement Solo
 
-**{{ .Signer.AlumniAccount.FullName }}:**
-Curator {{ .Curator.AlumniAccount.FullName }} has invited you to a solo exhibition to be opened on Feral File in {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }}.
+**{{ .Signer.FullName }}:**
+Curator {{ .Curator.FullName }} has invited you to a solo exhibition to be opened on Feral File in {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }}.
 
 Below, Bitmark, Inc. (“we”, “us”, “our”, “Feral File”) provides you with the terms of our agreement for your work to be exhibited and sold on Feral File.
 
@@ -60,8 +60,8 @@ Understood and Agreed:
 
 (Click "Sign contract" button below) (If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking "Sign contract")
 
-Artist Name: {{ .Signer.AlumniAccount.FullName }}
-{{ if .Signer.AlumniAccount.Company }}Employer: {{ .Signer.AlumniAccount.Company }}{{ end }}
+Artist Name: {{ .Signer.FullName }}
+{{ if .Signer.Company }}Employer: {{ .Signer.Company }}{{ end }}
 {{ if .ExhibitionLegalSignature }}Signature: {{ .ExhibitionLegalSignature.Signature }}
 Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
 {{ end }}
