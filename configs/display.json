@@ -6,5 +6,6 @@
     "url": "https://display.feralfile.com/?platform=google"
   },
   "duration": 3600000,
-  "new_daily_hour": 6
+  "new_daily_hour": 6,
+  "daily_background_color": "#ffa000"
 }

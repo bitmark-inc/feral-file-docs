@@ -157,6 +157,7 @@
     ]
   },
   "daily": {
-    "scheduleTime": "6"
+    "scheduleTime": "6",
+    "backgroundColor": "#ffa000"
   }
 }
