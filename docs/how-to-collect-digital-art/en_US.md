@@ -6,7 +6,7 @@
 
 # Overall, why is digital art intersecting with the blockchain?
 
-### Right now, we’re at a historic turning point. Artists working with software finally have access to a suite of tools enabling them to fully participate in the commercial art market.
+#### Right now, we’re at a historic turning point. Artists working with software finally have access to a suite of tools enabling them to fully participate in the commercial art market.
 
 Feral File is focused on curating and exhibiting digital art on the blockchain. We define “digital art” as art that is created and/or published using software, and we define “art on the blockchain” as any kind of artwork that is specifically stored, authenticated, and/or transacted using blockchain technology.
 
@@ -42,7 +42,7 @@ The blockchain can be used to create tokens that represent ownership of an artwo
 
 # Why use a blockchain instead of a database?
 
-### The blockchain decentralized proof of provenance and the ability to seamlessly experiment with royalties and resale rights. This has opened up new opportunities for artists and collectors to directly engage with one another in a form of [permissionless innovation](https://www.cato.org/cato-online-forum/embracing-culture-permissionless-innovation).
+#### The blockchain decentralized proof of provenance and the ability to seamlessly experiment with royalties and resale rights. This has opened up new opportunities for artists and collectors to directly engage with one another in a form of [permissionless innovation](https://www.cato.org/cato-online-forum/embracing-culture-permissionless-innovation).
 
 Historical context is very important for artworks. If you can track the provenance of an individual piece of art, you know its origin, you can prove that it’s not a fake, you can trace who has owned it over the years, and you can record all future changes of ownership. Tracking the provenance of physical artwork can be extremely challenging, but for digital art, it can now be fully automated using the blockchain. This is due to three core characteristics of blockchains:
 
@@ -58,7 +58,7 @@ Overall, the blockchain is useful for digital art because it can easily handle t
 
 # What does it mean to “own” art on the blockchain?
 
-### In short, you have an electronic key that is required to “unlock” the current record of ownership for the artwork.
+#### In short, you have an electronic key that is required to “unlock” the current record of ownership for the artwork.
 
 When you purchase art on the blockchain, a new entry is made that shows the transfer. That record is associated with a very big number called a “public key.” Then there’s another very big number associated with the transaction called a “private key,” which only you know. You can use that private key to prove ownership of the record (and thus the digital artwork). You can also use that private key to transfer ownership of the artwork to someone else.
 
@@ -72,7 +72,7 @@ Best practice for smart contract-based rights agreements is to “hash” the ag
 
 Ultimately, you will need two things to acquire and store art on the blockchain: a source of funding, and a storage location. Your source of funding and storage location will each be addresses on a blockchain that are locked by a private key.
 
-### The Funding Address
+#### The Funding Address
 
 The funding address needs to hold the funds that you will use to purchase fine art on the blockchain. This will usually require you to set up an account with a crypto exchange so that you can easily buy and sell cryptocurrency. As of this writing, [Forbes Advisor](https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-exchanges/) recommends Kraken, Gemini, crypto.com, KuCoin, and Coinbase as the best exchanges.
 
@@ -80,25 +80,25 @@ Once you’ve created an account at an exchange, you’ll be able to connect a b
 
 Once you’re ready to make a purchase, the platform where the artwork is listed for sale should make it easy for you to send cryptocurrency from your funding address, and, pending your purchase, for the artwork to be sent to your storage address.
 
-### The Storage Address
+#### The Storage Address
 
 Your art on the blockchain will be held at your storage address, so you’ll want this account to be fully secure and not dependent on external sources. We call this “self-sovereign storage” because you remain in control. You can manage self-sovereign storage with a variety of hardware devices or software apps, which should contain methodologies to ensure the resilience of your storage address (so that you don’t lose it, and don’t get hacked). They do so with 24-word backups, or by using either Shamir’s Secret Sharing or multisig technology.
 
 Here’s an overview of several of the easiest-to-use choices for creating storage addresses: 
 
-#### 1\. Ledger (Hardware Wallet; Ethereum or Tezos)
+##### 1\. Ledger (Hardware Wallet; Ethereum or Tezos)
 
 The Ledger is a hardware wallet, which means that it’s a physical device that exists solely to store keys for controlling digital assets. Not all hardware wallets support all blockchains, but Ledger supports both Ethereum and Tezos, so it’s a good choice for storing fine art on the blockchain.
 
 *See the [Ledger Academy](https://www.ledger.com/academy/tutorials) for basic information on how to use a Ledger device, and the [Ethereum docs](https://support.ledger.com/hc/en-us/articles/360009576554-Ethereum-ETH-?docs=true) and [Tezos docs](https://support.ledger.com/hc/en-us/articles/360016057774-Tezos-XTZ-?docs=true) for short notes on how to activate those currencies.*
 
-#### 2\. Gordian Seed Tool (iPhone App; Ethereum only)
+##### 2\. Gordian Seed Tool (iPhone App; Ethereum only)
 
 This open-source software is available from the Apple App Store or from GitHub. With it, you can generate a cryptographic “seed” and then use that as the foundation for an Ethereum address. You can then send your art on the blockchain to that address.
 
 *See the [Gordian Seed Tool Manual](https://github.com/BlockchainCommons/GordianSeedTool-iOS/blob/master/Docs/MANUAL.md) for information on how to use the app, including notes on [“Integrating with Ethereum.”](http://rating-with-ethereum)* 
 
-#### 3\. Gnosis Safe (Smart Contract; Ethereum only)
+##### 3\. Gnosis Safe (Smart Contract; Ethereum only)
 
 A Gnosis Safe is a multisig contract that works on the Ethereum network. Its advantage is that it’s a true multisig, meaning the artworks stored in the contract can only be transferred if multiple people agree (and also that losing a single key should not cause the loss of access to your art).
 
@@ -108,7 +108,7 @@ A Gnosis Safe is created through their website. You’ll decide the rules for th
 
 # Is the blockchain secure?
 
-### Overall, yes. Current blockchains use technologies that are expected to be secure into the “middle-future.”
+#### Overall, yes. Current blockchains use technologies that are expected to be secure into the “middle-future.”
 
 Though it’s possible that future technologies could compromise blockchains, the most likely result is that at some time in the future you’d have to relock your ownership records using new keys.
 
