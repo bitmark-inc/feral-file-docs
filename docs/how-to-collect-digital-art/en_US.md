@@ -1,4 +1,4 @@
-# **Intro to Collecting Art on the Blockchain**
+# Intro to Collecting Art on the Blockchain
 
 **Feral File’s guide for institutions looking to begin using blockchain technologies to collect digital art in a secure, future-proof way.**
 
