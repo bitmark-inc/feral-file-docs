@@ -1,3 +1,11 @@
+[#] 0.54.6 - Nov 8, 2024
+
+Now, you can add a widget to your Home Screen that shows a preview of the Daily artwork, plus get notifications when a new Daily is up. This release also include a few bug fixes for a smoother experience.
+
+[#] 0.54.4 - Nov 4, 2024
+
+This update adds Passkey support for a faster, more secure login experience.
+
 [#] 0.54.2 - Oct 18, 2024
 We’ve made several key improvements in this version:
 
