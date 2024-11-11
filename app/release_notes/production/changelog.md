@@ -7,6 +7,11 @@ Bug fixes & UI/UX improvements.
 Now, you can add a widget to your Home Screen to preview the Daily artwork, get notifications for new releases, and enjoy a smoother experience with bug fixes.
 We’re also enhancing security with a simplified authentication system—moving forward, only Passkeys will be supported for authentication.
 
+To install the widget:
+	1.	Tap and hold an empty space on your Home screen.
+	2.	Select “Widgets” and find the Feral File widget.
+	3.	Drag it to your Home screen and adjust the size as needed.
+
 [#] 0.54.4 - Nov 4, 2024
 
 This update adds Passkey support for a faster, more secure login experience.
