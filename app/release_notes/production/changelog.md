@@ -1,3 +1,7 @@
+[#] 0.54.7 - Nov 11, 2024
+
+Bug fixes & UI/UX improvements.
+
 [#] 0.54.6 - Nov 8, 2024
 
 Now, you can add a widget to your Home Screen to preview the Daily artwork, get notifications for new releases, and enjoy a smoother experience with bug fixes.
