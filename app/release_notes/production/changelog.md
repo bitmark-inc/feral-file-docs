@@ -2,15 +2,15 @@
 
 ### What’s New:
 
-- We’ve removed the **crypto wallet** feature from the **Feral File** app.
+- We’ve removed the crypto wallet feature from the Feral File app.
 
-- Going forward, Feral File will focus on **displaying and organizing art** under the control of your existing wallet addresses. 
+- Going forward, Feral File will focus on displaying and organizing art under the control of your existing wallet addresses. 
 
-- The app will temporarily **store your recovery phrase** to help you transition. To transact, you’ll need to load this recovery phrase into another wallet. The app will guide you through this process.
+- The app will temporarily store your recovery phrase to help you transition. To transact, you’ll need to load this recovery phrase into another wallet. The app will guide you through this process.
 
 ### Why the change?
 
-The **single-key wallet model**, while functional, poses significant risks:
+The single-key wallet model, while functional, poses significant risks:
 - Single points of failure
 - Vulnerability to compromise
 
