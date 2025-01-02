@@ -1,3 +1,31 @@
+[#] 0.54.3 - Dec 25, 2024
+
+### What’s New:
+
+- We’ve removed the crypto wallet feature from the Feral File app.
+
+- Going forward, Feral File will focus on displaying and organizing art under the control of your existing wallet addresses. 
+
+- The app will temporarily store your recovery phrase to help you transition. To transact, you’ll need to load this recovery phrase into another wallet. The app will guide you through this process.
+
+### Why the change?
+
+The single-key wallet model, while functional, poses significant risks:
+- Single points of failure
+- Vulnerability to compromise
+
+As a team focused on making digital art as ubiquitous as books and music, we believe it’s time to move past this outdated approach.
+
+We recommend:
+
+- **MetaMask**: For purchasing Ethereum-based artwork.
+- **Temple**: For purchasing Tezos-based artwork.
+- **Ledger**: For offline storage as a secure step up from hot wallets.
+- **Tholos**: For advanced storage solutions with multisigner security.
+
+For collectors managing high-value collections, we’re happy to facilitate introductions to Tholos for secure and sophisticated storage solutions.
+
+This change enables us to better support collectors, artists, and curators in creating and sharing meaningful digital art experiences. It frees us to focus on making living with digital art simple, inspiring, and enduring.
 
 [#] 0.54.3 - Oct 25, 2024
 
