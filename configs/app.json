@@ -158,5 +158,8 @@
   },
   "daily": {
     "scheduleTime": "6"
+  },
+  "video_settings": {
+      "client_bandwidth_hint": 16.0
   }
 }
