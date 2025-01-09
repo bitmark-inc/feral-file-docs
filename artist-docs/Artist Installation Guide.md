@@ -249,9 +249,10 @@ We recommend creating two versions of your video for Feral File. One version is 
 
 ***** The compressed version of your video for web steaming must be no greater than 500 MB, and it must be an MP4.
 
-3. Source file: This is the highest-quality file of your artwork. You can upload a <span style="text-decoration:underline;">single video file</span> (in MP4 or MOV or WMV or QUICKTIME or AVI or WEBM or MKV) or a <span style="text-decoration:underline;">ZIP package</span> that includes the video file and other documentation, such as text, process images, etc.  you want the collector to have. (max. file size 5GB per file) *Format example: [Artwork folder](https://drive.google.com/drive/folders/1yav-o_uUiy6bGtKbY87d7NdddOdSlAm9?usp=share_link)*
+3. Source file: This is the highest-quality file of your artwork. You can upload a <span style="text-decoration:underline;">single video file</span> (in MP4 or MOV or WMV or QUICKTIME or AVI or WEBM or MKV) or a <span style="text-decoration:underline;">ZIP package</span> that includes the video file and other documentation, such as text, process images, etc.  you want the collector to have. (max. file size 5GB per file) _Format example: [Artwork folder](https://drive.google.com/drive/folders/1yav-o_uUiy6bGtKbY87d7NdddOdSlAm9?usp=share_link)_
 
 📁 artwork
+ 
    📁 filename_1.zip (Folder 1 is for Edition 1) or filename_1.mp4 (#1)
    * My_video.mov (required at the root of the ZIP, highest quality possible for the collector)
    * my_video_alt.mov (you can include another video too if you want)
@@ -259,6 +260,7 @@ We recommend creating two versions of your video for Feral File. One version is 
    * maybe_a_PDF_with_other_information.pdf
    * maybe_a_README_file_with_other_information.txt
    * (anything else you want the collector to have)
+  
    📁 filename_2.zip (Folder 2 is for Edition 2) or filename_2.mp4 (#2)
    * my_video.mov (required at the root of the ZIP, highest quality possible for the collector)
    * my_video_alt.mov (you can include another video too if you want)
@@ -313,3 +315,130 @@ If you need help with 3D model format, you can email Oren directly ([oren.avraha
 This is Oren's fee structure:
 
 For a 3D viewer website made with [https://modelviewer.dev](https://modelviewer.dev/) displaying a single model (similar to what I set up for Peter's COUNT ZERO FOUR piece), I'd ask for a $500 flat fee, which would include helping the artist convert their model to GLB format and configuring the &lt;model-viewer> camera and controls. If an artist wanted something more complex than what &lt;model-viewer> affords, e.g. a site with custom HTML/CSS, custom interaction logic, multiple 3D models, or JavaScript-based animation, or if they needed help with a pre-existing 3D viewer setup, I'd charge an hourly rate of $60.
+
+### 4. Text
+
+Examples: [Martin John Callanan](https://feralfile.com/artworks/each-and-every-command-gmb?sort=0)
+
+We require the artwork files for the following sections:
+
+1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)._
+
+📁 artwork_thumbnail
+* filename_1.jpg (#1)
+* filename_2.jpg (#2)
+* filename_3.jpg (#3)
+* filename_4.jpg (#4)
+
+2. Web streaming: Upload your txt as a single txt file that will work for web viewing (max. file size 5GB per file) _Format example: [Web streaming Preview folder](https://drive.google.com/drive/folders/1c5fiEiekG4OBfQWaLlXUVR5WYkztTMKk?usp=share_link)_
+
+📁 artwork_web
+* filename_1.txt (#1)
+* filename_2.txt  (#2)
+* filename_3.txt  (#3)
+* filename_4.txt  (#4)
+
+3. Source file: You can upload a <span style="text-decoration:underline;">single TXT file</span> or a <span style="text-decoration:underline;">ZIP packag</span>e that includes the TXT file and other documentation, such as text, process images, etc.  you want the collector to have. (max. file size 5GB per file) _Format example: [Artwork folder](https://drive.google.com/drive/folders/1yav-o_uUiy6bGtKbY87d7NdddOdSlAm9?usp=share_link)_
+
+📁 my_artwork_name.zip
+* my_artwork.txt (required at the root of the ZIP)
+* maybe_a_PDF_with_other_information.pdf
+
+### 5. Animated GIF
+
+We require the artwork files for the following sections:
+
+1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)._
+
+📁 artwork_thumbnail
+* filename_1.jpg (#1)
+* filename_2.jpg (#2)
+* filename_3.jpg (#3)
+* filename_4.jpg (#4)
+
+2. Web streaming: Upload your animated GIF as a single GIF file that will work for web viewing (max. file size 22MB per file) _Format example: [Web streaming Preview folder](https://drive.google.com/drive/folders/1c5fiEiekG4OBfQWaLlXUVR5WYkztTMKk?usp=share_link)_
+
+📁 artwork_web
+* filename_1.gif (#1)
+* filename_2.gif  (#2)
+* filename_3.gif  (#3)
+* filename_4.gif  (#4)
+
+3. Source file: You can upload a <span style="text-decoration:underline;">single animated GIF file</span> or a <span style="text-decoration:underline;">ZIP package</span> that includes the animated GIF file and other documentation, such as text, process images, etc. you want the collector to have. (max. file size 5GB per file) _Format example: [Artwork folder](https://drive.google.com/drive/folders/1yav-o_uUiy6bGtKbY87d7NdddOdSlAm9?usp=share_link)_
+
+📁 my_artwork_name.zip
+* my_artwork.gif (required at the root of the ZIP)
+* maybe_a_PDF_with_other_information.pdf
+
+### 6. Audio
+
+* __Recommendation: WAV__
+* Possible: WAV, AAC, AIFF, MP3, WMA, M4A, AMR, FLAC, MID, OGG
+
+We require the artwork files for the following sections:
+
+
+1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link). _
+
+📁 artwork_thumbnail
+* filename_1.jpg (#1)
+* filename_2.jpg (#2)
+* filename_3.jpg (#3)
+* filename_4.jpg (#4)
+
+2. Web streaming: Upload your audio as a single M4A file that will work for web viewing (max. file size 110MB per file) _Format example: [Web streaming Preview folder](https://drive.google.com/drive/folders/1c5fiEiekG4OBfQWaLlXUVR5WYkztTMKk?usp=share_link)_
+
+ 📁 artwork_web
+* filename_1.m4a (#1)
+* filename_2.m4a (#2)
+* filename_3.m4a (#3)
+* filename_4.m4a (#4)
+
+3. Source file: You can upload a <span style="text-decoration:underline;">single audio file</span> or a <span style="text-decoration:underline;">ZIP package</span> that includes the audio file and other documentation, such as text, process images, etc. you want the collector to have. (max. file size 5GB per file) _Format example: [Artwork folder](https://drive.google.com/drive/folders/1yav-o_uUiy6bGtKbY87d7NdddOdSlAm9?usp=share_link)_
+
+📁 my_artwork_name.zip
+* my_artwork.wav (required at the root of the ZIP)
+* maybe_a_PDF_with_other_information.pdf
+
+### 7. Image
+* __Recommendation: PNG__
+* Possible: PNG, JPEG, JPG, BMP
+
+Examples: [Linda Dounia](https://feralfile.com/exhibitions/in-visible-419/series/chez-jo-ei5?viewMode=Grid)
+
+Feral File requires the artwork files for the following sections:
+
+1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)_
+
+📁 artwork_thumbnail
+* filename_1.jpg (#1)
+* filename_2.jpg (#2)
+* filename_3.jpg (#3)
+* filename_4.jpg (#4)
+
+2. Web streaming: The image for web steaming must be no greater than 22MB and it must be a PNG, JPG or JPEG. _Format example: [Web streaming Preview folder](https://drive.google.com/drive/folders/1c5fiEiekG4OBfQWaLlXUVR5WYkztTMKk?usp=share_link)_
+
+📁 artwork_web
+* filename_1.jpg (#1)
+* filename_2.jpg (#2)
+* filename_3.jpg (#3)
+* filename_4.jpg (#4)
+
+3. Source file: This is the highest-quality file of your artwork. You can upload a <span style="text-decoration:underline;">single image file</span> or a <span style="text-decoration:underline;">ZIP packag</span>e that includes the image file and other documentation, such as text, process images, etc.  you want the collector to have. (max. file size 5GB per file) _Format example: [Artwork folder](https://drive.google.com/drive/folders/1yav-o_uUiy6bGtKbY87d7NdddOdSlAm9?usp=share_link)_
+
+📁 artwork
+
+📁 filename_1.zip (Folder 1 is for Edition 1) or filename_1.jpg
+* 1.jpg
+* maybe_a_PDF_with_other_information.pdf
+
+📁 filename_2.zip (Folder 2 is for Edition 2) or filename_2.jpg
+* 2.jpg
+* maybe_a_PDF_with_other_information.pdf
+
+### 8. PDF
+
+* You can upload an edition as a PDF file
+    * *Are there PDF variations, version numbers, etc. that we should be aware of that might create issues?*
+
+If your artwork format is PDF, please reach out to [rita@bitmark.com](mailto:rita@bitmark.com) before the installation, so we can make sure the system can support your files.
