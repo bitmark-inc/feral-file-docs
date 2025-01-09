@@ -322,7 +322,7 @@ Examples: [Martin John Callanan](https://feralfile.com/artworks/each-and-every-c
 
 We require the artwork files for the following sections:
 
-1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)._
+1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)_
 
 📁 artwork_thumbnail
 * filename_1.jpg (#1)
@@ -348,7 +348,7 @@ We require the artwork files for the following sections:
 
 We require the artwork files for the following sections:
 
-1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)._
+1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)_
 
 📁 artwork_thumbnail
 * filename_1.jpg (#1)
@@ -377,8 +377,7 @@ We require the artwork files for the following sections:
 
 We require the artwork files for the following sections:
 
-
-1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link). _
+1. Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) _Format example: [Thumbnail folder](https://drive.google.com/drive/folders/14DJVCwD0bfc5TRhZi6CL9XLUCZiFz4Y-?usp=share_link)_
 
 📁 artwork_thumbnail
 * filename_1.jpg (#1)
