@@ -44,7 +44,7 @@ Once your profile is updated:
 
 Once your profile is complete, you can begin uploading your artwork.
 
-### Required Files:
+Required Files:
 
 1. **Thumbnail Image**
    - This image is displayed on the [index for the series](https://feralfile.com/exhibitions/graph-8vs/series/fictional-lullaby-pe1?viewMode=Grid) and when people [browse the work](https://feralfile.com/exhibitions/graph-8vs?tab=Collect#1) on the “overview” page.
