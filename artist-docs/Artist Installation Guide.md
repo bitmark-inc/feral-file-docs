@@ -18,7 +18,7 @@ This information will be entered into the admin system to grant the artist acces
 
 The artist will receive an email from **[support@feralfile.com](mailto:support@feralfile.com)** containing a link to access the Feral File admin portal.
 
-- Click the link and log in using the wallet address provided to the curator or Rita.
+- Click the [link](https://profile.feralfile.com/) and log in using the wallet address provided to the curator or Rita.
 
 3. Update Your Profile
 
@@ -496,3 +496,6 @@ Feral File requires the artwork files for the following sections:
     * *Are there PDF variations, version numbers, etc. that we should be aware of that might create issues?*
 
 If your artwork format is PDF, please reach out to [rita@feralfile.com](mailto:rita@feralfile.com) before the installation, so we can make sure the system can support your files.
+
+## Artist Installation FAQ
+
