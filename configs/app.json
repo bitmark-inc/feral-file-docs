@@ -157,9 +157,12 @@
     ]
   },
   "daily": {
-    "scheduleTime": "6"
+    "scheduleTime": "2"
   },
   "video_settings": {
       "client_bandwidth_hint": 16.0
+  },
+  "tester": {
+    "beta_tester": ["0xeA2Ac9e6d59BB56248e1D6A5BFC5d1AcAe9D09a2"]
   }
 }
