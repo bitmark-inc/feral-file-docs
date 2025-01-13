@@ -163,6 +163,6 @@
       "client_bandwidth_hint": 16.0
   },
   "tester": {
-    "beta_tester": ["0xeA2Ac9e6d59BB56248e1D6A5BFC5d1AcAe9D09a2"]
+    "beta_tester": ["0xeA2Ac9e6d59BB56248e1D6A5BFC5d1AcAe9D09a2", "0x49366B2C91332bF30D1e9264cf8f04555084d136"]
   }
 }
