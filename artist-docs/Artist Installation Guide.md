@@ -1,18 +1,73 @@
 # Feral File — Artist Installation Guide
 
-## Feral File Installation
+## Artist Flow: Artwork Installation Process
 
-You’ll receive an email from [support@feralfile.com](mailto:support@feralfile.com) with a link that will give you access to the admin, where you can upload your artwork. Please log in using the wallet address you have provided to the curator.
+This guide outlines the steps artists need to take to successfully display their artwork on Feral File. Follow the instructions below to ensure a smooth and seamless installation process.
 
-Upload the following:
+1. Provide Required Information
 
-1. **Artist avatar.** [See what others have uploaded](https://feralfile.com/explore/artists?&sortBy=recent). Maximum file size is 2MB.
-2. **Thumbnail image of your artwork.** This image is displayed on the [index for the series](https://feralfile.com/exhibitions/graph-8vs/series/fictional-lullaby-pe1?viewMode=Grid) and when people [browse the work](https://feralfile.com/exhibitions/graph-8vs?tab=Collect#1) on the “overview” page. Supported files: PNG, JPG, JPEG (max. file size 11MB)
-3. **Your artwork.** Depending on what you are uploading, the files will be formatted differently. Please see the [other sections of this document](https://docs.google.com/document/d/1YBphMQGi1_mel7nNwafjo8rNjcUCxxMrZy-ViEZVWxc/edit#heading=h.cndsdu862k13) for those details.
+To begin, the artist must provide the following details to the curator or Rita (from the Feral File team):
+
+- **Email Address**
+- **Legal Name**
+- **Wallet Address**
+
+This information will be entered into the admin system to grant the artist access to the Feral File platform.
+
+2. Receive Access to the Admin System
+
+The artist will receive an email from **[support@feralfile.com](mailto:support@feralfile.com)** containing a link to access the Feral File admin portal.
+
+- Click the link and log in using the wallet address provided to the curator or Rita.
+
+3. Update Your Profile
+
+After logging into the admin portal, navigate to the **Profile Page** and update your information:
+
+3.1. **Upload Your Artist Avatar**
+   - **File guidelines:**
+     - Formats: PNG, JPG, JPEG
+     - Maximum file size: 2MB
+   - You can view other artist profiles on the platform for inspiration. [See what others have uploaded](https://feralfile.com/explore/artists?&sortBy=recent).
+
+3.2. **Review and Update Additional Profile Details**
+   - Add your **location**, **website**, **Instagram handle**, and **Twitter handle**.
+   - Submit your biography to your curator; it will be copy-edited by Feral File's editor and uploaded on your behalf.
+
+3.4. Sign the Artist Agreement
+
+Once your profile is updated:
+
+- You will be prompted to review and sign the **Artist Agreement**. This step is mandatory to proceed further and begin the installation process.
+
+3.5. Upload Your Artwork
+
+Once your profile is complete, you can begin uploading your artwork.
+
+### Required Files:
+
+1. **Thumbnail Image**
+   - This image is displayed on the [index for the series](https://feralfile.com/exhibitions/graph-8vs/series/fictional-lullaby-pe1?viewMode=Grid) and when people [browse the work](https://feralfile.com/exhibitions/graph-8vs?tab=Collect#1) on the “overview” page.
+   - **File specifications:**
+     - Supported formats: PNG, JPG, JPEG
+     - Maximum file size: 11MB
+
+2. **Main Artwork File**
+   - The format and specifications for this file will depend on the type of artwork being uploaded (e.g., image, video, generative art).
+   - Refer to the specific **Supported File Formats** section for detailed requirements.
+
+---
+
+Additional Notes
+
+- Ensure all files meet the size and format specifications to avoid upload errors.
+- If you encounter any issues during the installation process, contact **[support@feralfile.com](mailto:support@feralfile.com)** for assistance.
+
+By following these steps, artists can ensure their work is accurately and professionally displayed on the Feral File platform.
 
 ## Supported File Formats
 
-### 1. Web/Software
+### 1. Instructions for Web/Software Artwork Submission
 
 * Upload as a ZIP. Anything that runs in a browser should run, typically HTML/CSS/JavaScript.
 * A file named “index.html” is required. It will load first and it needs to be in the *root folder/directory* of the ZIP. Please see the Web/Software Upload Details section below for the details.
@@ -214,7 +269,7 @@ Thumbnails: PNG, JPG, JPEG (max. file size 11MB per file) The thumbnail will app
 * filename_3.jpg (#3)
 * filename_4.jpg (#4)
 
-### 2. Video
+### 2. Instructions for Video Artwork Submission
 
 * **Recommendation: ProRes 422 or 422 LT, MP4 (use H.264 video encoding to maximize the browser compatibility).**
 * Possible: ProRes 422 or 422 LT, MP4 (H.264), WebM, MKV, AVI, MOV, WMV
@@ -269,7 +324,7 @@ We recommend creating two versions of your video for Feral File. One version is 
    * maybe_a_README_file_with_other_information.txt
    * (anything else you want the collector to have)
 
-### 3. 3D
+### 3. Instructions for 3D Artwork Submission
 
 * We’ve decided to make 3D uploads the same as the Software category. This offers each artist the most flexibility in how their work is displayed. Upload a ZIP file with an index.html at the top of the ZIP. See the “3D Upload Details” section below. 
 * Include all 3D files you want the collector to have access to within the ZIP
@@ -316,7 +371,7 @@ This is Oren's fee structure:
 
 For a 3D viewer website made with [https://modelviewer.dev](https://modelviewer.dev/) displaying a single model (similar to what I set up for Peter's COUNT ZERO FOUR piece), I'd ask for a $500 flat fee, which would include helping the artist convert their model to GLB format and configuring the &lt;model-viewer> camera and controls. If an artist wanted something more complex than what &lt;model-viewer> affords, e.g. a site with custom HTML/CSS, custom interaction logic, multiple 3D models, or JavaScript-based animation, or if they needed help with a pre-existing 3D viewer setup, I'd charge an hourly rate of $60.
 
-### 4. Text
+### 4. Instructions for Text Artwork Submission
 
 Examples: [Martin John Callanan](https://feralfile.com/artworks/each-and-every-command-gmb?sort=0)
 
@@ -344,7 +399,7 @@ We require the artwork files for the following sections:
 * my_artwork.txt (required at the root of the ZIP)
 * maybe_a_PDF_with_other_information.pdf
 
-### 5. Animated GIF
+### 5. Instructions for Animated GIF Artwork Submission
 
 We require the artwork files for the following sections:
 
@@ -370,7 +425,7 @@ We require the artwork files for the following sections:
 * my_artwork.gif (required at the root of the ZIP)
 * maybe_a_PDF_with_other_information.pdf
 
-### 6. Audio
+### 6. Instructions for Audio Artwork Submission
 
 * __Recommendation: WAV__
 * Possible: WAV, AAC, AIFF, MP3, WMA, M4A, AMR, FLAC, MID, OGG
@@ -399,7 +454,7 @@ We require the artwork files for the following sections:
 * my_artwork.wav (required at the root of the ZIP)
 * maybe_a_PDF_with_other_information.pdf
 
-### 7. Image
+### 7. Instructions for Image Artwork Submission
 * __Recommendation: PNG__
 * Possible: PNG, JPEG, JPG, BMP
 
@@ -435,9 +490,9 @@ Feral File requires the artwork files for the following sections:
 * 2.jpg
 * maybe_a_PDF_with_other_information.pdf
 
-### 8. PDF
+### 8. Instructions for PDF Artwork Submission
 
 * You can upload an edition as a PDF file
     * *Are there PDF variations, version numbers, etc. that we should be aware of that might create issues?*
 
-If your artwork format is PDF, please reach out to [rita@bitmark.com](mailto:rita@bitmark.com) before the installation, so we can make sure the system can support your files.
+If your artwork format is PDF, please reach out to [rita@feralfile.com](mailto:rita@feralfile.com) before the installation, so we can make sure the system can support your files.
