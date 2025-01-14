@@ -1,4 +1,5 @@
-# Artist Flow: Artwork Installation Process
+# Feral File — Artist Installation Guide
+## Artist Flow: Artwork Installation Process
 
 This guide outlines the steps artists need to take to successfully display their artwork on Feral File. Follow the instructions below to ensure a smooth and seamless installation process.
 
