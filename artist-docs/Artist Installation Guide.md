@@ -514,20 +514,20 @@ If your artwork format is PDF, please reach out to [rita@feralfile.com](mailto:r
 - Questions from Artist: I'm trying to upload a ZIP of an `.app` executable. I'm still finishing the software (will include a Windows version and README as well), but I noticed whenever I tried to upload I would get errors on Feral File telling me it was an invalid format. I would also like to specify images for each individual edition. How do I do that if the work is "software" or should I categorize it as image, and zip the app executable with each individual image? Thank you!
 - Answer to reply: I think the best solution for our system is to choose "image" as your type and then describe the actual medium using the "+ Add custom medium" option. This should allow you to upload your custom images for each artwork in the series while also clearly communicating to collectors what the actual artwork is. As you've probably noticed, if you select the "software" option, the system expects the file to be p5.js, GLSL, HTML, or CSS.
 
--Questions from Artist:
+- Questions from Artist:
 - Answer to reply:
 
--Questions from Artist:
+- Questions from Artist:
 - Answer to reply:
 
--Questions from Artist:
+- Questions from Artist:
 - Answer to reply:
 
--Questions from Artist:
+- Questions from Artist:
 - Answer to reply:
 
--Questions from Artist:
+- Questions from Artist:
 - Answer to reply:
 
--Questions from Artist:
+- Questions from Artist:
 - Answer to reply:
