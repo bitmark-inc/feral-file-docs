@@ -31,3 +31,7 @@ Feral File requires the artwork files for the following sections:
 📁 filename_1.zip (Folder 1 is for Edition 1) or filename_1.jpg
 * 1.jpg
 * maybe_a_PDF_with_other_information.pdf
+
+📁 filename_2.zip (Folder 2 is for Edition 2) or filename_2.jpg
+* 2.jpg
+* maybe_a_PDF_with_other_information.pdf
