@@ -160,5 +160,8 @@
   },
   "daily": {
     "scheduleTime": "6"
+  },
+  "tester": {
+    "beta_tester": ["b9edf489-0f60-4a23-b9de-8be8de70ec83"]
   }
 }
