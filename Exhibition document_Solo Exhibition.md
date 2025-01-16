@@ -25,7 +25,7 @@ Once the document is completed, a copy editor from Feral File will review and ed
 *Each bio will speak to the themes the artist explores in their work, to their preferred mediums, and to their overall creative approach. Avoid including long lists of past exhibitions, affiliated institutions, or accolades.*
 
 - Email: Artist needs to fill in
-- Legal name: Artist needs to fill in
+- Artist Legal name: Artist needs to fill in
 - Wallet address (This will be used to log into the Feral File admin platform): Artist needs to fill in
 - Biography: Artist needs to fill in
 
@@ -36,7 +36,7 @@ Once the document is completed, a copy editor from Feral File will review and ed
 *The curator’s bio should offer an overview of your experience, and share any professional highlights that align with the theme(s) of your Feral File exhibition. *
 
 - Email: Curator needs to fill in
-- Legal name: Curator needs to fill in
+- Curator Legal name: Curator needs to fill in
 - Wallet address (This will be used to log into the Feral File admin platform): Curator needs to fill in
 Biography: Curator needs to fill in
 
@@ -60,7 +60,7 @@ Biography: Curator needs to fill in
 
 ## Artwork Descriptions (~100 words each)
 
-*The artwork descriptions should be written by the curator, not the artists. Please be sure to put the artist’s entire name (e.g. Aleksandra** **Jovanić) and the artwork title at least once in each artwork description. For a sample description, see [here](https://docs.google.com/document/d/1lK6kFTco5ksGBLDEA7KSNNcZ92ybsm2s0VcPYqKssCw/edit).
+*The artwork descriptions should be written by the curator, not the artists. Please be sure to put the artist’s entire name (e.g. Aleksandra** **Jovanić) and the artwork title at least once in each artwork description. For a sample description, see [here](https://docs.google.com/document/d/1lK6kFTco5ksGBLDEA7KSNNcZ92ybsm2s0VcPYqKssCw/edit).*
 
-Artwork Title: Curator or aritst needs to fill in
-Artwork description: Curator or aritst needs to fill in
+- Artwork Title: Curator or aritst needs to fill in
+- Artwork description: Curator or aritst needs to fill in
