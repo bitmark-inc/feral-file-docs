@@ -69,7 +69,7 @@ You can review the full terms and conditions of your rights in the current versi
 (Click "Sign contract" button below) (If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking "Sign contract")
 <br>Artist Name: {{ .Signer.FullName }}
 {{ if .Signer.Metadata.Company }}
-<br>Employer: {{ .Signer.Metadata.Company }}{{ end }}
+<br>Employer (if any): {{ .Signer.Metadata.Company }}{{ end }}
 {{ if .ExhibitionLegalSignature }}
 <br>Signature: {{ .ExhibitionLegalSignature.Signature }}
 <br>Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
