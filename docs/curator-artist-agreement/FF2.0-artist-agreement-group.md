@@ -1,4 +1,4 @@
-## Feral File Artist Agreement - Group Exhibition
+# Feral File Artist Agreement - Group Exhibition
 
 **Last Updated: 09-JAN 2024**
 
