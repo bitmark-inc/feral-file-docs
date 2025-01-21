@@ -1,22 +1,7 @@
 # feral-file-docs
 Feral File public documents
 
-## Website
-The Feral File website public documents
-Reference and using on [feralfile.com](https://feralfile.com)
-- Close-ups of FF1.0 exhibitions
-
-## Documents
- - Legal contracts templates
- - [Website](https://feralfile.com) static pages content
-   - About
-   - Artist + Collector Rights
-   - FAQ
-   - Sustainability
-   - Term of Service
-   - Terms of Artists and Collectors
-   - Privacy Policy
-   - Ethics
-
-## App
-The Feral File app public documents
+- **agreements** folder: the document that show as static page content on website and app
+- **docs** folder: the agreement templates which load dynamic data and generate contracts for each exhibition
+*can not change directory structure docs/curator-artist-agreement*
+- **learning** folder: white papers content on web. These articles have the special UI than the legal documents
