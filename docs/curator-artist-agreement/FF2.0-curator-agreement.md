@@ -7,7 +7,7 @@ Below Bitmark Inc. (“we” “us” “our” “Feral File”) provides you w
 ## Compensation
 For these responsibilities, we agree to pay you the following compensation:
 - **Fixed fee** of $2500 paid in ETH within 30 days of the exhibition’s opening.
-- {{ share .FirstSale }} of Feral File’s portion of net sales (amounts received less transaction fees) from the exhibition.
+- **{{ share .FirstSale }} share** of Feral File’s portion of net sales (amounts received less transaction fees) from the exhibition.
 - You will receive an **artwork(s)** as agreed with the artist and Feral File. Future sales or other dispositions of such editions are subject to the [Art Transfer Agreement](https://feralfile.com/legal/art-transfer-agreement) in effect at the time of the exhibition with the following fee structure:
   - Pay the artist {{ percent .ReSale.Artist }} of the selling price
   - Pay Feral File {{ percent .ReSale.Platform }} of the selling price
@@ -21,7 +21,7 @@ For these responsibilities, we agree to pay you the following compensation:
 ## Employment Representation
 If you are curating this exhibition as part of your employment, you represent to Feral File that:
 
-  - (a) You are receiving all artworks on behalf of your employer, and you agree to the Art Sale Agreement on your employer’s behalf, and have the authority to do so.
+  - (a) You are receiving all artworks on behalf of your employer, and you agree to the [Art Sale Agreement](https://feralfile.com/legal/art-sale-agreement) on your employer’s behalf, and have the authority to do so.
   - (b) You have your employer’s permission to receive all artworks on your own behalf, and you personally agree to the Art Sale Agreement.
 
 ## Payment and Termination
@@ -39,19 +39,13 @@ You understand and agree that this agreement contains all of Feral File’s obli
 - [The Curator’s Guide](https://docs.google.com/document/d/12xfm1tAaFsJE7Loj3npa7Sag_QjWpIjjdZnBjY80DEs/edit?usp=sharing)
 - [Art Transfer Agreement](https://feralfile.com/legal/art-transfer-agreement)
 
+---
+
 If you understand and accept the responsibilities explained above, please confirm acceptance of this project and the terms of this agreement by signing below.
 
 ## Understood and Agreed:
 (Click "Sign contract" button below) (If you have assigned your rights in your artwork to a company you control, you may confirm that you control that company and its acceptance of this project and the terms of this agreement by filling out the Employer field and clicking "Sign contract")
-<br>Curator Name: {{ .Signer.FullName }}
-{{ if .Signer.Metadata.Company }}
-<br>Employer: {{ .Signer.Metadata.Company }}{{ end }}
-{{ if .ExhibitionLegalSignature }}
-<br>Signature: {{ .ExhibitionLegalSignature.Signature }}
-<br>Date: {{ .ExhibitionLegalSignature.CreatedAt.Format "02 January 2006 - 15:04 UTC" }}
-{{ end }}
 
-Understood and Agreed:
 <br>Curator Name: {{ .Signer.FullName }}
 {{ if .Signer.Company }}
 <br>Employer (if any): {{ .Signer.Company }}{{ end }}
