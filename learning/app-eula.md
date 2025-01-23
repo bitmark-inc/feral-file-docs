@@ -1,7 +1,7 @@
 ---
 title: "Feral File App End User License Agreement"
 publishDate: "2024-09-20"
-description: "This End User License Agreement (this "Agreement") governs the terms and conditions of your use of the binary version of the software that accompanies this Agreement (the "Software") and is made between you ("you" or "your") and Bitmark Inc. (“Feral File” "we" "us" or "our")."
+description: "This End User License Agreement (this \"Agreement\") governs the terms and conditions of your use of the binary version of the software that accompanies this Agreement (the \"Software\") and is made between you (\"you\" or \"your\") and Bitmark Inc. (\"Feral File\" \"we\" \"us\" or \"our\")."
 ---
 
 # Feral File App End User License Agreement
