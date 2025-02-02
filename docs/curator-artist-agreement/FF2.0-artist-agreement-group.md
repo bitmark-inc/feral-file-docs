@@ -11,15 +11,20 @@ Below Bitmark Inc. (“we” “us” “our” “Feral File”) provides you w
 ## Summary of Your Responsibilities:
 
 1. **Complete the Catalogue Raisonné** through the Feral File Admin interface.
-Work with the curator to define the theme for your exhibition and the artworks to be exhibited.
     - Share career highlights - press mentions, awards, notable installations - and biographical information.
     - Update complete artwork minting history.
     - Grant Feral File rights to display and promote your past artworks through its website and apps.
   
-1. **Create your Artworks.**
-    - Work with the curator to define the theme for your exhibition and the artworks to be exhibited.
+1. **Create your artworks and provide exhibition sets if requested.**
+<br>Work with the curator to define one or more series & artworks to be exhibited.
     - This work must not be available anywhere else but can be related to existing work.
-    - Create a collection of thematically related artworks for the exhibition.
+    - Create at least one series (a collection of related artworks) for the exhibition.
+    - Each “item” in a series is a unique artwork.
+    - You may also create separate editioned artworks for the exhibition.
+    - We may require that each artist create an equal number of series for the exhibition, each with the same number of items.
+    - We may package series into “exhibition sets” for sale consisting of one artwork from each series from each artist.
+    - Exhibition sets may be available for the entire exhibition or for a limited time, after which the artworks may be sold separately.
+    - Artworks not in an exhibition set are sold separately.
 
 1. **Install your artwork(s)** through the Feral File Admin interface.
    
@@ -51,7 +56,7 @@ Feral File will suggest pricing for your artworks based on our experience in ope
 ### Secondary Sale
 * You receive {{ percent .ReSale.Artist }} of the purchase price minus transaction fees.
 
-### Artworks for You, Curator, and Feral File
+### Exhibition Set of Artworks for Artists, Curator, and Feral File
 At the conclusion of the NFT minting process, Feral File will automatically transfer artworks by mutual agreement free of charge.
 
 * Future sales or dispositions of such artworks are subject to the [Art Transfer Agreement](https://feralfile.com/legal/art-transfer-agreement) in effect at the time of the exhibition, under which you will pay Feral File {{ percent .ReSale.Platform }} of the selling price and retain {{ percent (add .ReSale.Seller .ReSale.Artist) }} minus transaction fees.
