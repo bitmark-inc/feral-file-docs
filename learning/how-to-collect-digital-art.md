@@ -1,12 +1,12 @@
 ---
 title: "How to Collect Digital Art"
 publishDate: "2024-11-07"
-description: "Feral File’s guide for institutions looking to begin using blockchain technologies to collect digital art in a secure, future-proof way."
+description: "A guide for institutions on collecting digital art with blockchain—ensuring secure, lasting, and accessible stewardship for the future."
 ---
 
 # Intro to Collecting Art on the Blockchain
 
-**Feral File’s guide for institutions looking to begin using blockchain technologies to collect digital art in a secure, future-proof way.**
+**A guide for institutions on collecting digital art with blockchain—ensuring secure, lasting, and accessible stewardship for the future.**
 
 *This guide is mainly intended for museums, but the basic principles are applicable to anyone looking to collect art on the blockchain. Have a question that’s not covered below? Email us at [support@feralfile.com](mailto:support@feralfile.com).*
 
