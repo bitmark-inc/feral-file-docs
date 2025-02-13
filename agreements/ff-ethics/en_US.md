@@ -1,6 +1,6 @@
 
-EMPLOYEE PARTICIPATION IN FERAL FILE SALES
+Employee Participation in Feral File Sales
 
-No set of guidelines can account for every scenario. From principles, Bitmark employees may not use their influence to guide exhibitions for their personal benefit.
+We are committed to fairness and transparency in all exhibition sales. Feral File employees may not use their position to influence exhibitions for personal gain.
 
-From July 2023, Bitmark employees are able to participate in exhibition sales alongside the public. Previously, employees were not able to participate in group auctions because they had access to non-public bidding information. However, with falling price auctions, there is no longer non-public bidding information.
+Feral File employees are allowed to participate in exhibition sales alongside the public. Previously, employees were restricted from group auctions due to access to non-public bidding information. However, with the adoption of smart contract-based auctions, all transactions are now conducted transparently on-chain, ensuring a level playing field for all participants.
