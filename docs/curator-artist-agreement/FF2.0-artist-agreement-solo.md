@@ -10,13 +10,12 @@ Below Bitmark Inc. (“we” “us” “our” “Feral File”) provides you w
 ## Summary of Your Responsibilities:
 
 1. **Complete the Catalogue Raisonné** through the Feral File Admin interface.
-Work with the curator to define the theme for your exhibition and the artworks to be exhibited.
     - Share career highlights - press mentions, awards, notable installations - and biographical information.
     - Update complete artwork minting history.
     - Grant Feral File rights to display and promote your past artworks through its website and apps.
   
 1. **Create your Artworks.**
-    - Work with the curator to define the theme for your exhibition and the artworks to be exhibited.
+<br>Work with the curator to define the theme for your exhibition and the artworks to be exhibited.
     - This work must not be available anywhere else but can be related to existing work.
     - Create a collection of thematically related artworks for the exhibition.
 
