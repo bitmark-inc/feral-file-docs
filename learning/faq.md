@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 description: "Learn in-depth how Feral File works."
-routePath: "/faq"
+routePath: "faq"
 ---
 
 # Frequently asked questions
