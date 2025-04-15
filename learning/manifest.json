@@ -1,0 +1,26 @@
+{
+  "artifacts": [
+    {
+      "name": "What is Feral File?",
+      "filePath": "about.md",
+      "routePath": "/about"
+    },
+    {
+      "name": "How to Collect",
+      "filePath": "how-to-collect-digital-art.md",
+      "routePath": "/how-to-collect-digital-art"
+    },
+    {
+      "name": "Research",
+      "filePath": "",
+      "routePath": "/research",
+      "description": "We experiment with new ways to experience digital art—exploring time-based works, community-driven projects, and blockchain as a creative tool."
+    },
+    {
+      "name": "FAQ",
+      "filePath": "",
+      "routePath": "/faq",
+      "description": "Learn in-depth how Feral File works"
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 ---
 title: "How to Collect Digital Art"
-publishDate: "2024-11-07"
 description: "A guide for institutions on collecting digital art with blockchain—ensuring secure, lasting, and accessible stewardship for the future."
 ---
 

@@ -1,3 +1,8 @@
+---
+title: "What is Feral File?"
+description: "Learn why talented artists and major institutions including MoMA and the Buffalo AKG Art Museum work with Feral File."
+---
+
 # Feral File is redefining how digital art is experienced.
 
 Through thoughtful curation, purpose-built technology, and a commitment to accessibility, Feral File creates a seamless bridge between artists and audiences—making digital art a personal, meaningful, and enduring part of everyday life.
