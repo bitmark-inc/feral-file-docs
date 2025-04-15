@@ -1,6 +1,7 @@
 ---
 title: "How to Collect Digital Art"
 description: "A guide for institutions on collecting digital art with blockchain—ensuring secure, lasting, and accessible stewardship for the future."
+routePath: "/how-to-collect-digital-art"
 ---
 
 # Intro to Collecting Art on the Blockchain

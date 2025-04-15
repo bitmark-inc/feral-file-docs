@@ -1,6 +1,7 @@
 ---
 title: "What is Feral File?"
 description: "Learn why talented artists and major institutions including MoMA and the Buffalo AKG Art Museum work with Feral File."
+routePath: "/about"
 ---
 
 # Feral File is redefining how digital art is experienced.
