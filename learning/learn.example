@@ -7,3 +7,4 @@ routePath: "/"
 Put the article content here
 
 ** Add the filename of this file to manifest.json to publish it to the website **
+** routePath should be same with filename **
