@@ -1,7 +1,8 @@
 ---
 title: "What is Feral File?"
+navTitle: "What is Feral File?"
 description: "Learn why talented artists and major institutions including MoMA and the Buffalo AKG Art Museum work with Feral File."
-markdownFileName: about.md
+weight: 1
 ---
 
 # Feral File is redefining how digital art is experienced.
