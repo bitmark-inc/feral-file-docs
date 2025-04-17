@@ -44,7 +44,7 @@ function parseFrontMatter(txt) {
   await writeFile(
     OUT_FILE,
     JSON.stringify(
-      { generated: new Date().toISOString(), articles },
+      { articles },
       null,
       2
     )

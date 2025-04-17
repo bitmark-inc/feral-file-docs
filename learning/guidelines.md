@@ -14,6 +14,7 @@ This document provides step-by-step instructions for adding new articles to the 
    description: "A brief description of your article"
    navTitle: "Short Title for Navigation"  # Optional - will use title if not specified
    weight: 1 # Optional - define the display order of your article under Learn section
+   draft: "true" # Optional, default is false, your article will auto publish if not provided
    ---
    ```
 3. Write your article content below the frontmatter
