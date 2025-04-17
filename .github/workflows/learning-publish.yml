@@ -19,8 +19,6 @@ jobs:
         with:
           node-version: 18
 
-      - run: npm ci
-
       - name: Generate Learn manifest
         run: |
           node learning/scripts/generate-manifest.js
