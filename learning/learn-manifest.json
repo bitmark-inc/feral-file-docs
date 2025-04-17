@@ -1,0 +1,33 @@
+{
+  "generated": "2025-04-17T08:09:30.970Z",
+  "articles": [
+    {
+      "slug": "about",
+      "navTitle": "What is Feral File?",
+      "title": "What is Feral File?",
+      "description": "Learn why talented artists and major institutions including MoMA and the Buffalo AKG Art Museum work with Feral File.",
+      "weight": 1
+    },
+    {
+      "slug": "how-to-collect-digital-art",
+      "navTitle": "How to Collect",
+      "title": "How to Collect Digital Art",
+      "description": "A guide for institutions on collecting digital art with blockchain—ensuring secure, lasting, and accessible stewardship for the future.",
+      "weight": 2
+    },
+    {
+      "slug": "research",
+      "navTitle": "Research",
+      "title": "Research",
+      "description": "We experiment with new ways to experience digital art—exploring time-based works, community-driven projects, and blockchain as a creative tool.",
+      "weight": 3
+    },
+    {
+      "slug": "faq",
+      "navTitle": "FAQ",
+      "title": "FAQ",
+      "description": "Learn in-depth how Feral File works.",
+      "weight": 4
+    }
+  ]
+}
