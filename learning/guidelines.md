@@ -17,18 +17,14 @@ This document provides step-by-step instructions for adding new articles to the 
    ---
    ```
 3. Write your article content below the frontmatter
-
-### 2. Update manifest.json
-1. Open `learning/manifest.json`
-2. Add or edit Markdown file - Make sure the correct frontmatter
-3. Commit directly to `main` branch (or open a PR).
+4. Commit directly to `main` branch (or open a PR).
 
 ## How It Works
 
 The system automatically:
 1. Detects changes to markdown files in the `learning/` directory
 2. Parses the frontmatter from each file
-3. Generates the `manifest.json` file with the correct structure
+3. Generates the `learn-manifest.json` file with the correct structure
 4. Updates the website with your new content
 
 ## Important Notes
@@ -48,7 +44,7 @@ The decision to automate manifest generation was made for several reasons:
 
 1. **Simplified Workflow**: 
    - Editors only need to focus on content creation
-   - No need to manually update manifest.json
+   - No need to manually update learn-manifest.json
    - Reduces the chance of errors in the manifest file
 
 2. **Consistency**:
