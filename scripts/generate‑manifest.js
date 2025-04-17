@@ -2,7 +2,7 @@ const { readdir, readFile, writeFile } = require('fs').promises;
 const path  = require('path');
 
 
-const LEARN_DIR = path.join(__dirname, '..');
+const LEARN_DIR = path.join(__dirname, '..', 'learning');
 const OUT_FILE = path.join(LEARN_DIR, 'learn-manifest.json');
 
 function parseFrontMatter(txt) {
