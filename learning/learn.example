@@ -1,10 +1,10 @@
 ---
 title: ""
 description: ""
-routePath: "/"
+markdownFileName: "example.md"
 ---
 
 Put the article content here
 
 ** Add the filename of this file to manifest.json to publish it to the website **
-** routePath should be same with filename **
+** The filename would be the route path of this article on website**

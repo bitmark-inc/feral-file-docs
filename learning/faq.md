@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 description: "Learn in-depth how Feral File works."
-routePath: "faq"
+markdownFileName: faq.md
 ---
 
 # Frequently asked questions
