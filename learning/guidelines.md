@@ -1,7 +1,7 @@
 # Guidelines for Adding New Learn Articles
 
 ## Overview
-This document provides step-by-step instructions for adding new articles to the Feral File Learn section. The Learn section is accessible at [feralfile.com/learn](http://feralfile.com/learn).
+This document provides step-by-step instructions for adding new articles to the Feral File Learn section. The Learn section is accessible at [feralfile.com/learn](http://feralfile.com/learning).
 
 ## Steps to Add a New Article
 
@@ -19,6 +19,9 @@ This document provides step-by-step instructions for adding new articles to the 
    ```
 3. Write your article content below the frontmatter
 4. Commit directly to `main` branch (or open a PR).
+
+### Example Article
+For styling and structure reference, see the [How to Collect Digital Art](https://feralfile2.dev.bitmark.com/learn/how-to-collect-digital-art) article.
 
 ## How It Works
 
@@ -66,3 +69,11 @@ The decision to automate manifest generation was made for several reasons:
 5. Include relevant images and links where appropriate
 6. Test all links before publishing
 7. Review the article for typos and formatting issues
+8. Use a consistent structure for all articles:
+   - Start with an introduction
+   - Use clear section headings
+   - End with a conclusion or next steps
+9. Include a table of contents for longer articles
+10. Use callouts to highlight important information
+11. Ensure images are high quality and properly sized
+12. Use consistent terminology throughout the article
