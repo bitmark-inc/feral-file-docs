@@ -1,7 +1,7 @@
 # Guidelines for Adding New Learn Articles
 
 ## Overview
-This document provides step-by-step instructions for adding new articles to the Feral File Learn section. The Learn section is accessible at [feralfile.com/learn](http://feralfile.com/learning).
+This document provides step-by-step instructions for adding new articles to the Feral File Learn section. The Learn section is accessible at [feralfile.com/learn](http://feralfile.com/learn).
 
 ## Steps to Add a New Article
 
@@ -14,14 +14,14 @@ This document provides step-by-step instructions for adding new articles to the 
    description: "A brief description of your article"
    navTitle: "Short Title for Navigation"  # Optional - will use title if not specified
    weight: 1 # Optional - define the display order of your article under Learn section
-   draft: "true" # Optional, default is false, your article will auto publish if not provided
+   draft: "true" # Optional - default is false, your article will auto publish if not provided
    ---
    ```
 3. Write your article content below the frontmatter
 4. Commit directly to `main` branch (or open a PR).
 
 ### Example Article
-For styling and structure reference, see the [How to Collect Digital Art](https://feralfile2.dev.bitmark.com/learn/how-to-collect-digital-art) article.
+For styling and structure reference, see the [How to Collect Digital Art](https://feralfile.com/learn/how-to-collect-digital-art) article.
 
 ## How It Works
 
