@@ -41,8 +41,8 @@ This is a legacy folder created earlier in the repository’s lifecycle, and it 
 The templates are structured within `docs/curator-artist-agreement/`, which generate contracts for each exhibition.
 
 ### **5. learning/**
-Content for **white papers** and educational materials. Each Markdown file in this directory corresponds to an article in the **Learn section** of the Feral File website.
-Developers must be informed when adding new files so the article can be load with SEO metadata in the website.
+Content for **white papers** and educational materials. Each Markdown file in this directory corresponds to an article in the [**Learn section**](http://feralfile.com/learn) of the Feral File website.
+- Checking how to add a new white paper [here](https://github.com/bitmark-inc/feral-file-docs/blob/main/learning/guidelines.md)
 
 ## Maintenance Notes
 - **agreements/**: Updates to policies or agreements should be reviewed before deployment.
