@@ -4,7 +4,7 @@
       "slug": "about",
       "navTitle": "What is Feral File?",
       "title": "What is Feral File?",
-      "description": "Learn why talented artists and major institutions including MoMA and the Buffalo AKG Art Museum work with Feral File.",
+      "description": "See how artists, curators, and institutions—including MoMA and the Buffalo AKG—collaborate with Feral File to exhibit and collect digital art.",
       "weight": 1
     },
     {
@@ -27,6 +27,13 @@
       "title": "FAQ",
       "description": "Learn in-depth how Feral File works.",
       "weight": 4
+    },
+    {
+      "slug": "collector-services",
+      "navTitle": "Collector Services",
+      "title": "Collector Services",
+      "description": "From acquisitions to display, we help collectors care for and engage with digital art—confidentially and with attention to detail.",
+      "weight": 5
     }
   ]
 }
