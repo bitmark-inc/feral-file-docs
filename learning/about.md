@@ -1,17 +1,17 @@
 ---
 title: "What is Feral File?"
 navTitle: "What is Feral File?"
-description: "See how artists, curators, and institutions—including MoMA and the Buffalo AKG—collaborate with Feral File to exhibit and collect digital art."
+description: "Feral File presents curated exhibitions and builds tools that make collecting and displaying digital art part of everyday life."
 weight: 1
 ---
 
-# Feral File is redefining how digital art is experienced.
+# Feral File makes digital art part of everyday life.
 
-We work closely with artists, curators, and institutions to present curated exhibitions of code-based, interactive, and time-based work. Every show is thoughtfully assembled, and every tool we build is designed to support how digital art actually behaves—dynamic, distributed, often collaborative. We help collectors engage with it in ways that are meaningful, sustainable, and grounded in care.
+We work with artists, curators, and institutions to present curated exhibitions of code-based, interactive, and time-based work. Every show is thoughtfully assembled, and every tool we build is designed to support how digital art actually behaves—dynamic, distributed, often collaborative. We help collectors engage with it in ways that are meaningful, sustainable, and grounded in care.
 
-Founded in 2020 by artist [Casey Reas](https://reas.com/) and technologist [Sean Moss-Pultz](https://einstein-rosen.com), Feral File began as a continuation of their earlier project, a2p (2019)—an artist-to-artist experiment in exchange and provenance. From there, it grew into a broader space for artists, collectors, institutions, and the public to come together around digital art.
+Founded in 2020 by artist [Casey Reas](https://reas.com/) and technologist [Sean Moss-Pultz](https://einstein-rosen.com), Feral File began as an extension of their earlier project, a2p (2019)—an artist-to-artist experiment in exchange and provenance. From there, it grew into a space where artists, collectors, institutions, and the public could come together around digital art.
 
-Since then, we’ve collaborated with leading institutions and supported artists working across generative systems, emerging formats, and new modes of sharing work. Our aim is to make digital art part of daily life—collected, cared for, and lived with.
+Since then, we’ve collaborated with leading institutions and supported artists working across generative systems, emerging formats, and new ways of sharing work. Our goal is to make digital art something you can collect, care for, and live with—every day.
 
 
 ## Highlights from Feral File’s history
@@ -27,7 +27,7 @@ Since then, we’ve collaborated with leading institutions and supported artists
 ### 2023
 
 * In March, *[Chain Reaction](https://feralfile.com/exhibitions/chain-reaction-tan)*, curated by Christiane Paul (Whitney Museum of American Art), examined digital art’s evolving relationship with blockchain. That same month, *[Lee Mullican.PCX](https://feralfile.com/exhibitions/leemullican-pcx-ff8)*, Feral File’s first collaboration with an artist’s estate, reintroduced Mullican’s 1980s computer-generated work to new audiences.
-* In May, Refik Anadol launched *[Data Universe Burn](https://feralfile.com/research-and-development/data-universe-burn)*—a blockchain-based thank-you to collectors following the success of *[Unsupervised](https://feralfile.com/explore/exhibitions/unsupervised-sla)*.
+* In May, Refik Anadol launched *[Data Universe Burn](https://feralfile.com/research-and-development/data-universe-burn)* — a blockchain-based thank-you to collectors following the success of *[Unsupervised](https://feralfile.com/explore/exhibitions/unsupervised-sla)*.
 * In June, Feral File marked its second anniversary with two exhibitions: *[The Experiment](https://retrospective.feralfile.com/the-experiment-6jy)*, reflecting on the origins of *a2p*, and *[FF1.0](https://retrospective.feralfile.com/ff1)*, which revisited one work from each of our first 33 exhibitions.
 * In September, *[SOURCE](https://feralfile.com/exhibitions/source)* became Feral File’s first non-commercial exhibition.
 * In October, MoMA launched the [Postcard Project](https://www.moma.org/calendar/exhibitions/5618): an experiment in collective creativity on the blockchain, inviting public collaboration and participation.
