@@ -1,7 +1,7 @@
 ---
 title: "Research"
 navTitle: "Research"
-description: "We experiment with new ways to experience digital art—exploring time-based works, community-driven projects, and blockchain as a creative tool."
+description: "Through research, Feral File collaborates with artists and institutions to prototype new ways of making, sharing, and experiencing digital art."
 weight: 3
 ---
 
