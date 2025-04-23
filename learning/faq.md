@@ -2,7 +2,7 @@
 title: "FAQ"
 navTitle: "FAQ"
 description: "Learn in-depth how Feral File works."
-weight: 4
+weight: 5
 ---
 
 # Frequently asked questions

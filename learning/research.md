@@ -2,7 +2,7 @@
 title: "Research"
 navTitle: "Research"
 description: "We experiment with new ways to experience digital art—exploring time-based works, community-driven projects, and blockchain as a creative tool."
-weight: 3
+weight: 4
 ---
 
 # Research
