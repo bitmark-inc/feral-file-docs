@@ -8,31 +8,31 @@
       "weight": 1
     },
     {
-      "slug": "collector-services",
-      "navTitle": "Collector Services",
-      "title": "Collector Services",
-      "description": "From acquisitions to display, we help collectors care for and engage with digital art—confidentially and with attention to detail.",
-      "weight": 2
-    },
-    {
       "slug": "how-to-collect-digital-art",
       "navTitle": "How to Collect",
       "title": "How to Collect Digital Art",
       "description": "A guide for institutions on collecting digital art with blockchain—ensuring secure, lasting, and accessible stewardship for the future.",
-      "weight": 3
+      "weight": 2
     },
     {
       "slug": "research",
       "navTitle": "Research",
       "title": "Research",
       "description": "We experiment with new ways to experience digital art—exploring time-based works, community-driven projects, and blockchain as a creative tool.",
-      "weight": 4
+      "weight": 3
     },
     {
       "slug": "faq",
       "navTitle": "FAQ",
       "title": "FAQ",
       "description": "Learn in-depth how Feral File works.",
+      "weight": 4
+    },
+    {
+      "slug": "collector-services",
+      "navTitle": "Collector Services",
+      "title": "Collector Services",
+      "description": "From acquisitions to display, we help collectors care for and engage with digital art—confidentially and with attention to detail.",
       "weight": 5
     }
   ]
