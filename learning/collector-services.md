@@ -2,7 +2,7 @@
 title: "Collector Services"
 navTitle: "Collector Services"
 description: "From acquisitions to display, we help collectors care for and engage with digital art—confidentially and with attention to detail."
-weight: 2
+weight: 5
 ---
 
 # Collector Services
