@@ -2,14 +2,13 @@
 
 *Last Updated: 20-MAY 2025*
 
-**{{ .Signer.FullName }}:**
+**Artist Name:** {{ .Signer.FullName }}
 
 **Planned Launch Date:** {{ .OpeningAt.Format "02 January 2006 - 15:04 UTC" }}
 
 You are invited to a group exhibition to be opened on Feral File, tentatively scheduled for the date above.
 
-
-Below Bitmark Inc. (“we” “us” “our” “Feral File”) provides you with the terms of our agreement for your work to be exhibited and sold on Feral File.
+Below Feral File Inc. (“we” “us” “our” “Feral File”) provides you with the terms of our agreement for your work to be exhibited and sold on Feral File.
 
 ## Summary of Your Responsibilities:
 
@@ -52,13 +51,14 @@ Specific due dates for all tasks are shared within the Feral File Admin interfac
 ### Pricing
 
 Feral File will suggest pricing for your artworks based on our experience in operating exhibitions .
-- You may accept the suggested pricing or discuss with Feral File to work toward mutually agreeable pricing.
-- If an agreement cannot be reached, either you or Feral File may terminate this agreement and cancel the exhibition.
+
+- You may accept the suggested pricing or discuss with Feral File to work toward mutually agreeable pricing.  
+- If an agreement on pricing cannot be reached, Feral File may remove your artworks from the exhibition.
 
 ### Primary Sale
-* Feral File recoups any applicable transaction fees.
-* After recouping fees, you receive {{ percent .FirstSale.Artist }} of the purchase price paid to the payment processor.
-* Feral File will credit the amounts due under this paragraph against the advance until recouped, after which you will be paid per the terms.
+
+- Feral File recoups any applicable transaction fees (typically around 3%, depending on the payment method).  
+- After these fees, the remaining proceeds are split — {{ percent .FirstSale.Artist }} to you and {{ percent .FirstSale.Platform }} to Feral File.
 
 ### Secondary Sale
 
