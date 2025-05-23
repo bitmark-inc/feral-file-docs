@@ -54,7 +54,7 @@ By signing below, you confirm that you:
 ---
 
 
-**Company Name (if applicable):** 
+**Company Name (if applicable):** {{ if .Signer.Metadata.Company }} {{ .Signer.Metadata.Company }} {{ end }}
 
 **Curator Name (printed):** {{ .Signer.FullName }}
 

@@ -75,7 +75,7 @@ If your artwork rights are assigned to a company you control, you may indicate t
 
 ---
 
-**Company Name (if applicable):** 
+**Company Name (if applicable):** {{ if .Signer.Metadata.Company }} {{ .Signer.Metadata.Company }} {{ end }}
 
 **Artist Name (printed):** {{ .Signer.FullName }}
 
