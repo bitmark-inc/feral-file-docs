@@ -1,6 +1,6 @@
 {
     "productionIOS": {
-        "requiredVersion": "0.54.2",
+        "requiredVersion": "0.59.60",
         "link": "https://apps.apple.com/us/app/autonomy-app/id1544022728"
     },
     "devIOS": {
