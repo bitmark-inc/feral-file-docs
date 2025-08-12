@@ -1,14 +1,14 @@
 {
   "release": {
     "0.0.4": {
-      "min_android_version": "0.59.16(5244)",
+      "min_android_version": "0.59.16(524)",
       "min_ios_version": "0.59.16(1)",
-      "max_android_version": "0.59.16(5244)",
+      "max_android_version": "0.59.16(524)",
       "max_ios_version": "0.59.16(1)"
     },
     "0.3.0": {
-      "min_android_version": "0.59.17(557)",
-      "min_ios_version": "0.59.17(16)"
+      "min_android_version": "0.62.0(561)",
+      "min_ios_version": "0.62.0(1)"
     }
   },
   "demo": {
