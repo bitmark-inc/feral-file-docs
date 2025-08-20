@@ -9,6 +9,10 @@
     "0.3.0": {
       "min_android_version": "0.62.0(561)",
       "min_ios_version": "0.62.0(1)"
+    },
+    "0.4.0": {
+      "min_android_version": "0.62.0(561)",
+      "min_ios_version": "0.62.0(1)"
     }
   },
   "demo": {
