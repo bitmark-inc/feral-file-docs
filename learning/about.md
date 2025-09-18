@@ -13,7 +13,7 @@ Feral File is a cultural institution and technology company championing *computa
 
 Founded in 2020 by artist [Casey Reas](https://reas.com/) and technologist [Sean Moss‑Pultz](https://einstein-rosen.com), Feral File grew out of [a2p](https://a2p.bitmark.com/v1/artworks) (2019), an artist‑to‑artist experiment in exchange and provenance at Sean’s previous company. It is now an independent company. What began as a peer‑to‑peer prototype has become an institution for the practice, presentation, and preservation of computational art.
 
-At its core, Feral File reimagines the artist–collector relationship for the digital age. Building on the 1971 [*Artist’s Contract*](https://en.wikipedia.org/wiki/The_Artist's_Reserved_Rights_Transfer_and_Sale_Agreement), a contract that shifted power toward artists by reserving rights after sale, we adapt its spirit today. Rights, royalties, and responsibilities are encoded on the blockchain for transparency, building trust and fair support for artists. This turns collectors into active stewards and opens art to broader collaboration.
+At its core, Feral File reimagines the artist–collector relationship for the digital age. Building on the 1971 [*Artist’s Contract*](https://en.wikipedia.org/wiki/The_Artist's_Reserved_Rights_Transfer_and_Sale_Agreement), which shifted power toward artists by reserving rights after sale, we adapt its spirit today. Rights, royalties, and responsibilities are encoded on the blockchain for transparency, building trust and fair support for artists. This turns collectors into active stewards and opens art to broader collaboration.
 
 ### FF1 art computer.
 
