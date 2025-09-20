@@ -17,7 +17,7 @@ At its core, Feral File reimagines the artist–collector relationship for the d
 
 ### FF1 art computer.
 
-The FF1 art computer plays computational art on any screen from playlists that anyone can publish. Powered by FF OS and the DP‑1 protocol, FF1 makes it simple to curate, automate, and share computational art.
+The [FF1 art computer](https://feralfile.com/display) plays computational art on any screen from playlists that anyone can publish. Powered by FF OS and the DP‑1 protocol, FF1 makes it simple to curate, automate, and share computational art.
 
 
 ## Highlights from Feral File’s history
@@ -25,7 +25,7 @@ The FF1 art computer plays computational art on any screen from playlists that a
 ### 2025
 
 * In July, [*Console Spirituality*](https://feralfile.com/explore/exhibitions/console-spirituality-m6j), curated by LAN Party (Vienna Kim & Benoît Palop) with Rhizome as program partner, explored gaming as ritual, world-building, and a way to glitch existing systems.  
-* In September, we announced the FF1 art computer, built on FF OS and the DP-1 protocol. FF1 enables anyone (human or AI) to publish playlists and play computational art across screens.
+* In September, we announced the [FF1 art computer](https://feralfile.com/display), built on FF OS and the DP-1 protocol. FF1 enables anyone (human or AI) to publish playlists and play computational art across screens.
 
 ### 2024
 
