@@ -1,23 +1,24 @@
 ---
-title: "What is Feral File?"
+title: "About Feral File: Cultural Institution for Digital Art"
 navTitle: "What is Feral File?"
 description: "Feral File champions computational art for a global audience. As a technology company and cultural institution, we curate exhibitions, build tools like the FF1 art computer, and foster meaningful engagement with digital art."
 weight: 1
 ---
 
-# Championing computational art for a global audience.
+# Computational art for a global audience.
 
-**We make digital art part of everyday life.**
+**We champion digital art, and make it part of everyday life.**
 
-Feral File is a cultural institution and technology company championing *computational art*—i.e. art that responds and evolves through code, models, and data. We collaborate with artists, curators, and institutions to produce exhibitions and build open tools to make living with this art effortless. We help people and organizations engage with computational art in meaningful, sustainable ways rooted in care.
+Feral File is a cultural institution and technology company championing *computational art*—i.e. art that responds and evolves through code, models, and data. We collaborate with artists, curators, and institutions to produce exhibitions and build open tools to make living with this art effortless. 
 
-Founded in 2020 by artist [Casey Reas](https://reas.com/) and technologist [Sean Moss‑Pultz](https://einstein-rosen.com), Feral File grew out of [a2p](https://a2p.bitmark.com/v1/artworks) (2019), an artist‑to‑artist experiment in exchange and provenance at Sean’s previous company. It is now an independent company. What began as a peer‑to‑peer prototype has become an institution for the practice, presentation, and preservation of computational art.
+Founded in 2020 by artist [Casey Reas](https://reas.com/) and technologist [Sean Moss‑Pultz](https://einstein-rosen.com), Feral File grew out of [a2p](https://a2p.bitmark.com/v1/artworks) (2019), an artist‑to‑artist experiment in exchange and provenance. It has since evolved into an independent company and institution dedicated to the practice, presentation, and preservation of computational art.
 
-At its core, Feral File reimagines the artist–collector relationship for the digital age. Building on the 1971 [*Artist’s Contract*](https://en.wikipedia.org/wiki/The_Artist's_Reserved_Rights_Transfer_and_Sale_Agreement), which shifted power toward artists by reserving rights after sale, we adapt its spirit today. Rights, royalties, and responsibilities are encoded on the blockchain for transparency, building trust and fair support for artists. This turns collectors into active stewards and opens art to broader collaboration.
+At its core, Feral File reimagines the artist–collector relationship for the digital age. Building on the 1971 [*Artist’s Contract*](https://en.wikipedia.org/wiki/The_Artist's_Reserved_Rights_Transfer_and_Sale_Agreement), which shifted power toward artists by reserving their rights after sale, we have adapted its spirit to today. Rights, royalties, and responsibilities are encoded on the blockchain for transparency, building trust and fair support for artists. Beyond protecting artists, this also turns collectors into active stewards, and opens art to broader collaboration.
 
 ### FF1 art computer.
 
-The [FF1 art computer](https://feralfile.com/display) plays computational art on any screen from playlists that anyone can publish. Powered by FF OS and the DP‑1 protocol, FF1 makes it simple to curate, automate, and share computational art.
+The [FF1 art computer](https://feralfile.com/display) plays computational art on any screen from playlists that anyone can publish. Powered by the open [DP-1](https://github.com/display-protocol/dp1) protocol (like RSS for art), it finally makes it simple to curate, automate, and share computational art.
+
 
 
 ## Highlights from Feral File’s history
