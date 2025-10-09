@@ -171,7 +171,7 @@
     "channel_ids": [
       "dae709d7-26da-4b4c-b881-39cd681cc82f"
     ],
-    "channel_url": [
+    "channel_urls": [
       "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/dae709d7-26da-4b4c-b881-39cd681cc82f",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/cb3455c2-7122-4414-a9f5-7ccbe434de21",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/5b467722-202d-44d2-af77-4c438c7f2258",
