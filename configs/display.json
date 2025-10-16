@@ -1,10 +1,4 @@
 {
-  "tizen": {
-    "url": "https://display.feralfile.com/?platform=tizen"
-  },
-  "google": {
-    "url": "https://display.feralfile.com/?platform=google"
-  },
   "duration": 3600000,
-  "new_daily_hour": 2
+  "defaultPlaylistURL": "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/playlists/0f7a3583-6c45-4e77-a2de-a39efe4fa731"
 }
