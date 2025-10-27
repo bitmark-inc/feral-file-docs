@@ -172,7 +172,7 @@
       "dae709d7-26da-4b4c-b881-39cd681cc82f"
     ],
     "channel_urls": [
-      "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/dae709d7-26da-4b4c-b881-39cd681cc82f",
+      "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/dae709d7-26da-4b4c-b881-39cd681cc82f"
     ],
     "feed_cache_duration": "604800",
     "feed_last_updated": "2025-10-28T00:00:00.0Z"
