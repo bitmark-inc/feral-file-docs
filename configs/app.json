@@ -176,7 +176,7 @@
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/822a4b1a-05c5-4770-bda4-fd69269c4a48",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/b35f4ad1-a0d8-4085-a465-af75e4c3ab97"
     ],
-    "feed_cache_duration": "604800",
+    "feed_cache_duration": "86400",
     "feed_last_updated": "2025-10-28T00:00:00.0Z"
   }
 }
