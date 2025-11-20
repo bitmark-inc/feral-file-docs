@@ -208,11 +208,13 @@
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/9d40db31-9004-491f-a615-517586d4845e",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/49044d42-2722-45fb-a20d-e5a7ed6ff77c",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/b3acd8da-b1f9-4edc-b9b8-f2e94ab440fe",
+      "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/4089763c-a14a-4046-ba41-ccafa56ab3a6",
+      "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/3ec3bb50-892f-4c69-a3b2-81f866fbec30",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/32fc319f-ff14-4a94-8ecb-c176ba5e4ed8",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/b1796a70-1055-410e-881d-933228f5d5c3",
       "https://dp1-feed-operator-api-dev.objkt-com.workers.dev/api/v1/channels/ef5d215d-fc01-4563-ad13-414d451e67f3"
     ],
     "feed_cache_duration": "604800",
-    "feed_last_updated": "2025-11-19T09:00:00.0Z"
+    "feed_last_updated": "2025-11-20T08:30:00.0Z"
   }
 }
