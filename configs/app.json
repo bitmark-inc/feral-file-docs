@@ -216,10 +216,10 @@
     "feed_last_updated": "2025-11-21T17:00:00.0Z"
   },
   "sunset": {
-    "title": "This version of the Feral File app is now sunset.",
-    "description": "A new Feral File app is available with improved features and support. Please download the new app to continue.",
-    "download_button_text": "Download the New Feral File App",
-    "support_email": "support@feralfile.com",
+    "title": "This version of the Feral File app is now sunset. test",
+    "description": "A new Feral File app is available with improved features and support. Please download the new app to continue. test",
+    "download_button_text": "Download the New Feral File App test",
+    "support_email": "support@feralfile.com test",
     "ios_app_download_url": "https://apps.apple.com/us/app/feral-file/id1544022728",
     "android_app_download_url": "https://play.google.com/store/apps/details?id=com.bitmark.autonomy_client&pli="
   }
