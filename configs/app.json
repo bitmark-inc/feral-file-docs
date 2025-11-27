@@ -218,7 +218,7 @@
   "sunset": {
     "title": "This version of the Feral File app is being retired in December 2025.",
     "description": "We've rebuilt the app under our new company to focus on FF1 and daily digital art, so some settings (like saved addresses) need to be set up again. Your artworks and NFTs remain in your own wallets.\n\nTo keep using Feral File and control FF1, please install our new app, Feral File (“Digital art & FF1 controller”).\n\nGet Feral File in the App Store\n\nIf you need help, email support@feralfile.com.",
-    "download_button_text": "",
+    "download_button_text": "Get Feral File in the App Store",
     "support_email": "support@feralfile.com",
     "ios_app_download_url": "https://apps.apple.com/us/app/feral-file/id1544022728",
     "android_app_download_url": "https://play.google.com/store/apps/details?id=com.bitmark.autonomy_client&pli="
