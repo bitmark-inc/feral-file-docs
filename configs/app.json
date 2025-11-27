@@ -216,7 +216,7 @@
     "feed_last_updated": "2025-11-21T17:00:00.0Z"
   },
   "sunset": {
-    "title": "Feral File Legacy App: End of Support.",
+    "title": "This version of the Feral File app is being retired in December 2025.",
     "description": "This version of the Feral File app is being retired in December 2025.\n\nWe've rebuilt the app under our new company to focus on FF1 and daily digital art, so some settings (like saved addresses) need to be set up again. Your artworks and NFTs remain in your own wallets.\n\nTo use Feral File with FF1 and future exhibitions, please install our new app, Feral File, from this app store (subtitle: \"Digital art & FF1 controller\"). After you sign in there, you can re-add any wallet or account addresses you'd like us to index.\n\nIf you need help, email support@feralfile.com.",
     "download_button_text": "",
     "support_email": "support@feralfile.com",
