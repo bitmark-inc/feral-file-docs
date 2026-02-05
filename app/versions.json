@@ -1,6 +1,6 @@
 {
     "productionIOS": {
-        "requiredVersion": "1.0.7",
+        "requiredVersion": "1.0.9",
         "link": "https://apps.apple.com/us/app/feral-file-controller/id6755812386"
     },
     "devIOS": {
@@ -8,7 +8,7 @@
         "link": "https://apps.apple.com/us/app/feral-file-controller/id6755812386"
     },
     "productionAndroid": {
-        "requiredVersion": "1.0.7",
+        "requiredVersion": "1.0.9",
         "link": "https://play.google.com/store/apps/details?id=com.feralfile.app"
     },
     "devAndroid": {
