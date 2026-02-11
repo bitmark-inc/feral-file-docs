@@ -1,0 +1,73 @@
+{
+  "dp1_playlist": {
+    "publishers": [
+      {
+        "name": "Feral File",
+        "channel_urls": [
+          "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/0fdd0465-217c-4734-9bfd-2d807b414482"
+        ],
+        "feed_cache_duration": "604800",
+        "feed_last_updated": "2026-02-02T03:00:00.0Z"
+      },
+      {
+        "name": "Objkt",
+        "channel_urls": [
+          "https://dp1-feed.objkt.com/api/v1/channels/828a7640-bcec-4c9b-af3a-a75d27b3025d",
+          "https://dp1-feed.objkt.com/api/v1/channels/5b441000-6b5d-42ef-a372-ef18ee572fdc",
+          "https://dp1-feed.objkt.com/api/v1/channels/9f2d4b48-0195-4b9b-aa6e-e81c837292b1",
+          "https://dp1-feed.objkt.com/api/v1/channels/792d9b19-032e-4289-a188-3c70e7945487",
+          "https://dp1-feed.objkt.com/api/v1/channels/2e273c71-a3e4-4d7b-b7eb-27e739d7c110",
+          "https://dp1-feed.objkt.com/api/v1/channels/003f16a3-983a-4590-a489-d60cd3a6ea86",
+          "https://dp1-feed.objkt.com/api/v1/channels/355a0a0f-8886-4485-aa7d-a3f2e9c42420",
+          "https://dp1-feed.objkt.com/api/v1/channels/da3120e0-3deb-405a-8afe-face377b8917",
+          "https://dp1-feed.objkt.com/api/v1/channels/e3275220-1778-45f5-8271-84924a5a3a60",
+          "https://dp1-feed.objkt.com/api/v1/channels/f28ad4dc-f801-4f13-b2f0-96c99642dfc5",
+          "https://dp1-feed.objkt.com/api/v1/channels/3f3263bb-cb02-4a5c-9663-1c7443371c29",
+          "https://dp1-feed.objkt.com/api/v1/channels/0421ba9b-e16d-4656-b204-b87ad1ad86bd",
+          "https://dp1-feed.objkt.com/api/v1/channels/792a8985-bd07-4969-953a-9204a1252de8",
+          "https://dp1-feed.objkt.com/api/v1/channels/d566d200-8e65-43ed-a150-6a45ffbf8fe0",
+          "https://dp1-feed.objkt.com/api/v1/channels/65ffaf49-e8e7-4314-9d33-226aa4509eab",
+          "https://dp1-feed.objkt.com/api/v1/channels/949501ac-e780-4a83-97f4-22efd176e8e5",
+          "https://dp1-feed.objkt.com/api/v1/channels/ddf33426-c138-4410-9ea5-1d194abab009",
+          "https://dp1-feed.objkt.com/api/v1/channels/8de6f085-fb7f-4012-a591-02004db69a2b",
+          "https://dp1-feed.objkt.com/api/v1/channels/e43889d4-f6d2-4221-94ca-24d00027b700",
+          "https://dp1-feed.objkt.com/api/v1/channels/a1d89c31-09d3-474f-bc14-e0aeb5875736",
+          "https://dp1-feed.objkt.com/api/v1/channels/56a1f7c2-2a1c-4f2b-ae56-1da7563865ba",
+          "https://dp1-feed.objkt.com/api/v1/channels/4ad5b2c1-a2a3-421c-b5e2-18738d133c40",
+          "https://dp1-feed.objkt.com/api/v1/channels/09750660-8e9f-4ca5-a036-a03fe5f81b8e",
+          "https://dp1-feed.objkt.com/api/v1/channels/9540756f-a6a9-4558-b6e6-e7f8a6f0a7c1",
+          "https://dp1-feed.objkt.com/api/v1/channels/5637e135-c866-46e6-a8dc-a07dbc1e995a",
+          "https://dp1-feed.objkt.com/api/v1/channels/1649a967-1872-4c4e-b082-d465ff2ed269",
+          "https://dp1-feed.objkt.com/api/v1/channels/f7db3f73-4839-4346-a6c0-a3714386d734",
+          "https://dp1-feed.objkt.com/api/v1/channels/e2a4969a-b4f0-4dbb-96fd-54845b90ef0f",
+          "https://dp1-feed.objkt.com/api/v1/channels/7f73ba53-06fd-457d-b698-04f2edd531d8",
+          "https://dp1-feed.objkt.com/api/v1/channels/52c5ab61-1c7d-44df-9ae6-94df88d47e99",
+          "https://dp1-feed.objkt.com/api/v1/channels/17206a66-27dc-4963-8c27-c22ffdd2b153",
+          "https://dp1-feed.objkt.com/api/v1/channels/edf2f189-6afa-49b8-b3db-e372f1425aa4",
+          "https://dp1-feed.objkt.com/api/v1/channels/f00da12c-605b-4dae-aa01-73e37020bbf4",
+          "https://dp1-feed.objkt.com/api/v1/channels/59e8ed48-2a94-41c3-84c0-36ec95946a0d",
+          "https://dp1-feed.objkt.com/api/v1/channels/e2f46e72-e404-4f80-ac16-a917c4c11676",
+          "https://dp1-feed.objkt.com/api/v1/channels/d3d0b003-df9e-4b55-81f2-280a3f206565",
+          "https://dp1-feed.objkt.com/api/v1/channels/5985fcfe-85c0-48a2-80a0-ea4c0aba55a3",
+          "https://dp1-feed.objkt.com/api/v1/channels/f223aeac-3e64-416e-b40a-8ffff2e7fb31",
+          "https://dp1-feed.objkt.com/api/v1/channels/c86114a3-41a9-4664-bd75-cb224b4123ae",
+          "https://dp1-feed.objkt.com/api/v1/channels/cf9e01b2-52a5-43bf-b4df-547d1a9b8ce2",
+          "https://dp1-feed.objkt.com/api/v1/channels/a85bb387-a4d1-426b-8daa-ef4aef3daf3a",
+          "https://dp1-feed.objkt.com/api/v1/channels/2ae5e0c0-b8f3-4daa-8779-e08d0c072166",
+          "https://dp1-feed.objkt.com/api/v1/channels/601f78a1-7a8f-48bc-96fb-cf1eae22ff57",
+          "https://dp1-feed.objkt.com/api/v1/channels/7732279f-0ee7-4648-93b3-d39ec7493aae",
+          "https://dp1-feed.objkt.com/api/v1/channels/1ad9196a-adb1-443d-a8a7-5d44fb22afb1",
+          "https://dp1-feed.objkt.com/api/v1/channels/d54bcc24-8d06-4c8b-9cf0-e54639f44f6d",
+          "https://dp1-feed.objkt.com/api/v1/channels/b2ca2644-2ec8-4b8c-bc8f-fbd21c5242c1",
+          "https://dp1-feed.objkt.com/api/v1/channels/6612e1f9-c3df-4f91-a7c2-14d5b1042997",
+          "https://dp1-feed.objkt.com/api/v1/channels/84e64a34-943b-49ab-a815-d43577d8a6cc",
+          "https://dp1-feed.objkt.com/api/v1/channels/e85e237a-72f1-4026-a88b-25760cedd662",
+          "https://dp1-feed.objkt.com/api/v1/channels/7ca37d86-715b-407d-afb2-306859e29837",
+          "https://dp1-feed.objkt.com/api/v1/channels/6c80a5f3-b74e-4894-8c7c-230947eac33b"
+        ],
+        "feed_cache_duration": "604800",
+        "feed_last_updated": "2026-02-02T03:00:00.0Z"
+      }
+    ]
+  }
+}
