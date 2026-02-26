@@ -11,7 +11,6 @@
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/9d47f08b-4982-4525-b58a-5f8e5a2a8b97",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/c03a416c-4f79-4b05-bd3d-b4b872e8c412",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/f10142b4-e487-4884-aa44-368b878c1939",
-          "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/56c3d7a2-4077-46db-99d9-7e2f586b8f92",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/f20a55ef-c32a-4dce-b3c3-a7c4aa1acfda",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/36530f32-7205-4e9f-b19c-dab01e22e1b8",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/0820b803-aba2-4ba2-917e-509235123f50",
@@ -30,7 +29,6 @@
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/0efa16f5-3feb-41d3-b1a2-678b9e67dd24",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/a1ab8655-39e5-4195-841a-2e3562da9650",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/55de5ad8-0e3d-452f-9346-3cb57f983656",
-          "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/94dbd3a9-1b18-4f98-b25f-e078ae9a37ba",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/068cef73-7310-42b7-bfee-1b4c55d9b9bf",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/de514e04-a603-4a30-b2ac-a4472e8e9d20",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/644568bb-9ce9-4110-a37b-3dd3843ecfb0",
@@ -53,7 +51,7 @@
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/eba3e573-a690-4c22-8c7e-91b52d2d36e2"
         ],
         "feed_cache_duration": "604800",
-        "feed_last_updated": "2026-02-02T03:00:00.0Z"
+        "feed_last_updated": "2026-02-26T07:45:00.0Z"
       },
       {
         "name": "Objkt",
@@ -112,7 +110,7 @@
           "https://dp1-feed.objkt.com/api/v1/channels/6c80a5f3-b74e-4894-8c7c-230947eac33b"
         ],
         "feed_cache_duration": "604800",
-        "feed_last_updated": "2026-02-26T07:37:00.0Z"
+        "feed_last_updated": "2026-02-02T03:00:00.0Z"
       }
     ]
   }
