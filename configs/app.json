@@ -234,5 +234,10 @@
     "support_email": "support@feralfile.com",
     "ios_app_download_url": "https://apps.apple.com/app/id6755812386",
     "android_app_download_url": "https://play.google.com/store/apps/details?id=com.feralfile.app"
+  },
+  "ff1_config": {
+    "ff1_learn_more_url": "https://feralfile.com/install",
+    "ff1_os_update_remind_after_seconds": null,
+    "ff1_price": 1000
   }
 }
