@@ -5,7 +5,7 @@
 **\[ARTIST NAME\]**  
 Curator **\[NAME\]** has invited you to a solo exhibition to be opened on Feral File in **\[MONTH/YEAR\]**.
 
-Below Bitmark Inc. (“we” “us” “our” “Feral File”) provides you with the terms of our agreement for your work to be exhibited and sold on Feral File.
+Below Feral File Inc. (“we” “us” “our” “Feral File”) provides you with the terms of our agreement for your work to be exhibited and sold on Feral File.
 
 ## Summary of Your Responsibilities:
 
@@ -87,4 +87,3 @@ If you have assigned your rights in your artwork to a company you control, you m
 **Employer (if any):**  
 **Signature:**  
 **Date:**
-

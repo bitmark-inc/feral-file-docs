@@ -10,7 +10,7 @@
 - **Collector**: A recipient (whether an individual or a company) of the License to the Work as documented in the Digital Property and who controls the address on a Public Blockchain to which such Digital Property has been transferred as recorded in the NFT Work.  
 - **Collector’s Rights Disclosure**: The disclosure of any information specific to a Work made available to the Collector prior to the purchase of the Digital Property and License.  
 - **Digital Property**: The identity of a Work and Associated Information recorded together within an NFT Record in a Public Blockchain.  
-- **Feral File**: Bitmark Inc., a Cayman Islands corporation, the owner and operator of Feral File, and Bitmark Inc.’s successors-in-interest, transferees, and assignees.  
+- **Feral File**: Feral File Inc., a Cayman Islands corporation, the owner and operator of Feral File, and Feral File Inc.’s successors-in-interest, transferees, and assignees.  
 - **License**: The license to the Work as set forth in Section 2 of this Agreement.  
 - **Public Blockchain**: A distributed, publicly available registry and ledger system using blockchain technology, which allows holders of an account on such system to create unique records (the NFT Work) to claim access to Works identified in the NFT Work.  
 - **NFT Record**: A unique record created by a Public Blockchain and containing the Digital Property associated with a Work, evidencing its owner’s right to access, download, and display a copy of the associated Work.  

@@ -2,7 +2,7 @@
 
 **\[ARTIST NAME\]**
 
-As we have discussed and as we understand \[PLATFORM\] has discussed with you, in order to preserve the availability of your artwork, \[PLATFORM\] has transferred to Bitmark Inc. (“we” “us” “our” “Feral File”) its rights in the digital artwork you previously transferred to \[PLATFORM\] (the “\[PLATFORM\] Works”), including its rights under the blockchain smart contracts associated with the NFTs of the \[PLATFORM\] Works.
+As we have discussed and as we understand \[PLATFORM\] has discussed with you, in order to preserve the availability of your artwork, \[PLATFORM\] has transferred to Feral File Inc. (“we” “us” “our” “Feral File”) its rights in the digital artwork you previously transferred to \[PLATFORM\] (the “\[PLATFORM\] Works”), including its rights under the blockchain smart contracts associated with the NFTs of the \[PLATFORM\] Works.
 
 In addition to the rights we have received from \[PLATFORM\], we would like to continue to make your artwork available through our platform, Feral File, which consists of an online gallery and a digital wallet with local display functionality.
 

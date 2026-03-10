@@ -2,7 +2,7 @@
 
 **Last Updated: 20-SEP 2024**
 
-Feral File is an online platform for digital art made available by Bitmark Inc. (“Feral File”) to enable artists to display their art and provide a mechanism for artists to sell copies of their art to collectors on standardized terms.
+Feral File is an online platform for digital art made available by Feral File Inc. (“Feral File”) to enable artists to display their art and provide a mechanism for artists to sell copies of their art to collectors on standardized terms.
 
 The following terms and conditions (the “Platform Terms”) are a legal contract between you (“User” as further defined below) and Feral File. By selecting the “agree” or “accept” option or by using the Platform Services that are offered subject to these Service Terms, you are agreeing to be bound by these Service Terms. Please read them carefully before proceeding. Any individual subscribing to or using the Platform Services in the name of or as part of their responsibilities within a company or other organization represents and warrants that they are authorized to and intend by those actions to bind the company or organization to these Platform Terms.
 

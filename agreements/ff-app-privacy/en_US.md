@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Bitmark Inc. (“Bitmark,” “we,” “us,” “our”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information received from users of Bitmark’s Feral File mobile application (the “Application”) and the related hosted data backup service (collectively, the "Services") and the Feral File website (the “Website”).
+Feral File Inc. (“Bitmark,” “we,” “us,” “our”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information received from users of Bitmark’s Feral File mobile application (the “Application”) and the related hosted data backup service (collectively, the "Services") and the Feral File website (the “Website”).
 
 ## Definitions
 

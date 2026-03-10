@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This End User License Agreement (this "Agreement") governs the terms and conditions of your use of the binary version of the software that accompanies this Agreement (the "Software") and is made between you ("you" or "your") and Bitmark Inc. (“Feral File” "we" "us" or "our"). If you are acting on behalf of an entity such as a corporation, partnership, limited liability company, or other entity, "you" refers to the entity, and you represent and warrant that you have power and authority to enter into this Agreement on behalf of the entity.
+This End User License Agreement (this "Agreement") governs the terms and conditions of your use of the binary version of the software that accompanies this Agreement (the "Software") and is made between you ("you" or "your") and Feral File Inc. (“Feral File” "we" "us" or "our"). If you are acting on behalf of an entity such as a corporation, partnership, limited liability company, or other entity, "you" refers to the entity, and you represent and warrant that you have power and authority to enter into this Agreement on behalf of the entity.
 
 By clicking the "Accept" button for this Agreement and/or using the Software, you confirm your acceptance of and agree to be bound by this Agreement. You also agree to our Privacy Policy and the terms for any premium features which we present to you at the time you purchase access to those features.
 

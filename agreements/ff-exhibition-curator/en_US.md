@@ -4,7 +4,7 @@
 
 **\[Curator Name\]:**
 
-Below Bitmark Inc. (“we” “us” “our” “Feral File”) provides you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on **\[MM/YYYY\]** with the responsibilities detailed in *The Curator’s Guide*. There may be other tasks discussed and agreed upon by both parties (Feral File and yourself) over email. Those tasks, once agreed, will be part of this agreement.
+Below Feral File Inc. (“we” “us” “our” “Feral File”) provides you with the terms of our agreement for your work curating a new exhibition on Feral File to be launched on **\[MM/YYYY\]** with the responsibilities detailed in *The Curator’s Guide*. There may be other tasks discussed and agreed upon by both parties (Feral File and yourself) over email. Those tasks, once agreed, will be part of this agreement.
 
 ## Compensation
 

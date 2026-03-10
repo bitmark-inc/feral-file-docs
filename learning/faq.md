@@ -24,7 +24,7 @@ After purchasing a Feral File artwork on another platform, create a Feral File a
 Collectors do not receive any advantage or priority whether they use credit cards or cryptocurrency for payment.
 
 #### I am having issues buying with my credit card. What can I do?
-We use Stripe's Hong Kong division to process credit card payments. As a result, your credit card company may ask you to verify transactions coming from Feral File before authorizing the purchase. You can prevent most issues by letting them know you are making a transaction in Hong Kong.
+We process credit card payments through Stripe in the United States under Feral File Inc. Your card statement may show “FERAL FILE INC” (or a Stripe-formatted variant). Depending on your bank, you may be asked to verify online purchases before authorization. If prompted, please confirm the transaction is from Feral File Inc.
 
 ### Auctions
 
