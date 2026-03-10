@@ -1,6 +1,6 @@
 # Feral File App Data Usage
 
-**Last Updated: 20-SEP 2024**
+**Last Updated: 10-MAR 2026**
 
 ## Why Does Feral File Collect Usage Data?
 
@@ -47,4 +47,3 @@ Absolutely and unconditionally not. We will never sell your data to any third pa
 ## If Feral File’s Servers Get Hacked, Could My Usage Data Be Compromised?
 
 Absolutely not. We will never collect any personally identifiable information about you, such as your name, email address, or geographic location. Your Feral File app subscription information is completely controlled by Apple and Google, and we will never have any access to it. Contributing analytics can in no way put you at personal risk. Since you and only you control the keys to your wallet, no one can ever gain control of your wallet by hacking the Feral File’s servers.
-

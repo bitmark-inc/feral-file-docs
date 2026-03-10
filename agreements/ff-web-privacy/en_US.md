@@ -1,6 +1,6 @@
 # Feral File Web Privacy Policy
 
-**Last Updated: 20-SEP 2024**
+**Last Updated: 10-MAR 2026**
 
 Feral File Inc. (“we” “us” “our” “Feral File”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information received from users of the Feral File website located at the [https://feralfile.com](https://feralfile.com) domain and subdomains (the "Website"). Any terms not defined in this Privacy Policy are defined in the Feral File [Terms of Service](https://feralfile.com/legal/terms-of-service). Please note that this Privacy Policy only applies to this Website and does not apply to the offer of artwork for sale or the purchase of artwork. Information regarding the use and handling of personal information in connection with those activities is contained in the agreements specific to those activities listed [here](https://feralfile.com/legal/terms-artists-and-collectors).
 

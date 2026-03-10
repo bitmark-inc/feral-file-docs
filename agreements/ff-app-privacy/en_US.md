@@ -1,6 +1,6 @@
 # Feral File App Privacy Policy
 
-**Last Updated: 20-SEP 2024**
+**Last Updated: 10-MAR 2026**
 
 ## Introduction
 

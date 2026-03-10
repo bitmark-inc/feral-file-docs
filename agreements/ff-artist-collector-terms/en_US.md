@@ -1,6 +1,6 @@
 # Feral File Platform Terms for Artists and Collectors
 
-**Last Updated: 20-SEP 2024**
+**Last Updated: 10-MAR 2026**
 
 Feral File is an online platform for digital art made available by Feral File Inc. (“Feral File”) to enable artists to display their art and provide a mechanism for artists to sell copies of their art to collectors on standardized terms.
 

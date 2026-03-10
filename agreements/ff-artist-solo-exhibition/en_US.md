@@ -1,6 +1,6 @@
 # Feral File Artist Agreement \- Solo Exhibition
 
-**Last Updated: 20-SEP 2024**
+**Last Updated: 10-MAR 2026**
 
 **\[ARTIST NAME\]**  
 Curator **\[NAME\]** has invited you to a solo exhibition to be opened on Feral File in **\[MONTH/YEAR\]**.
