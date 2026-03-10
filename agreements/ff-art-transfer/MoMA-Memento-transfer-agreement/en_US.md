@@ -4,7 +4,7 @@
 
 **“Associated Information”** means information, other than a Memento, placed in a Public Blockchain.  The minimum Associated Information for a Digital Property containing a Memento is this Agreement, the price or value (as defined below) for each transfer of the Memento, and any commission due to the Artist for each transfer of the Memento after the initial transfer to the first Collector.
 
-**“Bitmark”** means Bitmark, Inc., a Cayman Islands corporation, the owner and operator of Feral File.
+**“Bitmark”** means Bitmark, Inc., a Wyoming corporation, the owner and operator of Feral File.
 
 **“Collector”** means a purchaser or recipient (whether an individual or a company) of the Memento recorded in the Digital Property originating with the Artist, and who is associated with the digital wallet to which such Digital Property has been transferred.
 
