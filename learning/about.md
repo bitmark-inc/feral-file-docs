@@ -15,10 +15,9 @@ Founded in 2020 by artist [Casey Reas](https://reas.com/) and technologist [Sean
 
 At its core, Feral File reimagines the artist–collector relationship for the digital age. Building on the 1971 [*Artist’s Contract*](https://en.wikipedia.org/wiki/The_Artist's_Reserved_Rights_Transfer_and_Sale_Agreement), which shifted power toward artists by reserving their rights after sale, we have adapted its spirit to today. Rights, royalties, and responsibilities are encoded on the blockchain for transparency, building trust and fair support for artists. Beyond protecting artists, this also turns collectors into active stewards, and opens art to broader collaboration.
 
-### FF1 art computer.
+### The Digital Art System.
 
-The [FF1 art computer](https://feralfile.com/display) plays computational art on any screen from playlists that anyone can publish. Powered by the open [DP-1](https://github.com/display-protocol/dp1) protocol (like RSS for art), it finally makes it simple to curate, automate, and share computational art.
-
+The [Digital Art System](https://feralfile.com/system) makes it simple to live with digital art. Start with FF1, our art computer, on the screen you already own, or pair it with FFP, our square matte panel designed for daily viewing. Powered by the open [DP-1](https://github.com/display-protocol/dp1) protocol, it makes it simple to play, curate, and share digital art.
 
 
 ## Highlights from Feral File’s history
