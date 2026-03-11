@@ -49,7 +49,7 @@
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/18d7c767-72e1-4ea9-9f84-7231bb2a32f1",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/cdd1109c-9cd4-4021-ac17-1a9ffabf3d28",
           "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/94989d33-4868-415a-bca7-624a0ec29b84",
-          "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/b9d8f200-80a7-455b-9204-9c31892f5e2d"
+          "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/channels/9a933f01-3b90-497a-8b3f-3a7a631d0817"
         ],
         "feed_cache_duration": "604800",
         "feed_last_updated": "2026-03-10T08:02:00.0Z"
