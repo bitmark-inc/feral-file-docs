@@ -117,11 +117,11 @@
   },
   "app_update": {
     "ios": {
-      "required_version": "1.0.10",
+      "required_version": "1.1.3",
       "link": "https://apps.apple.com/us/app/feral-file-controller/id6755812386"
     },
     "android": {
-      "required_version": "1.0.10",
+      "required_version": "1.1.3",
       "link": "https://play.google.com/store/apps/details?id=com.feralfile.app"
     }
   }
