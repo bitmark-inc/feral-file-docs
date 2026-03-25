@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Feral File Inc. (“Bitmark,” “we,” “us,” “our”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information received from users of Bitmark’s Feral File mobile application (the “Application”) and the related hosted data backup service (collectively, the "Services") and the Feral File website (the “Website”).
+Feral File Inc. (“Feral File,” “we,” “us,” “our”) provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifiable information received from users of Feral File’s mobile application (the “Application”) and the related hosted data backup service (collectively, the "Services") and the Feral File website (the “Website”).
 
 ## Definitions
 
@@ -49,7 +49,7 @@ We take reasonable technical, administrative, and organizational measures to pro
 
 ## Your Rights in Your Data
 
-Bitmark does not collect, process, or disclose your personal information in connection with the Services except as we describe in this Privacy Policy. Under applicable laws of various countries or US States, you may have certain rights concerning your personal information. If you wish to exercise your rights, contact us via email at [support@feralfile.com](mailto:support@feralfile.com), and we will respond with specific instructions to follow.
+Feral File does not collect, process, or disclose your personal information in connection with the Services except as we describe in this Privacy Policy. Under applicable laws of various countries or US States, you may have certain rights concerning your personal information. If you wish to exercise your rights, contact us via email at [support@feralfile.com](mailto:support@feralfile.com), and we will respond with specific instructions to follow.
 
 ## International Transfer
 
@@ -57,7 +57,7 @@ Your information (including personally identifiable information) may be transfer
 
 ## Links to Other Sites
 
-The Website may contain links to other websites ("Linked Sites") operated by Bitmark or third parties. Linked Sites may place their own cookies or other files on your computer, collect data, or solicit personal information from you. Bitmark encourages you to read the privacy policies or statements of other websites you visit.
+The Website may contain links to other websites ("Linked Sites") operated by Feral File or third parties. Linked Sites may place their own cookies or other files on your computer, collect data, or solicit personal information from you. Feral File encourages you to read the privacy policies or statements of other websites you visit.
 
 ## Our Policy Towards Children
 
