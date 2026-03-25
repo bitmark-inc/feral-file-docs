@@ -12,7 +12,7 @@ The Software is independent of our Feral File digital artwork market platform. Y
 
 ## Open Source
 
-The Software is primarily made available under open source licenses. It contains a “Legal Notices” section which lists the open source software licenses for its components, and you may visit [GitHub](https://github.com/feral-file/feralfile-app) for a copy of the source code, which we own and have made available under an open source license. Open source software licenses for the Software source code constitute separate written agreements.
+The Software is primarily made available under open source licenses. It contains a “Legal Notices” section which lists the open source software licenses for its components, and you may visit [GitHub](https://github.com/feral-file/ff-app) for a copy of the source code, which we own and have made available under an open source license. Open source software licenses for the Software source code constitute separate written agreements.
 
 ## Limited Right to Use
 
