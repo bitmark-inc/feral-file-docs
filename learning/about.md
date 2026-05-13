@@ -1,7 +1,7 @@
 ---
 title: "About Feral File: Cultural Institution for Digital Art"
 navTitle: "What is Feral File?"
-description: "Feral File champions computational art for a global audience. As a technology company and cultural institution, we curate exhibitions, build tools like the FF1 art computer, and foster meaningful engagement with digital art."
+description: "Feral File champions computational art for a global audience. As a technology company and cultural institution, we curate exhibitions, build tools like the Art Computer and Art Panel, and foster meaningful engagement with digital art."
 weight: 1
 ---
 
@@ -17,7 +17,7 @@ At its core, Feral File reimagines the artist–collector relationship for the d
 
 ### The Digital Art System.
 
-The [Digital Art System](https://feralfile.com/system) makes it simple to live with digital art. Start with FF1, our art computer, on the screen you already own, or pair it with FFP, our square matte panel designed for daily viewing. Powered by the open [DP-1](https://github.com/display-protocol/dp1) protocol, it makes it simple to play, curate, and share digital art.
+The [Digital Art System](https://feralfile.com/system) makes it simple to live with digital art. Start with the Art Computer on the screen you already own, or pair it with the Art Panel, our square matte panel designed for daily viewing. Powered by the open [DP-1](https://github.com/display-protocol/dp1) protocol, it makes it simple to play, curate, and share digital art.
 
 
 ## Highlights from Feral File’s history
@@ -25,7 +25,7 @@ The [Digital Art System](https://feralfile.com/system) makes it simple to live w
 ### 2025
 
 * In July, [*Console Spirituality*](https://feralfile.com/explore/exhibitions/console-spirituality-m6j), curated by LAN Party (Vienna Kim & Benoît Palop) with Rhizome as program partner, explored gaming as ritual, world-building, and a way to glitch existing systems.  
-* In September, we announced the [FF1 art computer](https://feralfile.com/display), built on FF OS and the DP-1 protocol. FF1 enables anyone (human or AI) to publish playlists and play computational art across screens.
+* In September, we announced the [Art Computer](https://feralfile.com/display), built on FF OS and the DP-1 protocol. The Art Computer enables anyone (human or AI) to publish playlists and play computational art across screens.
 
 ### 2024
 
