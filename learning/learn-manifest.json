@@ -27,13 +27,6 @@
       "title": "FAQ",
       "description": "Learn in-depth how Feral File works.",
       "weight": 4
-    },
-    {
-      "slug": "collector-services",
-      "navTitle": "Collector Services",
-      "title": "Collector Services",
-      "description": "We help collectors live with digital art—through personalized support for acquiring, displaying, and protecting their collections.",
-      "weight": 5
     }
   ]
 }
