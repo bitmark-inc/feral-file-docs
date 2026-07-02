@@ -1,11 +1,11 @@
 ---
-title: "Research"
-navTitle: "Research"
-description: "Through research, Feral File collaborates with artists and institutions to prototype new ways of making, sharing, and experiencing digital art."
+title: "Experiments"
+navTitle: "Experiments"
+description: "Through experiments, Feral File collaborates with artists and institutions to prototype new ways of making, sharing, and experiencing digital art."
 weight: 3
 ---
 
-# Research
+# Experiments
 
 At Feral File, we explore new ways of engaging with digital art—through time-based works, collaborative experiments, and blockchain as a creative medium.
 
