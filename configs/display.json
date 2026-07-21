@@ -1,4 +1,4 @@
 {
   "duration": 3600000,
-  "defaultPlaylistURL": "https://dp1-feed-operator-api-prod.autonomy-system.workers.dev/api/v1/playlists/b64f0a42-f5e5-427c-809d-05031cfc8704"
+  "defaultPlaylistURL": "https://feed.feralfile.com/api/v1/playlists/dd875fbe-d4bb-4d92-a546-da58fdec1f59"
 }
